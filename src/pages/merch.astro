@@ -1,0 +1,179 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Merch" description="Rep The Dad Effect. T-shirts, hoodies, hats, mugs — every purchase supports fatherhood storytelling.">
+  <div class="container">
+    <section class="merch-hero">
+      <h1>Dad Gear</h1>
+      <p class="tagline">Wear the mark. Every purchase supports fatherhood storytelling.</p>
+    </section>
+
+    <section class="merch-store">
+      <div class="store-embed">
+        <div class="merch-grid">
+          <div class="merch-card">
+            <div class="merch-icon">👕</div>
+            <h3>T-Shirts</h3>
+            <p>Premium cotton tees with Dad Effect designs. Soft enough for 3 AM diaper runs.</p>
+            <span class="price">From $24.99</span>
+          </div>
+          <div class="merch-card">
+            <div class="merch-icon">🧢</div>
+            <h3>Dad Hats</h3>
+            <p>Classic dad hats. Because of course we have dad hats.</p>
+            <span class="price">From $22.99</span>
+          </div>
+          <div class="merch-card">
+            <div class="merch-icon">☕</div>
+            <h3>Mugs</h3>
+            <p>For the coffee that keeps dads going. Dishwasher safe, kid-proof (mostly).</p>
+            <span class="price">From $14.99</span>
+          </div>
+          <div class="merch-card">
+            <div class="merch-icon">🧥</div>
+            <h3>Hoodies</h3>
+            <p>Cozy hoodies for dad mode. Perfect for sideline duty and school pickup.</p>
+            <span class="price">From $44.99</span>
+          </div>
+        </div>
+
+        <div class="store-cta">
+          <a href="https://thedadeffect.printful.me" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
+            Shop Now →
+          </a>
+          <p class="store-note">Powered by Printful • Free shipping on orders over $75 • Print-on-demand — made just for you</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="merch-why">
+      <h2>Why Dad Gear?</h2>
+      <div class="why-grid">
+        <div class="why-card">
+          <h3>🎯 Quality First</h3>
+          <p>Premium materials, ethically sourced. Every piece is printed on demand — no waste, no sweatshops.</p>
+        </div>
+        <div class="why-card">
+          <h3>📖 Support Stories</h3>
+          <p>Every purchase helps us keep telling fatherhood stories that matter. History, heart, and hard truths.</p>
+        </div>
+        <div class="why-card">
+          <h3>🚚 Ships Worldwide</h3>
+          <p>Made in the USA, shipped globally. Your dad gear arrives in 3-7 business days.</p>
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .merch-hero {
+    text-align: center;
+    padding: 4rem 0 2rem;
+  }
+
+  .merch-hero h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .merch-hero .tagline {
+    font-size: 1.25rem;
+    color: var(--text-muted, #6b7280);
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .merch-store {
+    padding: 2rem 0 3rem;
+  }
+
+  .merch-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .merch-card {
+    background: var(--card-bg, #1a1a2e);
+    border: 1px solid var(--border, #2a2a3e);
+    border-radius: 12px;
+    padding: 2rem;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .merch-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  }
+
+  .merch-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .merch-card h3 {
+    margin-bottom: 0.5rem;
+  }
+
+  .merch-card p {
+    color: var(--text-muted, #6b7280);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .price {
+    font-weight: 700;
+    color: var(--accent, #f59e0b);
+    font-size: 1.1rem;
+  }
+
+  .store-cta {
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  .btn-lg {
+    font-size: 1.25rem;
+    padding: 1rem 2.5rem;
+  }
+
+  .store-note {
+    margin-top: 1rem;
+    color: var(--text-muted, #6b7280);
+    font-size: 0.85rem;
+  }
+
+  .merch-why {
+    padding: 3rem 0;
+    border-top: 1px solid var(--border, #2a2a3e);
+  }
+
+  .merch-why h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .why-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .why-card {
+    text-align: center;
+    padding: 1.5rem;
+  }
+
+  .why-card h3 {
+    margin-bottom: 0.5rem;
+  }
+
+  .why-card p {
+    color: var(--text-muted, #6b7280);
+    font-size: 0.9rem;
+  }
+</style>
