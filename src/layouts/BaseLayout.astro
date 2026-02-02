@@ -1,0 +1,53 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Stories of fathers who shaped history — and the ones shaping tomorrow.' } = Astro.props;
+const siteTitle = 'The Dad Effect';
+const pageTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{pageTitle}</title>
+  <meta name="description" content={description} />
+  <meta name="author" content="TheDadEffect" />
+  <meta property="og:title" content={pageTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={Astro.url} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@DadEffect" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="site-logo">The Dad Effect</a>
+      <nav class="site-nav">
+        <a href="/stories/">Stories</a>
+        <a href="/about/">About</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <slot />
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; {new Date().getFullYear()} The Dad Effect. Every father leaves a mark.</p>
+      <div class="social-links">
+        <a href="https://x.com/DadEffect" target="_blank" rel="noopener">𝕏 @DadEffect</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

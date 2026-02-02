@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const stories = (await getCollection('stories'))
+  .filter(story => !story.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout title="The Dad Effect">
+  <div class="container">
+    <section class="hero">
+      <h1>The Dad Effect</h1>
+      <p class="tagline">Every father leaves a mark. Some echo for generations.</p>
+      <p class="hero-desc">
+        Stories of dads who changed the world — and the everyday heroes who change
+        diapers at 3 AM. History, heart, and the occasional hard truth about what
+        it means to be a father.
+      </p>
+      <div class="hero-cta">
+        <a href="/stories/" class="btn btn-primary">Read Stories</a>
+        <a href="https://x.com/DadEffect" class="btn btn-secondary" target="_blank">
+          Follow @DadEffect
+        </a>
+      </div>
+    </section>
+
+    <section class="latest-stories">
+      <h2 class="section-label">Latest Stories</h2>
+      <div class="story-grid">
+        {stories.slice(0, 6).map((story) => (
+          <article class="story-card">
+            <a href={`/stories/${story.id}/`}>
+              <div class="story-meta">
+                <time datetime={story.data.pubDate.toISOString()}>
+                  {story.data.pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                </time>
+                {story.data.categories[0] && (
+                  <span class="category">{story.data.categories[0]}</span>
+                )}
+              </div>
+              <h3>{story.data.title}</h3>
+              <p>{story.data.description}</p>
+            </a>
+          </article>
+        ))}
+      </div>
+      {stories.length > 6 && (
+        <div class="view-all">
+          <a href="/stories/" class="btn btn-secondary">View All Stories →</a>
+        </div>
+      )}
+    </section>
+  </div>
+</BaseLayout>
