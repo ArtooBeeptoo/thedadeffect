@@ -11,30 +11,39 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     <section class="merch-store">
       <div class="store-embed">
+        <h2 class="section-label">Featured</h2>
+        <div class="merch-grid">
+          <div class="merch-card product-card">
+            <a href="https://thedadeffect.printful.me" target="_blank" rel="noopener">
+              <img src="/merch/sunset-walk-model.jpg" alt="The Dad Effect — Sunset Walk tee" class="product-img" />
+              <h3>Sunset Walk</h3>
+              <p>A father. A child. An open road. Bella + Canvas 3001 premium tee.</p>
+              <span class="price">$28.99</span>
+            </a>
+          </div>
+          <div class="merch-card product-card">
+            <a href="https://thedadeffect.printful.me" target="_blank" rel="noopener">
+              <img src="/merch/sunset-walk-flat.jpg" alt="The Dad Effect — Sunset Walk flat view" class="product-img" />
+              <h3>Sunset Walk — Flat View</h3>
+              <p>DTG printed on black Bella + Canvas 3001. Sizes S–2XL.</p>
+              <span class="price">$28.99</span>
+            </a>
+          </div>
+        </div>
+
+        <h2 class="section-label" style="margin-top:3rem;">Coming Soon</h2>
         <div class="merch-grid">
           <div class="merch-card">
             <div class="merch-icon">👕</div>
-            <h3>T-Shirts</h3>
-            <p>Premium cotton tees with Dad Effect designs. Soft enough for 3 AM diaper runs.</p>
-            <span class="price">From $24.99</span>
+            <h3>Raising Legends</h3>
+            <p>For dads building the next generation. Premium tee, coming soon.</p>
+            <span class="price">Coming Soon</span>
           </div>
           <div class="merch-card">
-            <div class="merch-icon">🧢</div>
-            <h3>Dad Hats</h3>
-            <p>Classic dad hats. Because of course we have dad hats.</p>
-            <span class="price">From $22.99</span>
-          </div>
-          <div class="merch-card">
-            <div class="merch-icon">☕</div>
-            <h3>Mugs</h3>
-            <p>For the coffee that keeps dads going. Dishwasher safe, kid-proof (mostly).</p>
-            <span class="price">From $14.99</span>
-          </div>
-          <div class="merch-card">
-            <div class="merch-icon">🧥</div>
-            <h3>Hoodies</h3>
-            <p>Cozy hoodies for dad mode. Perfect for sideline duty and school pickup.</p>
-            <span class="price">From $44.99</span>
+            <div class="merch-icon">👕</div>
+            <h3>Every Father</h3>
+            <p>Every father leaves a mark. Some echo for generations.</p>
+            <span class="price">Coming Soon</span>
           </div>
         </div>
 
@@ -110,9 +119,28 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
   }
 
+  .product-card a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .product-img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    aspect-ratio: 1;
+    object-fit: cover;
+  }
+
   .merch-icon {
     font-size: 3rem;
     margin-bottom: 1rem;
+  }
+
+  .section-label {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: var(--accent, #f59e0b);
   }
 
   .merch-card h3 {
