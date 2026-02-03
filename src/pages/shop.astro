@@ -1,0 +1,370 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const products = [
+  {
+    name: 'Sunset Walk',
+    slug: 'sunset-walk',
+    description: 'A father. A child. An open road. Premium Bella + Canvas 3001 tee. DTG printed on black.',
+    price: '$28.99',
+    sizes: ['S', 'M', 'L', 'XL', '2XL'],
+    image: '/merch/sunset-walk-model.jpg',
+    imageAlt: '/merch/sunset-walk-flat.jpg',
+    featured: true,
+  },
+  {
+    name: 'Raising Legends',
+    slug: 'raising-legends',
+    description: 'For dads building the next generation. Premium Bella + Canvas 3001 tee. DTG printed on black.',
+    price: '$28.99',
+    sizes: ['S', 'M', 'L', 'XL', '2XL'],
+    image: '/merch/raising-legends-model.jpg',
+    imageAlt: '/merch/raising-legends-flat.jpg',
+    featured: false,
+  },
+  {
+    name: 'Every Father',
+    slug: 'every-father',
+    description: 'Every father leaves a mark. Some echo for generations. Premium Bella + Canvas 3001 tee.',
+    price: '$28.99',
+    sizes: ['S', 'M', 'L', 'XL', '2XL'],
+    image: '/merch/every-father-model.jpg',
+    imageAlt: '/merch/every-father-flat.jpg',
+    featured: false,
+  },
+];
+
+const comingSoon = [
+  { name: 'Dad Effect Hoodie', emoji: '🧥', desc: 'Premium heavyweight hoodie for cold mornings and school drop-offs.' },
+  { name: 'Legacy Cap', emoji: '🧢', desc: 'Structured snapback. Clean lines. Dad-tested.' },
+  { name: 'Coffee Mug', emoji: '☕', desc: '15oz ceramic mug. Because dads run on coffee and determination.' },
+];
+
+const API_URL = 'https://stripe-printful-bridge.artoobeeptoo.workers.dev';
+---
+
+<BaseLayout title="Dad Swag" description="Shop The Dad Effect. Premium tees, hoodies, and gear — every purchase supports fatherhood storytelling.">
+  <div class="container">
+
+    <!-- Thank You Banner (shown after checkout) -->
+    <div class="thank-you-banner" id="thankYouBanner" style="display:none;">
+      <div class="thank-you-inner">
+        <span class="thank-you-icon">🎉</span>
+        <div>
+          <h3>Thank you for your order!</h3>
+          <p>Your gear is on its way. You just supported fatherhood storytelling.</p>
+        </div>
+        <button class="thank-you-close" id="thankYouClose" aria-label="Close">&times;</button>
+      </div>
+    </div>
+
+    <!-- Test Mode Badge -->
+    <div class="test-mode-badge">
+      <span>🧪 TEST MODE</span> — Stripe checkout is in test mode. No real charges.
+    </div>
+
+    <section class="shop-hero">
+      <h1>Dad Swag</h1>
+      <p class="tagline">Wear the mark. Every purchase supports fatherhood storytelling.</p>
+    </section>
+
+    <!-- Featured Product -->
+    <section class="shop-featured">
+      <h2 class="section-label">⭐ Featured</h2>
+      {products.filter(p => p.featured).map(product => (
+        <div class="featured-card">
+          <div class="featured-images">
+            <img src={product.image} alt={`${product.name} tee — model view`} class="featured-img primary" />
+            <img src={product.imageAlt} alt={`${product.name} tee — flat lay`} class="featured-img secondary" />
+          </div>
+          <div class="featured-info">
+            <h3>{product.name}</h3>
+            <p class="featured-desc">{product.description}</p>
+            <div class="featured-meta">
+              <span class="price">{product.price}</span>
+              <span class="sizes-label">+ $4.99 shipping</span>
+            </div>
+            <ul class="product-features">
+              <li>✦ Bella + Canvas 3001 — retail fit</li>
+              <li>✦ 100% combed ringspun cotton</li>
+              <li>✦ DTG printed for rich detail</li>
+              <li>✦ Ships in 3-7 business days</li>
+            </ul>
+            <div class="buy-controls">
+              <select class="size-select" data-product={product.slug} aria-label="Select size">
+                <option value="">Select Size</option>
+                {product.sizes.map(s => <option value={s}>{s}</option>)}
+              </select>
+              <button class="btn btn-buy btn-primary" data-product={product.slug} disabled>
+                Buy Now — {product.price}
+              </button>
+            </div>
+          </div>
+        </div>
+      ))}
+    </section>
+
+    <!-- All Products Grid -->
+    <section class="shop-products">
+      <h2 class="section-label">All Designs</h2>
+      <div class="products-grid">
+        {products.map(product => (
+          <div class="product-card">
+            <div class="product-image-wrap">
+              <img src={product.image} alt={`${product.name} tee`} class="product-img" loading="lazy" />
+            </div>
+            <div class="product-info">
+              <h3>{product.name}</h3>
+              <p>{product.description}</p>
+              <div class="product-meta">
+                <span class="price">{product.price}</span>
+                <span class="sizes-label">S – 2XL</span>
+              </div>
+              <div class="buy-controls">
+                <select class="size-select" data-product={product.slug} aria-label="Select size">
+                  <option value="">Size</option>
+                  {product.sizes.map(s => <option value={s}>{s}</option>)}
+                </select>
+                <button class="btn btn-buy" data-product={product.slug} disabled>
+                  Buy Now →
+                </button>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Coming Soon -->
+    <section class="shop-coming-soon">
+      <h2 class="section-label">Coming Soon</h2>
+      <div class="coming-soon-grid">
+        {comingSoon.map(item => (
+          <div class="coming-soon-card">
+            <span class="coming-soon-emoji">{item.emoji}</span>
+            <h3>{item.name}</h3>
+            <p>{item.desc}</p>
+            <span class="coming-soon-badge">Coming Soon</span>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Shipping & Info -->
+    <section class="shop-info">
+      <div class="info-grid">
+        <div class="info-card">
+          <h3>🎯 Quality First</h3>
+          <p>Premium Bella + Canvas blanks. Ethically sourced. Every piece is printed on demand — no waste.</p>
+        </div>
+        <div class="info-card">
+          <h3>📖 Support Stories</h3>
+          <p>Every purchase helps us keep telling fatherhood stories that matter. History, heart, and hard truths.</p>
+        </div>
+        <div class="info-card">
+          <h3>🚚 Fast Shipping</h3>
+          <p>Fulfilled by Printful. Made in the USA, shipped globally. 3-7 business days. $4.99 flat rate.</p>
+        </div>
+        <div class="info-card">
+          <h3>🔒 Secure Checkout</h3>
+          <p>Payments processed by Stripe. Your data is encrypted end-to-end. We never see your card details.</p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script define:vars={{ API_URL }}>
+    // Thank-you banner
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('thanks') === '1') {
+      const banner = document.getElementById('thankYouBanner');
+      if (banner) banner.style.display = 'block';
+      window.history.replaceState({}, '', window.location.pathname);
+    }
+    document.getElementById('thankYouClose')?.addEventListener('click', () => {
+      document.getElementById('thankYouBanner').style.display = 'none';
+    });
+
+    // Size selects enable buy buttons
+    document.querySelectorAll('.size-select').forEach(select => {
+      select.addEventListener('change', () => {
+        const slug = select.dataset.product;
+        // Enable all buy buttons for this product
+        document.querySelectorAll(`.btn-buy[data-product="${slug}"]`).forEach(btn => {
+          btn.disabled = !select.value;
+        });
+        // Sync all size selects for the same product
+        document.querySelectorAll(`.size-select[data-product="${slug}"]`).forEach(other => {
+          if (other !== select) other.value = select.value;
+        });
+      });
+    });
+
+    // Buy buttons → checkout
+    document.querySelectorAll('.btn-buy').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const slug = btn.dataset.product;
+        const sizeSelect = document.querySelector(`.size-select[data-product="${slug}"]`);
+        const size = sizeSelect?.value;
+        if (!size) { alert('Please select a size'); return; }
+
+        btn.disabled = true;
+        btn.textContent = 'Loading...';
+
+        try {
+          const resp = await fetch(`${API_URL}/api/checkout`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ product: slug, size }),
+          });
+          const data = await resp.json();
+          if (data.url) {
+            window.location.href = data.url;
+          } else {
+            alert(data.error || 'Something went wrong. Please try again.');
+            btn.disabled = false;
+            btn.textContent = 'Buy Now →';
+          }
+        } catch (err) {
+          alert('Connection error. Please try again.');
+          btn.disabled = false;
+          btn.textContent = 'Buy Now →';
+        }
+      });
+    });
+  </script>
+</BaseLayout>
+
+<style>
+  /* Test Mode Badge */
+  .test-mode-badge {
+    background: #fef3cd;
+    color: #856404;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 0.85rem;
+    margin-top: 1rem;
+  }
+  .test-mode-badge span { font-weight: 700; }
+
+  /* Thank You Banner */
+  .thank-you-banner {
+    background: linear-gradient(135deg, #065f46, #047857);
+    border-radius: 12px;
+    margin-top: 1.5rem;
+    padding: 1.25rem 1.5rem;
+    animation: slideDown 0.4s ease;
+  }
+  @keyframes slideDown {
+    from { opacity: 0; transform: translateY(-12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .thank-you-inner { display: flex; align-items: center; gap: 1rem; }
+  .thank-you-icon { font-size: 2rem; flex-shrink: 0; }
+  .thank-you-inner h3 { margin: 0 0 0.25rem; color: #ecfdf5; }
+  .thank-you-inner p { margin: 0; color: #a7f3d0; font-size: 0.9rem; }
+  .thank-you-close {
+    background: none; border: none; color: #a7f3d0;
+    font-size: 1.5rem; cursor: pointer; margin-left: auto; padding: 0.25rem 0.5rem;
+  }
+  .thank-you-close:hover { color: #ecfdf5; }
+
+  /* Hero */
+  .shop-hero { text-align: center; padding: 3rem 0 2rem; }
+  .shop-hero h1 { font-size: 2.75rem; margin-bottom: 0.5rem; }
+  .shop-hero .tagline {
+    font-size: 1.2rem; color: var(--text-muted, #6b7280);
+    max-width: 480px; margin: 0 auto;
+  }
+
+  .section-label {
+    text-align: center; margin-bottom: 1.5rem;
+    color: var(--accent, #f59e0b); font-size: 1.5rem;
+  }
+
+  /* Featured */
+  .shop-featured { padding: 2rem 0; }
+  .featured-card {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem;
+    background: var(--card-bg, #1a1a2e); border: 1px solid var(--border, #2a2a3e);
+    border-radius: 16px; padding: 2rem; align-items: center;
+  }
+  .featured-images { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  .featured-img { width: 100%; border-radius: 12px; aspect-ratio: 1; object-fit: cover; }
+  .featured-info h3 { font-size: 2rem; margin-bottom: 0.5rem; }
+  .featured-desc { color: var(--text-muted, #6b7280); font-size: 1.05rem; margin-bottom: 1rem; }
+  .featured-meta { display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem; }
+  .product-features { list-style: none; padding: 0; margin-bottom: 1.5rem; }
+  .product-features li { color: var(--text-muted, #6b7280); font-size: 0.9rem; padding: 0.25rem 0; }
+
+  /* Buy Controls */
+  .buy-controls { display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap; }
+  .size-select {
+    padding: 0.65rem 1rem; border-radius: 8px; font-size: 0.95rem;
+    background: var(--card-bg, #111); color: var(--text, #e5e7eb);
+    border: 1px solid var(--border, #2a2a3e); cursor: pointer;
+    min-width: 100px;
+  }
+  .size-select:focus { outline: 2px solid var(--accent, #f59e0b); outline-offset: 2px; }
+
+  /* Products Grid */
+  .shop-products { padding: 3rem 0; }
+  .products-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
+  .product-card {
+    background: var(--card-bg, #1a1a2e); border: 1px solid var(--border, #2a2a3e);
+    border-radius: 12px; overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .product-card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(0,0,0,0.3); }
+  .product-image-wrap { overflow: hidden; }
+  .product-img { width: 100%; aspect-ratio: 1; object-fit: cover; transition: transform 0.3s; }
+  .product-card:hover .product-img { transform: scale(1.05); }
+  .product-info { padding: 1.25rem 1.5rem 1.5rem; }
+  .product-info h3 { font-size: 1.25rem; margin-bottom: 0.5rem; }
+  .product-info p { color: var(--text-muted, #6b7280); font-size: 0.9rem; margin-bottom: 0.75rem; line-height: 1.5; }
+  .product-meta { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; }
+  .price { font-weight: 700; color: var(--accent, #f59e0b); font-size: 1.25rem; }
+  .sizes-label { color: var(--text-muted, #6b7280); font-size: 0.85rem; }
+
+  /* Buy Button */
+  .btn-buy {
+    display: inline-block; text-align: center; padding: 0.75rem 1.5rem;
+    background: var(--accent, #f59e0b); color: #000; font-weight: 700;
+    border-radius: 8px; text-decoration: none; border: none; cursor: pointer;
+    transition: background 0.2s, transform 0.1s; font-size: 1rem; flex: 1;
+  }
+  .btn-buy:hover:not(:disabled) { background: #d97706; transform: translateY(-1px); }
+  .btn-buy:active:not(:disabled) { transform: translateY(0); }
+  .btn-buy:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  /* Coming Soon */
+  .shop-coming-soon { padding: 3rem 0; border-top: 1px solid var(--border, #2a2a3e); }
+  .coming-soon-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem; }
+  .coming-soon-card {
+    background: var(--card-bg, #1a1a2e); border: 1px solid var(--border, #2a2a3e);
+    border-radius: 12px; padding: 2rem; text-align: center; opacity: 0.7;
+  }
+  .coming-soon-emoji { font-size: 3rem; display: block; margin-bottom: 0.75rem; }
+  .coming-soon-card h3 { margin-bottom: 0.5rem; }
+  .coming-soon-card p { color: var(--text-muted, #6b7280); font-size: 0.9rem; margin-bottom: 1rem; }
+  .coming-soon-badge {
+    display: inline-block; padding: 0.25rem 0.75rem; background: var(--border, #2a2a3e);
+    border-radius: 20px; font-size: 0.75rem; color: var(--text-muted, #6b7280);
+    text-transform: uppercase; letter-spacing: 0.05em;
+  }
+
+  /* Info */
+  .shop-info { padding: 3rem 0; border-top: 1px solid var(--border, #2a2a3e); }
+  .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem; }
+  .info-card { text-align: center; padding: 1.5rem; }
+  .info-card h3 { margin-bottom: 0.5rem; }
+  .info-card p { color: var(--text-muted, #6b7280); font-size: 0.9rem; }
+
+  @media (max-width: 768px) {
+    .featured-card { grid-template-columns: 1fr; }
+    .shop-hero h1 { font-size: 2rem; }
+    .featured-info h3 { font-size: 1.5rem; }
+    .buy-controls { flex-direction: column; }
+    .size-select { width: 100%; }
+  }
+</style>

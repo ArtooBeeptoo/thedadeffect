@@ -1,0 +1,11 @@
+name = "stripe-printful-bridge"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+PRINTFUL_STORE_ID = "17651668"
+
+# Secrets (set via `wrangler secret put`):
+# - STRIPE_SECRET_KEY
+# - STRIPE_WEBHOOK_SECRET
+# - PRINTFUL_API_TOKEN

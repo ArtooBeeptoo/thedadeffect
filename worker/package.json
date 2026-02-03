@@ -1,0 +1,13 @@
+{
+  "name": "stripe-printful-bridge",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "stripe": "^14.0.0",
+    "axios": "^1.6.0"
+  },
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  }
+}
