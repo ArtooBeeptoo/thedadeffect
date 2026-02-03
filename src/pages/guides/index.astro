@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const guides = (await getCollection('guides'))
+  .filter(guide => !guide.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const categoryOrder = ['Pregnancy for Dads', 'New Dad Survival Guide', 'Gift Guides'];
+const grouped = new Map<string, typeof guides>();
+
+for (const guide of guides) {
+  const cat = guide.data.categories?.[0] || 'General';
+  if (!grouped.has(cat)) grouped.set(cat, []);
+  grouped.get(cat)!.push(guide);
+}
+---
+
+<BaseLayout title="Dad Guides" description="Real advice for real dads. From pregnancy to first diaper to gifts he'll actually want.">
+  <div class="container">
+    <section class="list-page">
+      <h1>Dad Guides</h1>
+      <p style="color: var(--text-muted); margin-bottom: 2rem;">
+        Real advice for real dads. No judgment, no lectures — just the stuff you actually need to know.
+      </p>
+
+      {categoryOrder.map((cat) => {
+        const items = grouped.get(cat);
+        if (!items || items.length === 0) return null;
+        return (
+          <div style="margin-bottom: 3rem;">
+            <h2 class="section-label" style="text-align:left; margin-bottom:1rem;">{cat}</h2>
+            <div class="story-grid">
+              {items.map((guide) => (
+                <article class="story-card">
+                  <a href={`/guides/${guide.id}/`}>
+                    <div class="story-meta">
+                      <time datetime={guide.data.pubDate.toISOString()}>
+                        {guide.data.pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                      </time>
+                      <span class="category">{guide.data.categories[0]}</span>
+                    </div>
+                    <h3>{guide.data.title}</h3>
+                    <p>{guide.data.description}</p>
+                  </a>
+                </article>
+              ))}
+            </div>
+          </div>
+        );
+      })}
+
+      {guides.length === 0 && (
+        <div style="text-align:center; padding: 4rem 0; color: var(--text-muted);">
+          <p style="font-size: 1.25rem;">First guides dropping soon. Follow @DadEffect for updates.</p>
+          <a href="https://x.com/DadEffect" class="btn btn-primary" target="_blank" style="margin-top:1rem;">
+            Follow @DadEffect
+          </a>
+        </div>
+      )}
+    </section>
+  </div>
+</BaseLayout>

@@ -1,0 +1,57 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  guide: CollectionEntry<'guides'>;
+}
+
+const { guide } = Astro.props;
+const { title, description, pubDate, categories, tags } = guide.data;
+
+function readingTime(text: string): number {
+  return Math.ceil(text.split(/\s+/).length / 200);
+}
+---
+
+<BaseLayout title={`${title} | Dad Guides`} description={description}>
+  <div class="container">
+    <article class="single-story">
+      <header class="story-header">
+        <div class="story-meta">
+          <time datetime={pubDate.toISOString()}>
+            {pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </time>
+          {categories.map((cat: string) => (
+            <span class="category">{cat}</span>
+          ))}
+          <span class="reading-time">{readingTime(guide.body || '')} min read</span>
+        </div>
+        <h1>{title}</h1>
+        {description && <p class="subtitle">{description}</p>}
+      </header>
+      <div class="prose">
+        <slot />
+      </div>
+      <footer class="story-footer">
+        {tags.length > 0 && (
+          <div class="tags">
+            {tags.map((tag: string) => (
+              <span class="tag">#{tag}</span>
+            ))}
+          </div>
+        )}
+        <div class="share-story">
+          <p>Know a dad who needs this? Send it his way.</p>
+          <a
+            href={`https://x.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(Astro.url.href)}&via=DadEffect`}
+            target="_blank"
+            class="btn btn-secondary"
+          >
+            Share on 𝕏
+          </a>
+        </div>
+      </footer>
+    </article>
+  </div>
+</BaseLayout>
