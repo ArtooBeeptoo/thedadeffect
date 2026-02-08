@@ -42,3 +42,8 @@ There's just a dad. Showing up. Again. And again. And again.
 And his daughter noticed.
 
 That's the whole secret.
+
+
+---
+
+**📚 Want to go deeper?** Check out our full [Books Every Dad Should Read](/guides/books-every-dad-should-read) list. /home/cajo521/thedadeffect/src/content/stories/cato-the-elder-roman-father-who-shaped-a-republic.md /home/cajo521/thedadeffect/src/content/stories/miyamoto-musashi-the-lone-samurai-who-chose-fatherhood.md /home/cajo521/thedadeffect/src/content/stories/jeffrey-diaz-navy-father-hawaii-2025.md /home/cajo521/thedadeffect/src/content/stories/carl-albert-when-paternal-influence-turns-dark.md /home/cajo521/thedadeffect/src/content/stories/kusunoki-masashige-14th-century-japan.md /home/cajo521/thedadeffect/src/content/stories/henry-viii-the-father-who-devoured-his-family.md /home/cajo521/thedadeffect/src/content/stories/david-dennis-kentucky-firefighter-father-of-seven-2025.md /home/cajo521/thedadeffect/src/content/stories/confucius-and-the-art-of-teaching-your-son.md /home/cajo521/thedadeffect/src/content/stories/lbj-father-sam-johnson.md /home/cajo521/thedadeffect/src/content/stories/web-du-bois-and-the-passing-of-his-son.md
