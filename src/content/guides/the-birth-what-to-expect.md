@@ -146,11 +146,11 @@ You've got this.
 
 ## Recommended Reading
 
-**[The Birth Partner: A Complete Guide to Childbirth for Dads, Doulas, and All Other Labor Companions](https://bookshop.org/p/books/thebirthpartner)** by Penny Simkin — The essential guide for understanding labor, medical procedures, and how to provide effective emotional and physical support during birth.
+**[The Birth Partner: A Complete Guide to Childbirth for Dads, Doulas, and All Other Labor Companions](https://bookshop.org/a/121065/9781558329102)** by Penny Simkin — The essential guide for understanding labor, medical procedures, and how to provide effective emotional and physical support during birth.
 
 **[Ina May's Guide to Childbirth](https://amazon.com/dp/0307382276)** by Ina May Gaskin — While focused on natural birth, this book provides empowering information about the birth process that helps all fathers understand the physiology of labor.
 
-**[Expecting Better: How to Make Smart Decisions About Pregnancy in the Age of Information Overload](https://bookshop.org/p/books/expectingbetter)** by Emily Oster — Uses data to demystify common pregnancy and birth decisions, helping dads understand the evidence behind medical interventions.
+**[Expecting Better: How to Make Smart Decisions About Pregnancy in the Age of Information Overload](https://bookshop.org/a/121065/9780143125709)** by Emily Oster — Uses data to demystify common pregnancy and birth decisions, helping dads understand the evidence behind medical interventions.
 
 **[The Doula Guide to Birth: Secrets to a Shorter, Easier, and Healthier Birth](https://amazon.com/dp/030734157X)** by Anja Heath — Professional doulas share their wisdom on birth preparation, labor support techniques, and navigating the hospital system.
 

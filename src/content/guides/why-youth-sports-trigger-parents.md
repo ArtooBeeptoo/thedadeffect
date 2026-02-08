@@ -84,9 +84,9 @@ But that's also kind of the point.
 
 ## Gear That Actually Helps
 
-**[The Champion's Mind: How Great Athletes Think, Train, and Thrive](https://bookshop.org/p/books/thechampionsmind)** by Jim Afremow — Sports psychology techniques to help you support your child's mental approach to sports and competition.
+**[The Champion's Mind: How Great Athletes Think, Train, and Thrive](https://bookshop.org/a/121065/9781623365578)** by Jim Afremow — Sports psychology techniques to help you support your child's mental approach to sports and competition.
 
-**[Every Moment Matters: How to Live a More Connected, Present Life](https://bookshop.org/p/books/everymomentmatters)** by Jonathan Jenkins — Written by the sports psychologist featured in this episode, this book helps parents make the most of every moment with their children.
+**[Every Moment Matters: How to Live a More Connected, Present Life](https://bookshop.org/a/121065/9781734290608)** by Jonathan Jenkins — Written by the sports psychologist featured in this episode, this book helps parents make the most of every moment with their children.
 
 **[The Sports Parenting Edge: Expert Advice on Raising Young Champions](https://amazon.com/dp/1605505708)** by Eric Anderson — Practical guidance on how to be an effective sports parent without being that crazy person on the sideline.
 
