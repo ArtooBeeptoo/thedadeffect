@@ -47,6 +47,16 @@ These are the things that will make you a hero during labor and delivery:
 
 **You're going to be a dad.** This is the moment it all becomes real. Get ready for the biggest adventure of your life.
 
+## Recommended Reading
+
+**[The Expectant Father: Facts, Tips, and Advice for Dads-to-Be](https://bookshop.org/p/books/theexpectantfather)** by Armin Brott — The ultimate guide for dads navigating pregnancy with practical advice for each trimester and birth preparation.
+
+**[Dude, You're Gonna Be a Dad!](https://bookshop.org/p/books/dudeyouregonnabeada)** by John Pfeiffer — A humorous yet comprehensive handbook that covers everything from pregnancy to the first year of fatherhood with guy-friendly advice.
+
+**[We're Pregnant! The First Time Dad's Pregnancy Handbook](https://bookshop.org/p/books/werepregnant)** by Adrian Kulp — Specifically written for first-time fathers with month-by-month guidance on what to expect and how to support your partner.
+
+**[The Birth Partner: A Complete Guide to Childbirth for Dads, Doulas, and All Other Labor Companions](https://amazon.com/dp/0738215252)** by Penny Simkin — The go-to resource for understanding the labor process and how to be an effective support person during delivery.
+
 ## What to Read Next
 
 This is Part of our Pregnancy for Dads series. Check out:

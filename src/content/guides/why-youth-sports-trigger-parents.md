@@ -82,6 +82,16 @@ Youth sports aren't supposed to be easy for parents. They're supposed to crack y
 
 But that's also kind of the point.
 
+## Gear That Actually Helps
+
+**[The Champion's Mind: How Great Athletes Think, Train, and Thrive](https://bookshop.org/p/books/thechampionsmind)** by Jim Afremow — Sports psychology techniques to help you support your child's mental approach to sports and competition.
+
+**[Every Moment Matters: How to Live a More Connected, Present Life](https://bookshop.org/p/books/everymomentmatters)** by Jonathan Jenkins — Written by the sports psychologist featured in this episode, this book helps parents make the most of every moment with their children.
+
+**[The Sports Parenting Edge: Expert Advice on Raising Young Champions](https://amazon.com/dp/1605505708)** by Eric Anderson — Practical guidance on how to be an effective sports parent without being that crazy person on the sideline.
+
+**[Grit: The Power of Passion and Perseverance](https://amazon.com/dp/1501111105)** by Angela Duckworth — The essential read on building resilience in kids, helping them develop the character traits that will serve them both in sports and life.
+
 ---
 
 ## 🎙️ Required Listening

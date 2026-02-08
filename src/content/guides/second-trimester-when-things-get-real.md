@@ -133,6 +133,16 @@ You're doing this, man. And you're doing it well.
 
 ---
 
+## Recommended Reading
+
+**[The New Father: A Dad's Guide to the First Year](https://bookshop.org/p/books/thenewfather)** by Armin Brott — Follows the first year of fatherhood with month-by-month guidance on baby development and dad-specific challenges.
+
+**[Cribsheet: A Data-Driven Guide to Better, More Relatable Parenting](https://bookshop.org/p/books/cribsheet)** by Emily Oster — Uses research to debunk common parenting myths, making it perfect for analytical dads who want evidence-based advice.
+
+**[The Expectant Father: Facts, Tips, and Advice for Dads-to-Be](https://bookshop.org/p/books/theexpectantfather)** by Armin Brott — A comprehensive guide that covers all trimesters and helps dads understand what's happening during each stage of pregnancy.
+
+**[What to Expect When You're Expecting](https://amazon.com/dp/0761192357)** by Heidi Murkoff — The classic pregnancy reference book that provides detailed information about fetal development and pregnancy symptoms.
+
 *This is Part 2 of our Pregnancy for Dads series. Missed Part 1? Start with [She's Pregnant. Now What?](/guides/shes-pregnant-now-what)*
 
 *Got a second trimester story — good, bad, or hilariously ugly? Find us on [X/Twitter](https://x.com/DadEffect).*
