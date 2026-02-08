@@ -40,3 +40,11 @@ The greatest swordsman who ever lived could have spent his final decades in perf
 Musashi died in 1645, alone in a cave where he had retreated to write his final works. But Iori carried forward everything the old warrior had poured into him. The lineage wasn't blood. It was better. It was chosen.
 
 Sometimes family isn't who you're born to. It's who shows up.
+
+## Recommended Reading
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — Shows how fatherhood is about choice and commitment rather than biology, reflecting Musashi's decision to adopt and mentor Iori into a man of character.
+
+**[All Pro Dad](https://bookshop.org/a/121065/9780800722418)** by Mark Merrill — Emphasizes that great fatherhood is an intentional choice that requires showing up consistently, just as Musashi chose to be a father to Iori.
+
+**[The Expectant Father](https://bookshop.org/a/121065/9780761187486)** by Armin Brott — While focused on biological fatherhood, this book's principles of being present and committed apply to all forms of fatherhood, showing that the bond comes from quality time and intentional parenting.

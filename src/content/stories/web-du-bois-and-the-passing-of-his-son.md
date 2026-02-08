@@ -52,3 +52,11 @@ The pain of losing a child is a unique and enduring burden. It reshapes a father
 **Sources:**
 - [en.wikipedia.org](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk)
 - [nps.gov](https://www.nps.gov/people/webdubois.htm)
+
+## Recommended Reading
+
+**[The Road](https://bookshop.org/a/121065/9780307387899)** by Cormac McCarthy — There is no greater fear for a father than losing his child. McCarthy's novel captures that primal love with the same devastating power Du Bois brought to "Of the Passing of the First-Born."
+
+**[It Didn't Start with You](https://bookshop.org/a/121065/9781101980385)** by Mark Wolynn — Du Bois carried the grief of losing his son for the rest of his life. Wolynn explores how loss and trauma shape us — and how we can process it without passing it on.
+
+**[To Kill a Mockingbird](https://bookshop.org/a/121065/9780060935467)** by Harper Lee — Atticus Finch and Du Bois share something rare: the ability to teach their children about an unjust world while still believing it could be better.

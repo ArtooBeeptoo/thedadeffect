@@ -63,3 +63,11 @@ Every dad leaves a mark. Sometimes the wound is the gift.
 ---
 
 *Sources: Robert Caro, "The Years of Lyndon Johnson: The Path to Power"; Texas Monthly, "Bringing Up Lyndon"; Texas State Historical Association*
+
+## Recommended Reading
+
+**[It Didn't Start with You](https://bookshop.org/a/121065/9781101980385)** by Mark Wolynn — Sam Johnson's failures shaped the most powerful man in the world. This book shows how inherited patterns — good and bad — echo through generations.
+
+**[Adult Children of Emotionally Immature Parents](https://bookshop.org/a/121065/9781626251700)** by Lindsay Gibson — LBJ spent his whole life trying to prove something to a father who couldn't see straight. Gibson's book helps you understand that dynamic — and break free from it.
+
+**[The Road](https://bookshop.org/a/121065/9780307387899)** by Cormac McCarthy — Sometimes the wound IS the gift. McCarthy captures the raw, desperate love of fatherhood that exists even when everything else falls apart.

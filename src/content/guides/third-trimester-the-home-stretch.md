@@ -212,11 +212,11 @@ You've got this, dad.
 
 **[The New Father: A Dad's Guide to the First Year](https://bookshop.org/a/121065/9780789212771)** by Armin Brott — Prepare for what comes after birth with this month-by-month guide to your baby's first year of life.
 
-**[Dude, You're Gonna Be a Dad!](https://amazon.com/dp/0312367254)** by John Pfeiffer — A funny, practical guide that takes you through the final weeks of pregnancy and prepares you for the transition to fatherhood.
+**[Dude, You're Gonna Be a Dad!](https://bookshop.org/a/121065/9781440505362)** by John Pfeiffer — A funny, practical guide that takes you through the final weeks of pregnancy and prepares you for the transition to fatherhood.
+
+**[The New Father: A Dad's Guide to the First Year](https://bookshop.org/a/121065/9780789212771)** by Armin Brott — Prepare for what comes after birth with this month-by-month guide to your baby's first year of life.
 
 **[Cribsheet: A Data-Driven Guide to Better, More Relatable Parenting](https://bookshop.org/a/121065/9780525559276)** by Emily Oster — Get ahead of the parenting decisions you'll face with this research-based approach to baby care and development.
-
-**[What to Expect the First Year](https://amazon.com/dp/0761189887)** by Heidi Murkoff — The essential companion to the classic pregnancy guide, covering everything from newborn care to your baby's first birthday.
 
 *This is Part 3 of our Pregnancy for Dads series. Start with [She's Pregnant. Now What?](/guides/shes-pregnant-now-what) or go back to [Second Trimester](/guides/second-trimester-when-things-get-real).*
 

@@ -55,7 +55,7 @@ These are the things that will make you a hero during labor and delivery:
 
 **[We're Pregnant! The First Time Dad's Pregnancy Handbook](https://bookshop.org/a/121065/9781939754684)** by Adrian Kulp — Specifically written for first-time fathers with month-by-month guidance on what to expect and how to support your partner.
 
-**[The Birth Partner: A Complete Guide to Childbirth for Dads, Doulas, and All Other Labor Companions](https://amazon.com/dp/0738215252)** by Penny Simkin — The go-to resource for understanding the labor process and how to be an effective support person during delivery.
+**[The Birth Partner](https://bookshop.org/a/121065/9781558329102)** by Penny Simkin — The go-to resource for understanding the labor process and how to be an effective support person during delivery.
 
 ## What to Read Next
 

@@ -141,7 +141,7 @@ You're doing this, man. And you're doing it well.
 
 **[The Expectant Father: Facts, Tips, and Advice for Dads-to-Be](https://bookshop.org/a/121065/9780761187486)** by Armin Brott — A comprehensive guide that covers all trimesters and helps dads understand what's happening during each stage of pregnancy.
 
-**[What to Expect When You're Expecting](https://amazon.com/dp/0761192357)** by Heidi Murkoff — The classic pregnancy reference book that provides detailed information about fetal development and pregnancy symptoms.
+**[We're Pregnant!](https://bookshop.org/a/121065/9781939754684)** by Adrian Kulp — A dad-friendly alternative to the classic pregnancy guide, written specifically for fathers with practical advice and humor.
 
 *This is Part 2 of our Pregnancy for Dads series. Missed Part 1? Start with [She's Pregnant. Now What?](/guides/shes-pregnant-now-what)*
 

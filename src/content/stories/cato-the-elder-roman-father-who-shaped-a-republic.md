@@ -36,3 +36,11 @@ Two thousand two hundred years later, the lesson is still fresh: the most powerf
 Cato the Elder, censor of Rome, destroyer of Carthage, wrote out history lessons in big letters for a little boy.
 
 That's the part worth remembering.
+
+## Recommended Reading
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — Cato understood that what children need most from their fathers is presence, protection, and intentional guidance — this book shows how that principle applies today.
+
+**[All Pro Dad](https://bookshop.org/a/121065/9780800722418)** by Mark Merrill — Like Cato, this book emphasizes that being a great father takes intentionality and shows you how to lead your family with character and purpose.
+
+**[It Didn't Start with You](https://bookshop.org/a/121065/9781101980385)** by Mark Wolynn — Shows how the legacy we build as fathers has lasting impact on future generations, both good and bad, making it essential to be conscious of the patterns we create.

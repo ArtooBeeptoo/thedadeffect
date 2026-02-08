@@ -47,3 +47,11 @@ He chose to leave his son a reason to keep going. Seven hundred years later, it 
 - [kevinpage.co.uk](https://kevinpage.co.uk/news-and-blog/like-father-like-son-the-story-of-two-heroic-samurai-warriors/)
 - [Wikipedia: Kusunoki Masashige](https://en.wikipedia.org/wiki/Kusunoki_Masashige)
 - [Wikipedia: Kusunoki Masatsura](https://en.wikipedia.org/wiki/Kusunoki_Masatsura)
+
+## Recommended Reading
+
+**[The Road](https://bookshop.org/a/121065/9780307387899)** by Cormac McCarthy — A father walking toward certain death, choosing to spend his last moments teaching his son how to live. Masashige and McCarthy's unnamed father share the same devastating love.
+
+**[To Kill a Mockingbird](https://bookshop.org/a/121065/9780060935467)** by Harper Lee — Atticus Finch taught his children to stand for what's right even when the odds are impossible. Masashige did the same, seven centuries earlier, on a battlefield.
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — Masashige's final lesson was about honor and duty. Meeker shows how modern fathers can leave that same kind of legacy without the sword.

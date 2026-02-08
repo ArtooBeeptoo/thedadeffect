@@ -43,6 +43,13 @@ And his daughter noticed.
 
 That's the whole secret.
 
+## Recommended Reading
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — This book perfectly captures the essence of what Marc discovered: that daughters (and sons) need their fathers most in simple, consistent ways that build confidence and security.
+
+**[All Pro Dad](https://bookshop.org/a/121065/9780800722418)** by Mark Merrill — A practical guide to being intentional about showing up consistently for your family, proving that great fatherhood is about presence more than perfection.
+
+**[It Didn't Start with You](https://bookshop.org/a/121065/9781101980385)** by Mark Wolynn — For dads who are trying to break the cycle from their own childhood and build a healthier legacy than the one they inherited.
 
 ---
 

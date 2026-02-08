@@ -48,3 +48,11 @@ It’s a reminder that the most important legacy we can leave isn't measured in 
 **Sources:**
 - [mr-mag.com](https://mr-mag.com/2025-father-of-the-year-awards-parenting-in-a-new-era/)
 - [wwd.com](https://wwd.com/menswear-news/mens-lifestyle/fathers-day-lunch-mark-damelio-nate-burleson-gayle-king-1237914397/)
+
+## Recommended Reading
+
+**[All Pro Dad](https://bookshop.org/a/121065/9780800722418)** by Mark Merrill — Dennis is the living definition of an all-pro dad — showing up for seven kids while running into burning buildings. This book captures that same spirit of intentional fatherhood.
+
+**[The Road](https://bookshop.org/a/121065/9780307387899)** by Cormac McCarthy — A father who would do anything to protect his children. Dennis puts his life on the line every shift, then comes home and does it all again for his family.
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — When your dad is a hero who saves lives for a living, it shapes how you see the world. This book explores why that kind of strength matters.

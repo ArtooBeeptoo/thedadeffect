@@ -46,3 +46,11 @@ Real fatherhood isn’t about clearing the path. It's about teaching our kids ho
 **Sources:**
 - [en.wikipedia.org](https://en.wikipedia.org/wiki/Kong_Li_(philosopher))
 - [britannica.com](https://www.britannica.com/biography/Confucius)
+
+## Recommended Reading
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — Confucius pushed his son toward the classics. Meeker shows what modern fathers can do to guide their kids with the same intentionality.
+
+**[All Pro Dad](https://bookshop.org/a/121065/9780800722418)** by Mark Merrill — Being a great dad takes the same kind of daily commitment Confucius brought to teaching his son — showing up, setting the example, and never phoning it in.
+
+**[It Didn't Start with You](https://bookshop.org/a/121065/9781101980385)** by Mark Wolynn — The patterns we pass to our children echo for generations, just like Confucius's teachings shaped Chinese culture for millennia.

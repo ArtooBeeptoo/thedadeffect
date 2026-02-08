@@ -41,6 +41,14 @@ His boys made it to shore. They'll carry his voice with them for the rest of the
 
 *Don't give up. I love you.*
 
+## Recommended Reading
+
+**[The Road](https://bookshop.org/a/121065/9780307387899)** by Cormac McCarthy — A powerful story of a father's struggle to protect his son in a broken world, showing the lengths a father will go to ensure his child survives and remains good.
+
+**[To Kill a Mockingbird](https://bookshop.org/a/121065/9780060935467)** by Harper Lee — Atticus Finch teaches us that fatherhood is about standing up for what's right even when it's difficult, and showing your children how to live with integrity and courage.
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — This book captures the essence of what every father wants to leave his children: a legacy of protection, love, and strength that will guide them throughout their lives.
+
 ---
 
 *Got a dad story worth telling? We'd love to hear it — find us on [X/Twitter](https://x.com/DadEffect).*

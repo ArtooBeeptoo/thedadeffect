@@ -88,9 +88,9 @@ But that's also kind of the point.
 
 **[Every Moment Matters: How to Live a More Connected, Present Life](https://bookshop.org/a/121065/9781734290608)** by Jonathan Jenkins — Written by the sports psychologist featured in this episode, this book helps parents make the most of every moment with their children.
 
-**[The Sports Parenting Edge: Expert Advice on Raising Young Champions](https://amazon.com/dp/1605505708)** by Eric Anderson — Practical guidance on how to be an effective sports parent without being that crazy person on the sideline.
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — A guide for dads on how to be the father your kids need, teaching them resilience, character, and how to navigate life's challenges.
 
-**[Grit: The Power of Passion and Perseverance](https://amazon.com/dp/1501111105)** by Angela Duckworth — The essential read on building resilience in kids, helping them develop the character traits that will serve them both in sports and life.
+**[All Pro Dad](https://bookshop.org/a/121065/9780800722418)** by Mark Merrill — Practical wisdom for being an intentional father who shows up consistently and leads your family with character.
 
 ---
 
@@ -103,6 +103,14 @@ This post was inspired by the **"Why Youth Sports Trigger Parents"** episode of 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/youth-inc-with-greg-olsen/id1610647237)
 
 *The Dad Effect highlights conversations that matter to fathers. We're fans, not affiliates.*
+
+## Recommended Reading
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — Reminds you that what your kids need most from you isn't a perfect game plan — it's your presence, your calm, and your unconditional love on and off the field.
+
+**[All Pro Dad](https://bookshop.org/a/121065/9780800722418)** by Mark Merrill — Practical advice on showing up as the dad your kids actually need, including how to keep sports fun and your ego out of it.
+
+**[It Didn't Start with You](https://bookshop.org/a/121065/9781101980385)** by Mark Wolynn — If you find yourself losing it on the sidelines, this book helps you understand where those reactions actually come from — and how to break the pattern.
 
 ---
 

@@ -69,13 +69,13 @@ Both of these lists are valid. Both matter.
 
 ## Recommended Reading
 
-**[She's Pregnant! The First Time Dad's Pregnancy Handbook](https://bookshop.org/a/121065/9781939754684)** by Adrian Kulp — Written specifically for first-time fathers with practical advice on how to support your partner during the first trimester and beyond.
+**[We're Pregnant!](https://bookshop.org/a/121065/9781939754684)** by Adrian Kulp — Written specifically for first-time fathers with practical advice on how to support your partner during the first trimester and beyond.
 
 **[Dude, You're Gonna Be a Dad!](https://bookshop.org/a/121065/9781440505362)** by John Pfeiffer — An easy-to-read guide that breaks down pregnancy into dad-friendly terms with humor and practical tips.
 
-**[The Expectant Father: Facts, Tips, and Advice for Dads-to-Be](https://amazon.com/dp/0307452863)** by Armin Brott — A month-by-month guide that helps dads understand what's happening with their partner and the baby during pregnancy.
+**[The Expectant Father](https://bookshop.org/a/121065/9780761187486)** by Armin Brott — A month-by-month guide that helps dads understand what's happening with their partner and the baby during pregnancy.
 
-**[The Birth Partner: A Complete Guide to Childbirth for Dads, Doulas, and All Other Labor Companions](https://amazon.com/dp/0738215252)** by Penny Simkin — Start preparing early for your role during labor and delivery with this comprehensive guide to supporting your partner through childbirth.
+**[The Birth Partner](https://bookshop.org/a/121065/9781558329102)** by Penny Simkin — Start preparing early for your role during labor and delivery with this comprehensive guide to supporting your partner through childbirth.
 
 ## What to Read Next
 

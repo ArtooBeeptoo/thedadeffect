@@ -38,3 +38,11 @@ Breaking the cycle means learning to tell the difference. It means honoring the 
 Not every fatherhood story is a hero story. Some are cautionary tales. And the cautionary ones might be the most important to tell — because they remind us what we're actually protecting when we celebrate the fathers who get it right.
 
 Know the difference. Break the cycle.
+
+## Recommended Reading
+
+**[It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How We Love](https://bookshop.org/a/121065/9781101980385)** by Mark Wolynn — A powerful exploration of how family trauma and unspoken patterns get passed down through generations, helping you identify and break cycles that might be showing up in your own parenting.
+
+**[Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Absorbed Parents](https://bookshop.org/a/121065/9781626251700)** by Lindsay Gibson — This book speaks directly to the impact of having emotionally immature parents and provides practical tools for developing healthier emotional connections with your own children.
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — Shows what positive, engaged fatherhood looks like in contrast to the toxic patterns described in this story, providing a blueprint for being the father your kids actually need.

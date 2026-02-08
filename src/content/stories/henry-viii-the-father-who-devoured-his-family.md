@@ -52,3 +52,11 @@ Your children are not your second chance. They're their own first chance. That m
 **Sources:**
 - [Historic Royal Palaces: Henry VIII's Children](https://www.hrp.org.uk/hampton-court-palace/history-and-stories/henry-viiis-children/)
 - [Wikipedia: Henry VIII](https://en.wikipedia.org/wiki/Henry_VIII)
+
+## Recommended Reading
+
+**[It Didn't Start with You](https://bookshop.org/a/121065/9781101980385)** by Mark Wolynn — Henry's obsession with a male heir destroyed his family across generations. This book explores how family trauma and obsession get passed down — and how to stop the cycle.
+
+**[Adult Children of Emotionally Immature Parents](https://bookshop.org/a/121065/9781626251700)** by Lindsay Gibson — Henry's children grew up with a father who treated them as political tools. Gibson's book helps people who grew up with self-absorbed parents heal and parent differently.
+
+**[Strong Fathers, Strong Daughters](https://bookshop.org/a/121065/9780345499394)** by Meg Meeker — The antidote to Henry VIII. What Elizabeth needed from her father — and what your daughter actually needs from you.
