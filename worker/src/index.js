@@ -29,6 +29,43 @@ const PRODUCTS = {
   }
 };
 
+// --- Rate limiting (per-isolate, in-memory) ---
+
+const RATE_LIMIT = {
+  maxRequests: 10,    // max requests per window
+  windowMs: 60_000,   // 1 minute window
+};
+
+// Map<string, { count: number, resetAt: number }>
+const rateLimitMap = new Map();
+
+function checkRateLimit(ip) {
+  const now = Date.now();
+  const entry = rateLimitMap.get(ip);
+
+  // Clean up expired entries periodically (every 100 checks)
+  if (Math.random() < 0.01) {
+    for (const [key, val] of rateLimitMap) {
+      if (val.resetAt <= now) rateLimitMap.delete(key);
+    }
+  }
+
+  if (!entry || entry.resetAt <= now) {
+    rateLimitMap.set(ip, { count: 1, resetAt: now + RATE_LIMIT.windowMs });
+    return { allowed: true, remaining: RATE_LIMIT.maxRequests - 1 };
+  }
+
+  entry.count++;
+  if (entry.count > RATE_LIMIT.maxRequests) {
+    return { allowed: false, remaining: 0, retryAfter: Math.ceil((entry.resetAt - now) / 1000) };
+  }
+
+  return { allowed: true, remaining: RATE_LIMIT.maxRequests - entry.count };
+}
+
+// Exported for testing
+export { checkRateLimit, rateLimitMap, RATE_LIMIT };
+
 const CORS_HEADERS = {
   'Access-Control-Allow-Origin': 'https://thedadeffect.com',
   'Access-Control-Allow-Methods': 'POST, GET, OPTIONS',
@@ -180,6 +217,20 @@ async function createPrintfulOrder(env, session) {
 // --- Request handler ---
 
 async function handleCheckout(request, env) {
+  // Rate limit by client IP
+  const clientIP = request.headers.get('CF-Connecting-IP') || request.headers.get('X-Forwarded-For') || 'unknown';
+  const rateCheck = checkRateLimit(clientIP);
+  if (!rateCheck.allowed) {
+    return new Response(JSON.stringify({ error: 'Too many requests. Please try again later.' }), {
+      status: 429,
+      headers: {
+        ...CORS_HEADERS,
+        'Content-Type': 'application/json',
+        'Retry-After': String(rateCheck.retryAfter),
+      }
+    });
+  }
+
   const { product: slug, size } = await request.json();
   const product = PRODUCTS[slug];
   if (!product) {
