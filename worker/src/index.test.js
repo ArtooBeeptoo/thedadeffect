@@ -85,15 +85,18 @@ describe('fix-003: Printful order failure must return 500', () => {
     );
 
     // Verify the catch block returns 500, not 200
-    const catchBlock = sourceCode.match(/catch\s*\(err\)\s*\{[\s\S]*?\}/);
+    // Use a pattern that captures from catch to "status: 500" to avoid stopping at first }
+    const catchBlock = sourceCode.match(/catch\s*\(err\)\s*\{[\s\S]*?status:\s*500/);
     expect(catchBlock).not.toBeNull();
-    expect(catchBlock[0]).toContain('status: 500');
     expect(catchBlock[0]).not.toContain('status: 200');
 
     // Verify structured error logging exists (for monitoring/alerting)
-    expect(catchBlock[0]).toContain('event_id');
-    expect(catchBlock[0]).toContain('session_id');
-    expect(catchBlock[0]).toContain('timestamp');
+    // Search the full catch block (greedy up to the matching closing brace area)
+    const catchBlockFull = sourceCode.match(/catch\s*\(err\)\s*\{[\s\S]*?Fulfillment failed/);
+    expect(catchBlockFull).not.toBeNull();
+    expect(catchBlockFull[0]).toContain('event_id');
+    expect(catchBlockFull[0]).toContain('session_id');
+    expect(catchBlockFull[0]).toContain('timestamp');
   });
 
   it('should still return 200 for successful Printful orders', async () => {
