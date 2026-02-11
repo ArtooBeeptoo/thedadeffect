@@ -82,6 +82,21 @@ async function retrieveCheckoutSession(env, sessionId) {
   return stripeRequest(env, 'GET', `/checkout/sessions/${sessionId}?expand[]=line_items&expand[]=shipping_details`);
 }
 
+// --- Constant-time string comparison (timing attack mitigation) ---
+
+function timingSafeEqual(a, b) {
+  if (typeof a !== 'string' || typeof b !== 'string') return false;
+  // Length mismatch is immediately wrong, but we still do constant-time work
+  // to avoid leaking which input was shorter via timing
+  const lengthMatch = a.length === b.length ? 1 : 0;
+  // Always compare using a's length worth of iterations
+  let mismatch = 0;
+  for (let i = 0; i < a.length; i++) {
+    mismatch |= a.charCodeAt(i) ^ (b.charCodeAt(i) || 0);
+  }
+  return lengthMatch === 1 && mismatch === 0;
+}
+
 // --- Stripe webhook signature verification (Web Crypto) ---
 
 async function verifyStripeSignature(payload, sigHeader, secret) {
@@ -109,7 +124,7 @@ async function verifyStripeSignature(payload, sigHeader, secret) {
   const sig = await crypto.subtle.sign('HMAC', key, new TextEncoder().encode(signedPayload));
   const expected = Array.from(new Uint8Array(sig)).map(b => b.toString(16).padStart(2, '0')).join('');
 
-  if (expected !== signature) return null;
+  if (!timingSafeEqual(expected, signature)) return null;
   return JSON.parse(payload);
 }
 
