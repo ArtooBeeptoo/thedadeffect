@@ -1,9 +1,10 @@
 ---
 title: "Frederick Douglass: The Father Who Broke the Cycle"
 description: "He escaped slavery, became America's most famous abolitionist, and built the fatherhood he never had. The untold story of Frederick Douglass as a dad."
-pubDate: 2026-02-11
-author: "The Dad Effect"
+pubDate: 2026-02-11T08:00:00
+categories: ["Dad Stories"]
 tags: ["history", "fatherhood", "legacy", "breaking cycles"]
+draft: false
 ---
 
 # Frederick Douglass: The Father Who Broke the Cycle
