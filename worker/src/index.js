@@ -300,28 +300,46 @@ async function handleWebhook(request, env) {
 
 // --- Worker entry point ---
 
+// --- Security headers applied to every response ---
+
+const SECURITY_HEADERS = {
+  'X-Content-Type-Options': 'nosniff',
+  'X-Frame-Options': 'DENY',
+};
+
+function addSecurityHeaders(response) {
+  const newResponse = new Response(response.body, response);
+  for (const [key, value] of Object.entries(SECURITY_HEADERS)) {
+    newResponse.headers.set(key, value);
+  }
+  return newResponse;
+}
+
+export { SECURITY_HEADERS, addSecurityHeaders };
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
 
     // CORS preflight
     if (request.method === 'OPTIONS') {
-      return new Response(null, { headers: CORS_HEADERS });
+      return addSecurityHeaders(new Response(null, { headers: CORS_HEADERS }));
     }
 
     // Routes
+    let response;
     if (url.pathname === '/api/checkout' && request.method === 'POST') {
-      return handleCheckout(request, env);
-    }
-    if (url.pathname === '/api/webhook' && request.method === 'POST') {
-      return handleWebhook(request, env);
-    }
-    if (url.pathname === '/api/health') {
-      return new Response(JSON.stringify({ status: 'ok', products: Object.keys(PRODUCTS) }), {
+      response = await handleCheckout(request, env);
+    } else if (url.pathname === '/api/webhook' && request.method === 'POST') {
+      response = await handleWebhook(request, env);
+    } else if (url.pathname === '/api/health') {
+      response = new Response(JSON.stringify({ status: 'ok', products: Object.keys(PRODUCTS) }), {
         headers: { 'Content-Type': 'application/json' }
       });
+    } else {
+      response = new Response('Not found', { status: 404 });
     }
 
-    return new Response('Not found', { status: 404 });
+    return addSecurityHeaders(response);
   }
 };
