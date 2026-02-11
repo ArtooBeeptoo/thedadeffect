@@ -251,6 +251,13 @@ async function handleCheckout(request, env) {
 }
 
 async function handleWebhook(request, env) {
+  // SECURITY: Validate Content-Type — Stripe sends application/json or text/plain;charset=utf-8
+  const contentType = (request.headers.get('content-type') || '').toLowerCase().split(';')[0].trim();
+  const ALLOWED_CONTENT_TYPES = ['application/json', 'text/plain'];
+  if (!ALLOWED_CONTENT_TYPES.includes(contentType)) {
+    return new Response('Invalid Content-Type', { status: 415 });
+  }
+
   const payload = await request.text();
 
   // SECURITY: Always require webhook secret to be configured
