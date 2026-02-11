@@ -226,7 +226,14 @@ async function handleWebhook(request, env) {
       const result = await createPrintfulOrder(env, session);
       console.log('Printful order created:', JSON.stringify(result));
     } catch (err) {
-      console.error('Printful order failed:', err.message);
+      console.error('Printful order failed:', JSON.stringify({
+        error: err.message,
+        event_id: event.id,
+        session_id: event.data.object.id,
+        timestamp: new Date().toISOString(),
+      }));
+      // Return 500 so Stripe retries the webhook — prevents silent order loss
+      return new Response('Fulfillment failed', { status: 500 });
     }
   }
 
