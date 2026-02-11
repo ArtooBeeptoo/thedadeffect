@@ -186,32 +186,20 @@ async function handleCheckout(request, env) {
 
 async function handleWebhook(request, env) {
   const payload = await request.text();
-  const sigHeader = request.headers.get('stripe-signature');
 
-  if (!sigHeader || !env.STRIPE_WEBHOOK_SECRET) {
-    // In test mode without webhook secret, just parse the event directly
-    let event;
-    try {
-      event = JSON.parse(payload);
-    } catch (e) {
-      return new Response('Invalid payload', { status: 400 });
-    }
-
-    if (event.type === 'checkout.session.completed') {
-      try {
-        // Retrieve full session with shipping details
-        const session = await retrieveCheckoutSession(env, event.data.object.id);
-        const result = await createPrintfulOrder(env, session);
-        console.log('Printful order created:', JSON.stringify(result));
-      } catch (err) {
-        console.error('Printful order failed:', err.message);
-        // Still return 200 so Stripe doesn't retry
-      }
-    }
-    return new Response('OK', { status: 200 });
+  // SECURITY: Always require webhook secret to be configured
+  if (!env.STRIPE_WEBHOOK_SECRET) {
+    console.error('STRIPE_WEBHOOK_SECRET is not configured');
+    return new Response('Webhook secret not configured', { status: 500 });
   }
 
-  // Production: verify signature
+  // SECURITY: Always require signature header
+  const sigHeader = request.headers.get('stripe-signature');
+  if (!sigHeader) {
+    return new Response('Missing stripe-signature header', { status: 401 });
+  }
+
+  // Verify signature — rejects invalid/expired signatures
   const event = await verifyStripeSignature(payload, sigHeader, env.STRIPE_WEBHOOK_SECRET);
   if (!event) {
     return new Response('Invalid signature', { status: 400 });
