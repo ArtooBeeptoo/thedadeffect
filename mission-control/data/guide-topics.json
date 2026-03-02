@@ -1,0 +1,572 @@
+[
+  {
+    "title": "Second Trimester: When Things Get Real (And She Starts Showing)",
+    "slug": "second-trimester-when-things-get-real",
+    "category": "Pregnancy for Dads",
+    "description": "The middle stretch of pregnancy \u2014 she's showing, you're feeling it, and the baby is kicking. What to expect and how to keep being useful.",
+    "used": true
+  },
+  {
+    "title": "Third Trimester: The Home Stretch and Nesting Madness",
+    "slug": "third-trimester-home-stretch",
+    "category": "Pregnancy for Dads",
+    "description": "The final countdown. Hospital bags, birth plans, nesting instincts, and surviving the last weeks before everything changes.",
+    "used": true
+  },
+  {
+    "title": "The Birth: What to Expect, What to Bring, and Why You Should Be in the Room",
+    "slug": "the-birth-what-to-expect",
+    "category": "Pregnancy for Dads",
+    "description": "Labor, delivery, and everything nobody prepares dads for. Practical guide to being present and useful in the delivery room.",
+    "used": true
+  },
+  {
+    "title": "What to Pack in Your Hospital Bag (Dad Edition)",
+    "slug": "hospital-bag-dad-edition",
+    "category": "Pregnancy for Dads",
+    "description": "Your partner's bag is handled. What do YOU need? Snacks, chargers, comfort items, and the stuff nobody tells dads to bring.",
+    "used": true
+  },
+  {
+    "title": "Prenatal Classes: Are They Worth It or Total BS?",
+    "slug": "prenatal-classes-worth-it",
+    "category": "Pregnancy for Dads",
+    "description": "Lamaze, Bradley, HypnoBirthing \u2014 what actually helps and what's just expensive breathing exercises.",
+    "used": true
+  },
+  {
+    "title": "The Anatomy Scan: When Your Baby Becomes Real",
+    "slug": "anatomy-scan-baby-becomes-real",
+    "category": "Pregnancy for Dads",
+    "description": "The 20-week ultrasound where you see actual human features. What happens, what they're looking for, and how to handle it.",
+    "used": true
+  },
+  {
+    "title": "Pregnancy Cravings and Aversions: A Survival Guide for the Guy Who Cooks",
+    "slug": "pregnancy-cravings-aversions-survival-guide",
+    "category": "Pregnancy for Dads",
+    "description": "When she needs pickles at midnight and can't smell chicken without gagging. How to feed a pregnant person without losing your mind.",
+    "used": true
+  },
+  {
+    "title": "How to Talk to Her When She's Having a Hormone Hurricane",
+    "slug": "talking-during-hormone-hurricane",
+    "category": "Pregnancy for Dads",
+    "description": "She's crying about a dog food commercial. She's furious about how you loaded the dishwasher. A communication guide for pregnancy mood swings.",
+    "used": true
+  },
+  {
+    "title": "The Baby Registry: What You Actually Need vs. What's a Scam",
+    "slug": "baby-registry-need-vs-scam",
+    "category": "Pregnancy for Dads",
+    "description": "Wipe warmers? $800 strollers? Smart bassinets? Breaking down what's essential, what's nice-to-have, and what's pure marketing.",
+    "used": true
+  },
+  {
+    "title": "Birth Plan vs. Reality: Why Flexibility Wins",
+    "slug": "birth-plan-vs-reality",
+    "category": "Pregnancy for Dads",
+    "description": "Navigating the world of birth plans can be overwhelming. Here's how to stay flexible and support your partner through whatever comes your way.",
+    "used": true
+  },
+  {
+    "title": "Your First Diaper Change: A Step-by-Step Guide for the Terrified",
+    "slug": "first-diaper-change-guide",
+    "category": "Newborn Survival",
+    "description": "It's going to be gross. It's going to be confusing. You're going to get pee on you. Here's how to handle it anyway.",
+    "used": true
+  },
+  {
+    "title": "Newborn Sleep: Surviving the First Few Weeks",
+    "slug": "newborn-sleep-survival-guide",
+    "category": "Newborn Survival",
+    "description": "Your baby doesn't sleep, and neither do you. A dad's guide to understanding newborn sleep patterns and finding ways to cope.",
+    "used": true
+  },
+  {
+    "title": "The First Doctor's Appointments: What Dads Need to Know",
+    "slug": "first-doctors-appointments",
+    "category": "Newborn Survival",
+    "description": "From the first weigh-in to immunizations, navigating your newborn's initial doctor visits can be overwhelming. Here's a dad's guide to understanding what's happening and how to support your partner.",
+    "used": true
+  },
+  {
+    "title": "Coping with Sleep Deprivation: A Dad's Guide to Staying Sane",
+    "slug": "coping-sleep-deprivation-dads-guide",
+    "category": "Newborn Survival",
+    "description": "You're tired, she's tired, everyone's tired. Strategies for new dads to manage extreme sleep deprivation without losing their minds (or their temper).",
+    "used": true
+  },
+  {
+    "title": "The Witching Hour: Surviving Evening Fussiness",
+    "slug": "witching-hour-surviving-fussiness",
+    "category": "Newborn Survival",
+    "description": "Why do babies get so fussy in the evenings? Understanding the 'witching hour' and practical tips for soothing your baby (and yourselves) during this challenging time.",
+    "used": true
+  },
+  {
+    "title": "Dad's Guide to Swaddling: Taming the Newborn Flail",
+    "slug": "dads-guide-swaddling",
+    "category": "Newborn Survival",
+    "description": "The art of the perfect swaddle. Step-by-step instructions for wrapping your baby snugly for better sleep, and why it's a game-changer for new parents.",
+    "used": true
+  },
+  {
+    "title": "Babywearing for Dads: Keeping Your Little One Close",
+    "slug": "babywearing-for-dads",
+    "category": "Newborn Survival",
+    "description": "From carriers to wraps, an introduction to babywearing for dads. Benefits, safety tips, and how to choose the right one for you and your baby.",
+    "used": true
+  },
+  {
+    "title": "Handling Unsolicited Advice: How to Nod, Smile, and Ignore",
+    "slug": "handling-unsolicited-advice",
+    "category": "Early Parenthood",
+    "description": "Everyone's a parenting expert when you have a newborn. A guide for dads on politely (or not-so-polutely) fending off well-meaning but unhelpful advice.",
+    "used": true
+  },
+  {
+    "title": "Postpartum Depression for Dads: What Nobody Tells You",
+    "slug": "postpartum-depression-dads",
+    "category": "Early Parenthood",
+    "description": "8-25% of new fathers experience PPD. Signs to watch for, how it differs from mom's PPD, and why getting help isn't weakness. Based on ParentData research.",
+    "used": true
+  },
+  {
+    "title": "What Happens to Your Testosterone When You Become a Dad",
+    "slug": "testosterone-new-dad",
+    "category": "Dad Health",
+    "description": "The science behind the hormone shift when you're expecting. How your body literally changes to prepare you for fatherhood. Huberman Lab-inspired.",
+    "used": true
+  },
+  {
+    "title": "Dad's Guide to Sleep Optimization: Be Present, Not Just Awake",
+    "slug": "dad-sleep-optimization",
+    "category": "Dad Health",
+    "description": "Sleep isn't a luxury \u2014 it's parenting infrastructure. Science-backed strategies for maximizing the sleep you do get.",
+    "used": true
+  },
+  {
+    "title": "How Much Should Dads Actually Drink? The Data",
+    "slug": "alcohol-fatherhood-data",
+    "category": "Dad Health",
+    "description": "Alcohol's impact on testosterone, fertility, and cognitive function. What the research says \u2014 and what it means for dads who want to be sharp.",
+    "used": true
+  },
+  {
+    "title": "Teaching Your Kid to Ride a Bike Without Losing Your Mind",
+    "slug": "teaching-kid-bike",
+    "category": "Dad Skills",
+    "description": "Balance bikes vs. training wheels. When to push, when to let go. The definitive dad guide to bike teaching.",
+    "used": true
+  },
+  {
+    "title": "How to Coach Your Kid's Team Without Being That Dad",
+    "slug": "coaching-kids-sports",
+    "category": "Dad Skills",
+    "description": "You volunteered to help \u2014 now what? Guidelines for coaching youth sports without crushing spirits or embarrassing yourself.",
+    "used": true
+  },
+  {
+    "title": "The Dad's Guide to School Drop-Off and Pick-Up",
+    "slug": "school-dropoff-guide",
+    "category": "Dad Skills",
+    "description": "The unspoken rules of the carpool line. What to bring, how to not be awkward, and why being a regular drop-off dad matters.",
+    "used": true
+  },
+  {
+    "title": "Raising Kids in the Age of AI: What They Actually Need to Learn",
+    "slug": "raising-kids-ai-age",
+    "category": "The Human Edge",
+    "description": "Your kids will never compete with AI on information or speed. What skills actually matter? Questions, taste, relationships, and judgment.",
+    "used": true
+  },
+  {
+    "title": "Why Your Kids Need Boredom More Than Screen Time",
+    "slug": "kids-need-boredom",
+    "category": "The Human Edge",
+    "description": "AI can entertain forever. Humans need space to think. Why strategic boredom builds creativity and resilience.",
+    "used": true
+  },
+  {
+    "title": "Teaching Your Kids to Ask Better Questions",
+    "slug": "teach-kids-questions",
+    "category": "The Human Edge",
+    "description": "In an AI world, the right question is worth more than any answer. How to cultivate curiosity over memorization.",
+    "used": true
+  },
+  {
+    "title": "Trust Is Human: Teaching Kids About Handshakes and Eye Contact",
+    "slug": "trust-is-human",
+    "category": "The Human Edge",
+    "description": "AI can fake a conversation. It can't fake presence. Why teaching your kids interpersonal trust-building is an investment in their future.",
+    "used": true
+  },
+  {
+    "title": "The Judgment Calls AI Can't Make: Teaching Values by Example",
+    "slug": "judgment-calls-ai-cant-make",
+    "category": "The Human Edge",
+    "description": "Ethics, morality, and 'what's right' aren't in any training data. How daily dad moments teach decision-making that matters.",
+    "used": true
+  },
+  {
+    "title": "Working Dads Today Spend More Time With Kids Than 1975 SAHMs",
+    "slug": "working-dads-time-data",
+    "category": "Modern Fatherhood",
+    "description": "The data is wild: working fathers now spend more active time with their kids than stay-at-home moms did 50 years ago. What changed?",
+    "used": true
+  },
+  {
+    "title": "Paternity Leave: What the Data Says and What It Should Mean for You",
+    "slug": "paternity-leave-guide",
+    "category": "Modern Fatherhood",
+    "description": "The policy landscape, what you're entitled to, and why taking leave matters for you, your partner, and your kid.",
+    "used": true
+  },
+  {
+    "title": "How to Talk to Your Partner After Kids: When Everything Becomes Logistics",
+    "slug": "talking-partner-after-kids",
+    "category": "Modern Fatherhood",
+    "description": "You used to talk about ideas, dreams, and feelings. Now it's all schedules and diapers. Rebuilding connection.",
+    "used": true
+  },
+  {
+    "title": "Does Sperm Quality Decline With Age? What Dads Need to Know",
+    "slug": "sperm-quality-age",
+    "category": "Dad Health",
+    "description": "Older dads are common now. What does the research say about fertility, health risks, and optimal timing?",
+    "used": true
+  },
+  {
+    "title": "Teaching Kids About Money Without Making It Weird",
+    "slug": "teaching-kids-money",
+    "category": "Dad Skills",
+    "description": "From allowance structures to first savings accounts. How to build financial literacy early.",
+    "used": true
+  },
+  {
+    "title": "The Science of Bedtime: Why Routine Actually Works",
+    "slug": "bedtime-routine-science",
+    "category": "Toddler Life",
+    "description": "Kids fight bedtime. Science explains why \u2014 and how a consistent routine makes everyone's life easier.",
+    "used": true
+  },
+  {
+    "title": "Toddler Tantrums: What's Actually Happening in Their Brain",
+    "slug": "toddler-tantrums-brain",
+    "category": "Toddler Life",
+    "description": "They're not manipulating you. Their brains literally can't regulate yet. Understanding the neuroscience helps you stay calm.",
+    "used": true
+  },
+  {
+    "title": "Potty Training: The Only Guide That Doesn't Oversell It",
+    "slug": "potty-training-realistic",
+    "category": "Toddler Life",
+    "description": "It's going to take longer than the books say. Here's what actually works and why regression is normal.",
+    "used": true
+  },
+  {
+    "title": "Famous Father Quotes: What Great Dads Said About Fatherhood",
+    "slug": "famous-father-quotes",
+    "category": "Stories",
+    "description": "Curated wisdom from actors, athletes, writers, and leaders on what being a dad means. Real quotes, properly attributed.",
+    "used": true
+  },
+  {
+    "title": "Historical Dads: Fatherhood Through the Ages",
+    "slug": "historical-dads",
+    "category": "Stories",
+    "description": "From Roman emperors to frontier settlers, how fatherhood has changed \u2014 and what's stayed the same.",
+    "used": true
+  },
+  {
+    "title": "The Five Things Every Dad Should Know How to Fix",
+    "slug": "dad-fix-skills",
+    "category": "Dad Skills",
+    "description": "Flat tire, clogged drain, loose screw, tripped breaker, and one more. Basic competence your kids will remember.",
+    "used": true
+  },
+  {
+    "title": "Camping With Kids: A Realistic Guide for First-Timers",
+    "slug": "camping-with-kids",
+    "category": "Dad Adventures",
+    "description": "It's going to be chaos. It's also going to be memorable. What to bring, what to expect, and why to do it anyway.",
+    "used": true
+  },
+  {
+    "title": "Road Trips With Kids: Survival Tactics for Long Drives",
+    "slug": "road-trips-kids",
+    "category": "Dad Adventures",
+    "description": "Snacks, stops, screens, and sanity. How to make 8 hours in the car with a toddler survivable.",
+    "used": true
+  },
+  {
+    "title": "Taking Your Kid to Their First Sporting Event",
+    "slug": "first-sporting-event",
+    "category": "Dad Adventures",
+    "description": "The right age, the right sport, and how to make it memorable instead of miserable.",
+    "used": true
+  },
+  {
+    "title": "Ski Trip With Kids: A Mountain Dad's Complete Guide",
+    "slug": "ski-trip-kids",
+    "category": "Dad Adventures",
+    "description": "When they're ready, what gear matters, and how to make skiing a lifelong family tradition.",
+    "used": true
+  },
+  {
+    "title": "The Science of Being Strict: Why 'Mean Dads' Raise Happier Kids",
+    "slug": "science-of-being-strict",
+    "category": "Parenting Philosophy",
+    "description": "New research shows strict parenting leads to BETTER parent-child relationships. Bedtimes, screen limits, homework rules \u2014 the data says structure is love.",
+    "used": true,
+    "priority": "high",
+    "source": "IFS Survey of American Family Culture, 2025",
+    "notes": "Deep dive on the counterintuitive finding that kids don't resent boundaries \u2014 they report better relationships with parents who enforce rules."
+  },
+  {
+    "title": "The Mental Load: How Dads Can Actually Help",
+    "slug": "mental-load-how-dads-help",
+    "category": "Modern Fatherhood",
+    "description": "Beyond helping with chores \u2014 understanding and sharing the invisible burden of household management.",
+    "used": true
+  },
+  {
+    "title": "Date Nights Matter More Than You Think",
+    "slug": "date-nights-matter",
+    "category": "Modern Fatherhood",
+    "description": "Why investing in your relationship is investing in your kids. The data and the practice.",
+    "used": true
+  },
+  {
+    "title": "Teaching Emotional Intelligence to Boys",
+    "slug": "emotional-intelligence-boys",
+    "category": "Modern Fatherhood",
+    "description": "Raising sons who can name their feelings, regulate emotions, and connect with others.",
+    "used": false
+  },
+  {
+    "title": "When Your Parenting Style Conflicts With Your Partner",
+    "slug": "parenting-style-conflicts",
+    "category": "Modern Fatherhood",
+    "description": "Different approaches, same goals. How to align without arguing in front of the kids.",
+    "used": false
+  },
+  {
+    "title": "Having Hard Conversations With Your Kids",
+    "slug": "hard-conversations-kids",
+    "category": "Modern Fatherhood",
+    "description": "Death, divorce, disappointment \u2014 how to talk about tough topics age-appropriately.",
+    "used": false
+  },
+  {
+    "title": "Camping With Toddlers: The Real Guide",
+    "slug": "camping-with-toddlers",
+    "category": "Dad Adventures",
+    "description": "What to pack, what to expect, and why it is worth the chaos.",
+    "used": false
+  },
+  {
+    "title": "Teaching Your Kid to Ride a Bike",
+    "slug": "teaching-kid-ride-bike",
+    "category": "Dad Adventures",
+    "description": "Skip the training wheels. The balance method works faster and builds more confidence.",
+    "used": false
+  },
+  {
+    "title": "First Day of School: A Dads Survival Guide",
+    "slug": "first-day-school-dad",
+    "category": "Dad Adventures",
+    "description": "The drop-off emotions nobody prepares you for, and how to handle them.",
+    "used": false
+  },
+  {
+    "title": "Building Forts and Why It Matters",
+    "slug": "building-forts-matters",
+    "category": "Dad Adventures",
+    "description": "Blankets, pillows, imagination. The developmental benefits of unstructured play.",
+    "used": false
+  },
+  {
+    "title": "Backyard Adventures When You Cant Travel",
+    "slug": "backyard-adventures",
+    "category": "Dad Adventures",
+    "description": "Bug hunts, star gazing, water balloon wars. Making memories without leaving home.",
+    "used": false
+  },
+  {
+    "title": "Screen Time: What the Research Actually Says",
+    "slug": "screen-time-research",
+    "category": "Toddler Life",
+    "description": "Beyond the guilt. What science tells us about screens, and how to use them wisely.",
+    "used": false
+  },
+  {
+    "title": "Why Because I Said So Never Works",
+    "slug": "because-i-said-so",
+    "category": "Toddler Life",
+    "description": "Kids need reasons. Heres how to give them without losing authority.",
+    "used": false
+  },
+  {
+    "title": "Teaching Sharing Is Harder Than You Think",
+    "slug": "teaching-sharing",
+    "category": "Toddler Life",
+    "description": "Developmentally, toddlers are not ready to share. What to do instead.",
+    "used": false
+  },
+  {
+    "title": "When Your Toddler Says I Hate You",
+    "slug": "toddler-says-hate-you",
+    "category": "Toddler Life",
+    "description": "Its not personal. Understanding big emotions in small bodies.",
+    "used": false
+  },
+  {
+    "title": "The Picky Eater Problem",
+    "slug": "picky-eater-problem",
+    "category": "Toddler Life",
+    "description": "Why pressure backfires and exposure works. A realistic approach to feeding kids.",
+    "used": false
+  },
+  {
+    "title": "Sleep Deprivation: The Toll on Dad Health",
+    "slug": "sleep-deprivation-dad",
+    "category": "Dad Health",
+    "description": "Its not just tiredness. The real health impacts and how to mitigate them.",
+    "used": false
+  },
+  {
+    "title": "Exercise as a Dad: Realistic Approaches",
+    "slug": "exercise-as-dad",
+    "category": "Dad Health",
+    "description": "You dont need an hour. 15-minute strategies that actually work.",
+    "used": false
+  },
+  {
+    "title": "Postpartum Depression Affects Dads Too",
+    "slug": "postpartum-dads",
+    "category": "Dad Health",
+    "description": "Up to 10% of new fathers experience postpartum depression. Know the signs.",
+    "used": false
+  },
+  {
+    "title": "Finding Time for Yourself Without Guilt",
+    "slug": "me-time-without-guilt",
+    "category": "Dad Health",
+    "description": "Self-care is not selfish. A rested dad is a better dad.",
+    "used": false
+  },
+  {
+    "title": "Stress Management for New Dads",
+    "slug": "stress-management-dads",
+    "category": "Dad Health",
+    "description": "Practical techniques that fit into a chaotic schedule.",
+    "used": false
+  },
+  {
+    "title": "Teaching Kids to Focus in a Distraction Age",
+    "slug": "teaching-focus-distraction-age",
+    "category": "Human Edge",
+    "description": "Attention is the new superpower. How to build it in your children.",
+    "used": false
+  },
+  {
+    "title": "Creativity: The Ultimate Human Skill",
+    "slug": "creativity-ultimate-skill",
+    "category": "Human Edge",
+    "description": "AI generates. Humans create. Teaching originality over optimization.",
+    "used": false
+  },
+  {
+    "title": "Why Curiosity Beats Memorization",
+    "slug": "curiosity-beats-memorization",
+    "category": "Human Edge",
+    "description": "In an AI world, asking good questions matters more than knowing answers.",
+    "used": false
+  },
+  {
+    "title": "Building Resilience in Your Kids",
+    "slug": "building-resilience",
+    "category": "Human Edge",
+    "description": "Let them struggle. Let them fail. Let them figure it out.",
+    "used": false
+  },
+  {
+    "title": "Teaching Failure as Learning",
+    "slug": "teaching-failure-learning",
+    "category": "Human Edge",
+    "description": "Reframe the L. How you respond to their failures shapes their relationship with risk.",
+    "used": false
+  },
+  {
+    "title": "How Fatherhood Has Changed Over 50 Years",
+    "slug": "fatherhood-changed-50-years",
+    "category": "Historical Fatherhood",
+    "description": "From breadwinner to present. The evolution of dad expectations.",
+    "used": false
+  },
+  {
+    "title": "Lessons From Historical Fathers",
+    "slug": "lessons-historical-fathers",
+    "category": "Historical Fatherhood",
+    "description": "What Lincoln, Roosevelt, and others taught their children.",
+    "used": false
+  },
+  {
+    "title": "Dad Wisdom Throughout History",
+    "slug": "dad-wisdom-history",
+    "category": "Historical Fatherhood",
+    "description": "Timeless advice from fathers across centuries and cultures.",
+    "used": false
+  },
+  {
+    "title": "How Other Cultures Do Fatherhood",
+    "slug": "cultures-fatherhood",
+    "category": "Historical Fatherhood",
+    "description": "Scandinavian equality, Japanese dedication, African community. Different models, same love.",
+    "used": false
+  },
+  {
+    "title": "The Working Dad Through History",
+    "slug": "working-dad-history",
+    "category": "Historical Fatherhood",
+    "description": "From farms to factories to remote work. How dad roles have shifted with economics.",
+    "used": false
+  },
+  {
+    "title": "Teaching Your Kids About Money",
+    "slug": "teaching-kids-money",
+    "category": "Modern Fatherhood",
+    "description": "Allowance, saving, spending. Financial literacy starts at home.",
+    "used": false
+  },
+  {
+    "title": "Why Roughhousing Is Good for Kids",
+    "slug": "roughhousing-good-for-kids",
+    "category": "Toddler Life",
+    "description": "Wrestling, chasing, playful aggression. The developmental benefits of physical play.",
+    "used": false
+  },
+  {
+    "title": "Reading to Your Kids: The Compounding Returns",
+    "slug": "reading-to-kids",
+    "category": "Toddler Life",
+    "description": "20 minutes a day. 1.8 million words by kindergarten. The math is staggering.",
+    "used": false
+  },
+  {
+    "title": "When Your Kid Asks About Death",
+    "slug": "kid-asks-about-death",
+    "category": "Modern Fatherhood",
+    "description": "Honest, age-appropriate answers. They can handle more than you think.",
+    "used": false
+  },
+  {
+    "title": "The Power of Predictability",
+    "slug": "power-of-predictability",
+    "category": "Toddler Life",
+    "description": "Routines create security. Why consistency is a gift to your kids.",
+    "used": false
+  }
+]
