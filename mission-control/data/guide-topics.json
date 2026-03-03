@@ -427,7 +427,7 @@
     "slug": "picky-eater-problem",
     "category": "Toddler Life",
     "description": "Why pressure backfires and exposure works. A realistic approach to feeding kids.",
-    "used": false
+    "used": true
   },
   {
     "title": "Sleep Deprivation: The Toll on Dad Health",
@@ -567,6 +567,216 @@
     "slug": "power-of-predictability",
     "category": "Toddler Life",
     "description": "Routines create security. Why consistency is a gift to your kids.",
+    "used": false
+  },
+  {
+    "title": "How to Cook Simple Meals With Your Kids",
+    "slug": "cooking-with-kids",
+    "category": "Dad Skills",
+    "description": "Cooking together isn't about the food. It's about math, science, patience, and memories. Here's how to start without losing your mind.",
+    "used": false
+  },
+  {
+    "title": "Teaching Your Kids to Swim",
+    "slug": "teaching-kids-to-swim",
+    "category": "Dad Skills",
+    "description": "A life-safety skill and a rite of passage. When to start, what to expect, and how dads can lead the water experience.",
+    "used": false
+  },
+  {
+    "title": "Basic Car Maintenance Every Dad Should Teach",
+    "slug": "basic-car-maintenance-dads-teach",
+    "category": "Dad Skills",
+    "description": "Tire pressure, oil, jumper cables. The skills that build self-reliance and give your kid confidence when they're on their own.",
+    "used": false
+  },
+  {
+    "title": "How to Throw a Spiral, Skip a Stone, and Other Vanishing Dad Arts",
+    "slug": "vanishing-dad-arts",
+    "category": "Dad Skills",
+    "description": "Small skills with outsized meaning. The things dads used to teach automatically \u2014 and why passing them on still matters.",
+    "used": false
+  },
+  {
+    "title": "How to Teach Your Kid to Ride a Bike Without Losing Your Mind",
+    "slug": "teach-kid-ride-bike",
+    "category": "Dad Skills",
+    "description": "The method matters less than the patience. A step-by-step approach to two-wheel success that builds confidence, not tears.",
+    "used": false
+  },
+  {
+    "title": "Your First Father-Son Camping Trip: A Practical Guide",
+    "slug": "father-son-camping-trip",
+    "category": "Dad Adventures",
+    "description": "Gear lists, campfire safety, and the conversation that only happens when the phones are away and the stars are out.",
+    "used": false
+  },
+  {
+    "title": "Fishing With Kids: Managing Expectations and Hooks",
+    "slug": "fishing-with-kids",
+    "category": "Dad Adventures",
+    "description": "Fishing teaches patience like nothing else. Here's how to make the first trip fun even when nothing bites.",
+    "used": false
+  },
+  {
+    "title": "The Family Road Trip: Survival Guide for the Driver",
+    "slug": "family-road-trip-survival",
+    "category": "Dad Adventures",
+    "description": "Long miles, short tempers, and memories that last forever. How to plan, survive, and actually enjoy driving your family across the country.",
+    "used": false
+  },
+  {
+    "title": "Dad Bucket List: Adventures Worth Planning Before They Grow Up",
+    "slug": "dad-bucket-list-adventures",
+    "category": "Dad Adventures",
+    "description": "The window is shorter than you think. A curated list of adventures \u2014 scaled by age \u2014 worth putting on the calendar now.",
+    "used": false
+  },
+  {
+    "title": "Winter Sports With Kids: Skiing, Sledding, and Cold-Weather Sanity",
+    "slug": "winter-sports-with-kids",
+    "category": "Dad Adventures",
+    "description": "Cold is an excuse. Snow is a classroom. Here's how to get young kids excited about winter instead of dreading it.",
+    "used": false
+  },
+  {
+    "title": "The Stay-at-Home Dad: What Nobody Tells You",
+    "slug": "stay-at-home-dad-reality",
+    "category": "Modern Fatherhood",
+    "description": "It's harder, lonelier, and more meaningful than any job description. The honest truth about full-time fatherhood from the dads who live it.",
+    "used": false
+  },
+  {
+    "title": "Co-Parenting When It's Hard: Keeping Kids First",
+    "slug": "coparenting-when-its-hard",
+    "category": "Modern Fatherhood",
+    "description": "Disagreements, tension, logistics. How to keep your kid's wellbeing at the center when parenting with an ex is complicated.",
+    "used": false
+  },
+  {
+    "title": "Dads and Mental Health: Breaking the Silence",
+    "slug": "dads-mental-health-breaking-silence",
+    "category": "Modern Fatherhood",
+    "description": "1 in 5 dads experience anxiety or depression. Most never say a word. Why the silence kills and what it takes to break it.",
+    "used": false
+  },
+  {
+    "title": "How to Actually Disconnect From Work When You're Home",
+    "slug": "disconnect-from-work-be-present",
+    "category": "Modern Fatherhood",
+    "description": "The email will wait. Your kid won't. Practical strategies for mentally clocking out so you can actually clock in at home.",
+    "used": false
+  },
+  {
+    "title": "The Dadpreneur: Building a Business While Being Present",
+    "slug": "dadpreneur-business-while-present",
+    "category": "Modern Fatherhood",
+    "description": "Entrepreneurship and fatherhood both demand everything. How dads who build businesses talk about balance, priorities, and what they'd do differently.",
+    "used": false
+  },
+  {
+    "title": "Why Your Toddler Asks \"Why\" 400 Times a Day (And Why That's Good)",
+    "slug": "toddler-why-questions",
+    "category": "Toddler Life",
+    "description": "The endless why phase isn't annoying \u2014 it's your kid building their entire model of reality. Here's what's actually happening in their brain.",
+    "used": false
+  },
+  {
+    "title": "Helping Toddlers With Big Feelings Without Losing Yours",
+    "slug": "toddler-big-feelings-dad",
+    "category": "Toddler Life",
+    "description": "The meltdown isn't an attack. It's a signal. How to stay regulated when your 3-year-old is absolutely not.",
+    "used": false
+  },
+  {
+    "title": "The Sibling Transition: Helping Your Firstborn Welcome Baby",
+    "slug": "sibling-transition-firstborn",
+    "category": "Toddler Life",
+    "description": "Your firstborn is about to have their world rocked. How dads can protect the relationship with kid #1 while welcoming kid #2.",
+    "used": false
+  },
+  {
+    "title": "The Dad Body: Reclaiming Your Fitness in 20 Minutes a Day",
+    "slug": "dad-body-fitness-20-minutes",
+    "category": "Dad Health",
+    "description": "You don't need a gym, an hour, or a perfect plan. Here's what actually works for dads who are tired and short on time.",
+    "used": false
+  },
+  {
+    "title": "Sleep When You're a Dad: How to Survive and Eventually Recover",
+    "slug": "sleep-when-youre-a-dad",
+    "category": "Dad Health",
+    "description": "Years of disrupted sleep takes a real toll. What the science says about catching up, power naps, and protecting your health long-term.",
+    "used": false
+  },
+  {
+    "title": "Authoritative vs. Authoritarian Parenting: What the Research Says",
+    "slug": "authoritative-vs-authoritarian",
+    "category": "Parenting Philosophy",
+    "description": "One produces confident, well-adjusted adults. The other produces compliance \u2014 and sometimes anxiety. The data is clear.",
+    "used": false
+  },
+  {
+    "title": "Raising Boys: What Works, What Doesn't, and What We Got Wrong",
+    "slug": "raising-boys-what-works",
+    "category": "Parenting Philosophy",
+    "description": "Boys need to be taught, not just corrected. The research on emotional development, discipline, and raising men who are both strong and kind.",
+    "used": false
+  },
+  {
+    "title": "The Gift of Boredom: Why Kids Need Unstructured Time",
+    "slug": "gift-of-boredom-unstructured-time",
+    "category": "Parenting Philosophy",
+    "description": "Every moment scheduled is a moment of creativity lost. Why the best thing you can do for your kid is sometimes nothing.",
+    "used": false
+  },
+  {
+    "title": "Screen Time and Kids: What the Research Actually Says in 2025",
+    "slug": "screen-time-kids-research-2025",
+    "category": "Parenting Philosophy",
+    "description": "Not all screens are equal. The current state of research on devices, gaming, social media, and what parents should actually worry about.",
+    "used": false
+  },
+  {
+    "title": "Why \"Because I Said So\" Is a Parenting Trap",
+    "slug": "because-i-said-so-parenting-trap",
+    "category": "Parenting Philosophy",
+    "description": "Authority without explanation teaches compliance without understanding. Why explaining yourself to your kids isn't weakness \u2014 it's strategy.",
+    "used": false
+  },
+  {
+    "title": "What AI Can't Teach: Wisdom, Grit, and the Father Advantage",
+    "slug": "what-ai-cant-teach-father-advantage",
+    "category": "Human Edge",
+    "description": "Algorithms can optimize. Dads transmit. The irreplaceable things that only happen in the space between a father and his kid.",
+    "used": false
+  },
+  {
+    "title": "Raising Kids Who Can Think for Themselves",
+    "slug": "raising-independent-thinkers",
+    "category": "Human Edge",
+    "description": "In an age of algorithmic influence, critical thinking is a survival skill. How dads can raise kids who question, reason, and decide for themselves.",
+    "used": false
+  },
+  {
+    "title": "The First 24 Hours: Everything New Dads Need to Know at the Hospital",
+    "slug": "first-24-hours-hospital-dads",
+    "category": "Early Parenthood",
+    "description": "You've got a baby now. Here's what actually happens in the first day \u2014 skin-to-skin, feeding, vitals, and the emotions nobody warns you about.",
+    "used": false
+  },
+  {
+    "title": "Going Home With a Newborn: The Car Seat, the Car Ride, and the Panic",
+    "slug": "going-home-newborn-dads",
+    "category": "Early Parenthood",
+    "description": "The drive home is the most terrifying 15 minutes of your life. What to expect \u2014 and how to stop white-knuckling the steering wheel.",
+    "used": false
+  },
+  {
+    "title": "The First Year: Month-by-Month Dad's Survival Guide",
+    "slug": "first-year-monthly-dads-guide",
+    "category": "Early Parenthood",
+    "description": "Sleep regressions, milestones, teething, and the moment your baby first reaches for you. A month-by-month breakdown of what's coming and how to handle it.",
     "used": false
   }
 ]
