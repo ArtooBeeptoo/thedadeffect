@@ -343,84 +343,84 @@
     "slug": "emotional-intelligence-boys",
     "category": "Modern Fatherhood",
     "description": "Raising sons who can name their feelings, regulate emotions, and connect with others.",
-    "used": false
+    "used": true
   },
   {
     "title": "When Your Parenting Style Conflicts With Your Partner",
     "slug": "parenting-style-conflicts",
     "category": "Modern Fatherhood",
     "description": "Different approaches, same goals. How to align without arguing in front of the kids.",
-    "used": false
+    "used": true
   },
   {
     "title": "Having Hard Conversations With Your Kids",
     "slug": "hard-conversations-kids",
     "category": "Modern Fatherhood",
     "description": "Death, divorce, disappointment \u2014 how to talk about tough topics age-appropriately.",
-    "used": false
+    "used": true
   },
   {
     "title": "Camping With Toddlers: The Real Guide",
     "slug": "camping-with-toddlers",
     "category": "Dad Adventures",
     "description": "What to pack, what to expect, and why it is worth the chaos.",
-    "used": false
+    "used": true
   },
   {
     "title": "Teaching Your Kid to Ride a Bike",
     "slug": "teaching-kid-ride-bike",
     "category": "Dad Adventures",
     "description": "Skip the training wheels. The balance method works faster and builds more confidence.",
-    "used": false
+    "used": true
   },
   {
     "title": "First Day of School: A Dads Survival Guide",
     "slug": "first-day-school-dad",
     "category": "Dad Adventures",
     "description": "The drop-off emotions nobody prepares you for, and how to handle them.",
-    "used": false
+    "used": true
   },
   {
     "title": "Building Forts and Why It Matters",
     "slug": "building-forts-matters",
     "category": "Dad Adventures",
     "description": "Blankets, pillows, imagination. The developmental benefits of unstructured play.",
-    "used": false
+    "used": true
   },
   {
     "title": "Backyard Adventures When You Cant Travel",
     "slug": "backyard-adventures",
     "category": "Dad Adventures",
     "description": "Bug hunts, star gazing, water balloon wars. Making memories without leaving home.",
-    "used": false
+    "used": true
   },
   {
     "title": "Screen Time: What the Research Actually Says",
     "slug": "screen-time-research",
     "category": "Toddler Life",
     "description": "Beyond the guilt. What science tells us about screens, and how to use them wisely.",
-    "used": false
+    "used": true
   },
   {
     "title": "Why Because I Said So Never Works",
     "slug": "because-i-said-so",
     "category": "Toddler Life",
     "description": "Kids need reasons. Heres how to give them without losing authority.",
-    "used": false
+    "used": true
   },
   {
     "title": "Teaching Sharing Is Harder Than You Think",
     "slug": "teaching-sharing",
     "category": "Toddler Life",
     "description": "Developmentally, toddlers are not ready to share. What to do instead.",
-    "used": false
+    "used": true
   },
   {
     "title": "When Your Toddler Says I Hate You",
     "slug": "toddler-says-hate-you",
     "category": "Toddler Life",
     "description": "Its not personal. Understanding big emotions in small bodies.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Picky Eater Problem",
@@ -434,21 +434,21 @@
     "slug": "sleep-deprivation-dad",
     "category": "Dad Health",
     "description": "Its not just tiredness. The real health impacts and how to mitigate them.",
-    "used": false
+    "used": true
   },
   {
     "title": "Exercise as a Dad: Realistic Approaches",
     "slug": "exercise-as-dad",
     "category": "Dad Health",
     "description": "You dont need an hour. 15-minute strategies that actually work.",
-    "used": false
+    "used": true
   },
   {
     "title": "Postpartum Depression Affects Dads Too",
     "slug": "postpartum-dads",
     "category": "Dad Health",
     "description": "Up to 10% of new fathers experience postpartum depression. Know the signs.",
-    "used": false
+    "used": true
   },
   {
     "title": "Finding Time for Yourself Without Guilt",
@@ -469,28 +469,28 @@
     "slug": "teaching-focus-distraction-age",
     "category": "Human Edge",
     "description": "Attention is the new superpower. How to build it in your children.",
-    "used": false
+    "used": true
   },
   {
     "title": "Creativity: The Ultimate Human Skill",
     "slug": "creativity-ultimate-skill",
     "category": "Human Edge",
     "description": "AI generates. Humans create. Teaching originality over optimization.",
-    "used": false
+    "used": true
   },
   {
     "title": "Why Curiosity Beats Memorization",
     "slug": "curiosity-beats-memorization",
     "category": "Human Edge",
     "description": "In an AI world, asking good questions matters more than knowing answers.",
-    "used": false
+    "used": true
   },
   {
     "title": "Building Resilience in Your Kids",
     "slug": "building-resilience",
     "category": "Human Edge",
     "description": "Let them struggle. Let them fail. Let them figure it out.",
-    "used": false
+    "used": true
   },
   {
     "title": "Teaching Failure as Learning",
@@ -504,7 +504,7 @@
     "slug": "fatherhood-changed-50-years",
     "category": "Historical Fatherhood",
     "description": "From breadwinner to present. The evolution of dad expectations.",
-    "used": false
+    "used": true
   },
   {
     "title": "Lessons From Historical Fathers",
@@ -539,14 +539,14 @@
     "slug": "teaching-kids-money",
     "category": "Modern Fatherhood",
     "description": "Allowance, saving, spending. Financial literacy starts at home.",
-    "used": false
+    "used": true
   },
   {
     "title": "Why Roughhousing Is Good for Kids",
     "slug": "roughhousing-good-for-kids",
     "category": "Toddler Life",
     "description": "Wrestling, chasing, playful aggression. The developmental benefits of physical play.",
-    "used": false
+    "used": true
   },
   {
     "title": "Reading to Your Kids: The Compounding Returns",
