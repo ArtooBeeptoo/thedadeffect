@@ -1,0 +1,166 @@
+{
+  "description": "Story topics for @DadEffect blog - historical dads, cautionary tales, modern inspiring stories",
+  "reference_story": "/home/cajo521/thedadeffect/src/content/stories/theodore-roosevelt-father.md",
+  "topics": [
+    {
+      "title": "Frederick Douglass: The Father Who Taught His Children to Read in Secret",
+      "slug": "frederick-douglass-father",
+      "category": "historical-dads",
+      "era": "19th century America",
+      "hook": "A man who learned to read in defiance of slavery, then made sure his children would never know that darkness.",
+      "used": true
+    },
+    {
+      "title": "Marcus Aurelius: The Philosopher-Emperor Who Wrote Letters to His Sons",
+      "slug": "marcus-aurelius-father",
+      "category": "historical-dads",
+      "era": "Ancient Rome",
+      "hook": "The most powerful man in the world, writing private notes on how to be a good person.",
+      "used": false
+    },
+    {
+      "title": "Johnny Cash: The Man in Black Who Almost Lost Everything",
+      "slug": "johnny-cash-father",
+      "category": "cautionary-tales",
+      "era": "20th century America",
+      "hook": "A legend who chose pills over his children — until June Carter pulled him back.",
+      "used": false
+    },
+    {
+      "title": "Desmond Doss: The Father Who Never Raised a Weapon",
+      "slug": "desmond-doss-father",
+      "category": "historical-dads",
+      "era": "WWII",
+      "hook": "The only conscientious objector to win the Medal of Honor taught his sons that courage doesn't require violence.",
+      "used": false
+    },
+    {
+      "title": "Ernest Hemingway: When Machismo Becomes a Cage",
+      "slug": "ernest-hemingway-father",
+      "category": "cautionary-tales",
+      "era": "20th century",
+      "hook": "The writer who defined American masculinity left a legacy of broken sons.",
+      "used": false
+    },
+    {
+      "title": "Barack Obama: The President Who Ate Dinner With His Daughters",
+      "slug": "barack-obama-father",
+      "category": "modern-inspiring",
+      "era": "21st century",
+      "hook": "The leader of the free world had one non-negotiable: 6:30 PM dinner with Malia and Sasha.",
+      "used": false
+    },
+    {
+      "title": "Bob Marley: 11 Children, One Love, and a Legacy of Complications",
+      "slug": "bob-marley-father",
+      "category": "cautionary-tales",
+      "era": "20th century Jamaica",
+      "hook": "The man who sang about unity struggled to unite his own family.",
+      "used": false
+    },
+    {
+      "title": "Kobe Bryant: The Mamba Mentality as a Father",
+      "slug": "kobe-bryant-father",
+      "category": "modern-inspiring",
+      "era": "21st century",
+      "hook": "He spent his second act not chasing championships, but coaching his daughter's basketball team.",
+      "used": false
+    },
+    {
+      "title": "Ulysses S. Grant: The General Who Just Wanted to Go Home",
+      "slug": "ulysses-grant-father",
+      "category": "historical-dads",
+      "era": "Civil War America",
+      "hook": "The man who won the war wrote more letters to his children than battle orders.",
+      "used": false
+    },
+    {
+      "title": "Joe Jackson: The Father Who Built Stars and Broke Spirits",
+      "slug": "joe-jackson-father",
+      "category": "cautionary-tales",
+      "era": "20th century",
+      "hook": "He created the Jackson 5. The cost was something none of them could ever repay.",
+      "used": false
+    },
+    {
+      "title": "Nelson Mandela: 27 Years Away From His Children",
+      "slug": "nelson-mandela-father",
+      "category": "historical-dads",
+      "era": "20th century South Africa",
+      "hook": "He freed a nation but lost decades with his own family. Was it worth it?",
+      "used": false
+    },
+    {
+      "title": "Stan Lee: The Superhero Creator Who Lost His Only Son",
+      "slug": "stan-lee-father",
+      "category": "modern-inspiring",
+      "era": "20th century",
+      "hook": "The man who invented father figures for millions carried a grief no one talked about.",
+      "used": false
+    },
+    {
+      "title": "Charlemagne: The Father of Europe Who Couldn't Let His Daughters Go",
+      "slug": "charlemagne-father",
+      "category": "historical-dads",
+      "era": "Medieval Europe",
+      "hook": "The emperor who built an empire refused to let his daughters marry — because he loved them too much.",
+      "used": false
+    },
+    {
+      "title": "Ryan Reynolds: The Art of the Self-Deprecating Dad",
+      "slug": "ryan-reynolds-father",
+      "category": "modern-inspiring",
+      "era": "21st century",
+      "hook": "How a movie star normalized admitting that parenting is chaos.",
+      "used": false
+    },
+    {
+      "title": "King George III: The Mad King Was Actually a Devoted Father",
+      "slug": "king-george-iii-father",
+      "category": "historical-dads",
+      "era": "18th century England",
+      "hook": "History remembers him as the tyrant who lost America. His 15 children knew a different man.",
+      "used": false
+    },
+    {
+      "title": "Fred Rogers: The Sweater, The Neighborhood, The Dad",
+      "slug": "fred-rogers-father",
+      "category": "modern-inspiring",
+      "era": "20th century",
+      "hook": "Mr. Rogers wasn't playing a character. He was the same man at home.",
+      "used": false
+    },
+    {
+      "title": "Genghis Khan: A Father to Millions (Literally)",
+      "slug": "genghis-khan-father",
+      "category": "cautionary-tales",
+      "era": "Medieval Asia",
+      "hook": "The conqueror who fathered an estimated 16 million descendants — and what that actually meant.",
+      "used": false
+    },
+    {
+      "title": "Dwayne 'The Rock' Johnson: Breaking the Cycle",
+      "slug": "dwayne-johnson-father",
+      "category": "modern-inspiring",
+      "era": "21st century",
+      "hook": "His father was never there. He refuses to make the same mistake.",
+      "used": false
+    },
+    {
+      "title": "Abraham Lincoln: The President Who Played With His Sons in the War Room",
+      "slug": "abraham-lincoln-father",
+      "category": "historical-dads",
+      "era": "Civil War America",
+      "hook": "Tad and Willie ran wild through the White House. Their father wouldn't have it any other way.",
+      "used": false
+    },
+    {
+      "title": "Marvin Gaye: The Voice of a Generation, Silenced by His Father",
+      "slug": "marvin-gaye-father",
+      "category": "cautionary-tales",
+      "era": "20th century",
+      "hook": "The man who sang 'What's Going On' never got an answer from the one person who mattered.",
+      "used": false
+    }
+  ]
+}

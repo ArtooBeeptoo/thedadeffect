@@ -455,14 +455,14 @@
     "slug": "me-time-without-guilt",
     "category": "Dad Health",
     "description": "Self-care is not selfish. A rested dad is a better dad.",
-    "used": false
+    "used": true
   },
   {
     "title": "Stress Management for New Dads",
     "slug": "stress-management-dads",
     "category": "Dad Health",
     "description": "Practical techniques that fit into a chaotic schedule.",
-    "used": false
+    "used": true
   },
   {
     "title": "Teaching Kids to Focus in a Distraction Age",
@@ -497,7 +497,7 @@
     "slug": "teaching-failure-learning",
     "category": "Human Edge",
     "description": "Reframe the L. How you respond to their failures shapes their relationship with risk.",
-    "used": false
+    "used": true
   },
   {
     "title": "How Fatherhood Has Changed Over 50 Years",
@@ -511,28 +511,28 @@
     "slug": "lessons-historical-fathers",
     "category": "Historical Fatherhood",
     "description": "What Lincoln, Roosevelt, and others taught their children.",
-    "used": false
+    "used": true
   },
   {
     "title": "Dad Wisdom Throughout History",
     "slug": "dad-wisdom-history",
     "category": "Historical Fatherhood",
     "description": "Timeless advice from fathers across centuries and cultures.",
-    "used": false
+    "used": true
   },
   {
     "title": "How Other Cultures Do Fatherhood",
     "slug": "cultures-fatherhood",
     "category": "Historical Fatherhood",
     "description": "Scandinavian equality, Japanese dedication, African community. Different models, same love.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Working Dad Through History",
     "slug": "working-dad-history",
     "category": "Historical Fatherhood",
     "description": "From farms to factories to remote work. How dad roles have shifted with economics.",
-    "used": false
+    "used": true
   },
   {
     "title": "Teaching Your Kids About Money",
@@ -553,35 +553,35 @@
     "slug": "reading-to-kids",
     "category": "Toddler Life",
     "description": "20 minutes a day. 1.8 million words by kindergarten. The math is staggering.",
-    "used": false
+    "used": true
   },
   {
     "title": "When Your Kid Asks About Death",
     "slug": "kid-asks-about-death",
     "category": "Modern Fatherhood",
     "description": "Honest, age-appropriate answers. They can handle more than you think.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Power of Predictability",
     "slug": "power-of-predictability",
     "category": "Toddler Life",
     "description": "Routines create security. Why consistency is a gift to your kids.",
-    "used": false
+    "used": true
   },
   {
     "title": "How to Cook Simple Meals With Your Kids",
     "slug": "cooking-with-kids",
     "category": "Dad Skills",
     "description": "Cooking together isn't about the food. It's about math, science, patience, and memories. Here's how to start without losing your mind.",
-    "used": false
+    "used": true
   },
   {
     "title": "Teaching Your Kids to Swim",
     "slug": "teaching-kids-to-swim",
     "category": "Dad Skills",
     "description": "A life-safety skill and a rite of passage. When to start, what to expect, and how dads can lead the water experience.",
-    "used": false
+    "used": true
   },
   {
     "title": "Basic Car Maintenance Every Dad Should Teach",
