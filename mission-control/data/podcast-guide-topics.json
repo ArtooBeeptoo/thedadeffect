@@ -1,0 +1,114 @@
+{
+  "description": "Podcast episodes to turn into dad-focused guides. Take science/wisdom from popular pods and apply to fatherhood.",
+  "reference_guide": "/home/cajo521/thedadeffect/src/content/guides/science-of-being-a-dad-huberman.md",
+  "topics": [
+    {
+      "title": "What Jocko Willink Teaches About Discipline (And Raising Disciplined Kids)",
+      "slug": "jocko-willink-discipline-dads",
+      "podcast": "Jocko Podcast",
+      "category": "health",
+      "angle": "Military discipline principles applied to parenting without being a drill sergeant",
+      "search_terms": ["jocko willink parenting", "jocko willink kids discipline", "extreme ownership parenting"],
+      "used": true
+    },
+    {
+      "title": "Tim Ferriss on Fear-Setting for Dads: Make Better Decisions Under Pressure",
+      "slug": "tim-ferriss-fear-setting-dads",
+      "podcast": "Tim Ferriss Show",
+      "category": "health",
+      "angle": "Use fear-setting framework for parenting decisions, career changes, risks",
+      "search_terms": ["tim ferriss fear setting", "tim ferriss parenting", "fear setting framework"],
+      "used": true
+    },
+    {
+      "title": "What Huberman Says About Sleep Deprivation (And How New Dads Survive It)",
+      "slug": "huberman-sleep-deprivation-new-dads",
+      "podcast": "Huberman Lab",
+      "category": "health",
+      "angle": "Neuroscience of sleep deprivation + practical protocols for new dads",
+      "search_terms": ["huberman sleep deprivation", "huberman new parents sleep", "sleep protocols new parents"],
+      "used": false
+    },
+    {
+      "title": "David Goggins on Mental Toughness: Lessons for the Hardest Job You'll Ever Love",
+      "slug": "david-goggins-mental-toughness-dads",
+      "podcast": "Various (Rogan, Impact Theory)",
+      "category": "health",
+      "angle": "Goggins' mental toughness applied to parenting marathons, not sprints",
+      "search_terms": ["david goggins parenting", "david goggins mental toughness", "goggins discipline kids"],
+      "used": false
+    },
+    {
+      "title": "What Peter Attia Teaches About Longevity (And Why Dads Need to Hear It)",
+      "slug": "peter-attia-longevity-dads",
+      "podcast": "The Drive",
+      "category": "health",
+      "angle": "Live long enough to meet your grandkids - Attia's frameworks for dads",
+      "search_terms": ["peter attia longevity", "peter attia exercise", "healthspan for parents"],
+      "used": false
+    },
+    {
+      "title": "Brené Brown on Vulnerability: Why Strong Dads Show Emotion",
+      "slug": "brene-brown-vulnerability-dads",
+      "podcast": "Unlocking Us / Various",
+      "category": "health",
+      "angle": "Vulnerability as strength, modeling emotional intelligence for kids",
+      "search_terms": ["brene brown vulnerability men", "brene brown parenting", "vulnerability fatherhood"],
+      "used": false
+    },
+    {
+      "title": "What Rhonda Patrick Says About Nutrition (Dad Fuel Edition)",
+      "slug": "rhonda-patrick-nutrition-dads",
+      "podcast": "FoundMyFitness",
+      "category": "health",
+      "angle": "Science-backed nutrition for exhausted dads who live on coffee and kid snacks",
+      "search_terms": ["rhonda patrick nutrition", "foundmyfitness diet", "optimal nutrition busy parents"],
+      "used": false
+    },
+    {
+      "title": "Jordan Peterson on Responsibility: The Weight and Gift of Fatherhood",
+      "slug": "jordan-peterson-responsibility-dads",
+      "podcast": "Jordan Peterson Podcast / Maps of Meaning",
+      "category": "health",
+      "angle": "Responsibility as meaning - Peterson's philosophy applied to dadhood",
+      "search_terms": ["jordan peterson responsibility", "jordan peterson parenting", "peterson fatherhood"],
+      "used": false
+    },
+    {
+      "title": "Huberman on Dopamine: Why Your Kid's Screen Time Matters (And Yours Too)",
+      "slug": "huberman-dopamine-screen-time-dads",
+      "podcast": "Huberman Lab",
+      "category": "health",
+      "angle": "Dopamine science + practical screen time rules for the whole family",
+      "search_terms": ["huberman dopamine", "huberman screen time", "dopamine kids screens"],
+      "used": false
+    },
+    {
+      "title": "What The All-In Podcast Teaches About Building Wealth for Your Kids",
+      "slug": "all-in-podcast-wealth-dads",
+      "podcast": "All-In Podcast",
+      "category": "money",
+      "angle": "Chamath, Sacks, etc. on building generational wealth without being a workaholic",
+      "search_terms": ["all in podcast wealth", "generational wealth building", "tech money parenting"],
+      "used": false
+    },
+    {
+      "title": "Rich Roll on Plant-Based Performance for Dads Who Want Energy",
+      "slug": "rich-roll-plant-based-dads",
+      "podcast": "Rich Roll Podcast",
+      "category": "health",
+      "angle": "Ultra-endurance lessons for the marathon of parenting",
+      "search_terms": ["rich roll plant based", "rich roll parenting", "endurance athlete dad"],
+      "used": false
+    },
+    {
+      "title": "What Mark Manson Teaches About Not Giving a F*ck (Parenting Edition)",
+      "slug": "mark-manson-parenting",
+      "podcast": "Various / Books",
+      "category": "health",
+      "angle": "Choosing your battles, caring about what matters, letting go of parent guilt",
+      "search_terms": ["mark manson parenting", "subtle art parenting", "not giving a fuck as parent"],
+      "used": false
+    }
+  ]
+}
