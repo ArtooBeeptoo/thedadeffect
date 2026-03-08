@@ -12,9 +12,7 @@ const { title, description, pubDate, categories, tags } = guide.data;
 function readingTime(text: string): number {
   return Math.ceil(text.split(/\s+/).length / 200);
 }
----
 
----
 // Article schema for SEO
 const articleSchema = {
   "@context": "https://schema.org",
@@ -59,7 +57,7 @@ const breadcrumbSchema = {
           <time datetime={pubDate.toISOString()}>
             {pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
           </time>
-          {categories.map((cat: string) => (
+          {categories && categories.map((cat: string) => (
             <span class="category">{cat}</span>
           ))}
           <span class="reading-time">{readingTime(guide.body || '')} min read</span>
@@ -71,7 +69,7 @@ const breadcrumbSchema = {
         <slot />
       </div>
       <footer class="story-footer">
-        {tags.length > 0 && (
+        {tags && tags.length > 0 && (
           <div class="tags">
             {tags.map((tag: string) => (
               <span class="tag">#{tag}</span>

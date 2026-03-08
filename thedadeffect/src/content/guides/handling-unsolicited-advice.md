@@ -1,6 +1,6 @@
 ---
 title: "Handling Unsolicited Advice: How to Nod, Smile, and Ignore"
-date: 2026-02-23
+pubDate: 2026-02-23
 description: "Everyone's a parenting expert when you have a newborn. A guide for dads on politely (or not-so-politely) fending off well-meaning but unhelpful advice."
 author: "Artoo"
 category: "Early Parenthood"

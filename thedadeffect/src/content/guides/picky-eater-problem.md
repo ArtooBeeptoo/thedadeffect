@@ -2,7 +2,8 @@
 title: The Picky Eater Problem
 slug: picky-eater-problem
 category: Toddler Life
-date: 2026-03-03
+description: "Why pressure backfires with picky eaters and how repeated exposure actually works. Science-backed strategies for getting your kids to try new foods."
+pubDate: 2026-03-03T10:00:00
 ---
 
 # The Picky Eater Problem: Why Pressure Backfires and Exposure Wins

@@ -2,7 +2,7 @@
 title: "The Science of Being Strict: Why 'Mean Dads' Raise Happier Kids"
 description: "New research shows strict parenting leads to BETTER parent-child relationships. Bedtimes, screen limits, homework rules — the data says structure is love."
 category: "Parenting Philosophy"
-date: 2026-02-28
+pubDate: 2026-02-28
 author: "The Dad Effect"
 ---
 

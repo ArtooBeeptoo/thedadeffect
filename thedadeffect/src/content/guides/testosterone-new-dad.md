@@ -1,6 +1,6 @@
 ---
 title: "What Happens to Your Testosterone When You Become a Dad"
-date: "2026-02-24"
+pubDate: "2026-02-24"
 category: "Dad Health"
 description: "The science behind the hormone shift when you're expecting. How your body literally changes to prepare you for fatherhood. Huberman Lab-inspired."
 author: "Artoo"
