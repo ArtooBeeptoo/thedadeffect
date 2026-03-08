@@ -12,9 +12,44 @@ const { title, description, pubDate, categories, tags } = guide.data;
 function readingTime(text: string): number {
   return Math.ceil(text.split(/\s+/).length / 200);
 }
+
+// Article schema for SEO
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description,
+  "datePublished": pubDate.toISOString(),
+  "author": {
+    "@type": "Organization",
+    "name": "The Dad Effect",
+    "url": "https://thedadeffect.pages.dev"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Dad Effect",
+    "url": "https://thedadeffect.pages.dev"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": Astro.url.href
+  }
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://thedadeffect.pages.dev" },
+    { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://thedadeffect.pages.dev/guides" },
+    { "@type": "ListItem", "position": 3, "name": title }
+  ]
+};
 ---
 
 <BaseLayout title={`${title} | Dad Guides`} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <div class="container">
     <article class="single-story">
       <header class="story-header">
@@ -22,7 +57,7 @@ function readingTime(text: string): number {
           <time datetime={pubDate.toISOString()}>
             {pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
           </time>
-          {categories.map((cat: string) => (
+          {categories && categories.map((cat: string) => (
             <span class="category">{cat}</span>
           ))}
           <span class="reading-time">{readingTime(guide.body || '')} min read</span>
@@ -34,7 +69,7 @@ function readingTime(text: string): number {
         <slot />
       </div>
       <footer class="story-footer">
-        {tags.length > 0 && (
+        {tags && tags.length > 0 && (
           <div class="tags">
             {tags.map((tag: string) => (
               <span class="tag">#{tag}</span>

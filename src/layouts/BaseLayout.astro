@@ -27,6 +27,21 @@ const pageTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
   <meta name="twitter:site" content="@DadEffect" />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="sitemap" href="/sitemap-index.xml" />
+  
+  <!-- JSON-LD WebSite Schema -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "The Dad Effect",
+    "description": "Stories of fathers who shaped history — and the ones shaping tomorrow.",
+    "url": "https://thedadeffect.pages.dev",
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Dad Effect",
+      "url": "https://thedadeffect.pages.dev",
+      "sameAs": ["https://x.com/DadEffect"]
+    }
+  })} />
 </head>
 <body>
   <header class="site-header">
