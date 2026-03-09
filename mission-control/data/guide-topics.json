@@ -602,181 +602,931 @@
     "slug": "teach-kid-ride-bike",
     "category": "Dad Skills",
     "description": "The method matters less than the patience. A step-by-step approach to two-wheel success that builds confidence, not tears.",
-    "used": false
+    "used": true
   },
   {
     "title": "Your First Father-Son Camping Trip: A Practical Guide",
     "slug": "father-son-camping-trip",
     "category": "Dad Adventures",
     "description": "Gear lists, campfire safety, and the conversation that only happens when the phones are away and the stars are out.",
-    "used": false
+    "used": true
   },
   {
     "title": "Fishing With Kids: Managing Expectations and Hooks",
     "slug": "fishing-with-kids",
     "category": "Dad Adventures",
     "description": "Fishing teaches patience like nothing else. Here's how to make the first trip fun even when nothing bites.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Family Road Trip: Survival Guide for the Driver",
     "slug": "family-road-trip-survival",
     "category": "Dad Adventures",
     "description": "Long miles, short tempers, and memories that last forever. How to plan, survive, and actually enjoy driving your family across the country.",
-    "used": false
+    "used": true
   },
   {
     "title": "Dad Bucket List: Adventures Worth Planning Before They Grow Up",
     "slug": "dad-bucket-list-adventures",
     "category": "Dad Adventures",
     "description": "The window is shorter than you think. A curated list of adventures \u2014 scaled by age \u2014 worth putting on the calendar now.",
-    "used": false
+    "used": true
   },
   {
     "title": "Winter Sports With Kids: Skiing, Sledding, and Cold-Weather Sanity",
     "slug": "winter-sports-with-kids",
     "category": "Dad Adventures",
     "description": "Cold is an excuse. Snow is a classroom. Here's how to get young kids excited about winter instead of dreading it.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Stay-at-Home Dad: What Nobody Tells You",
     "slug": "stay-at-home-dad-reality",
     "category": "Modern Fatherhood",
     "description": "It's harder, lonelier, and more meaningful than any job description. The honest truth about full-time fatherhood from the dads who live it.",
-    "used": false
+    "used": true
   },
   {
     "title": "Co-Parenting When It's Hard: Keeping Kids First",
     "slug": "coparenting-when-its-hard",
     "category": "Modern Fatherhood",
     "description": "Disagreements, tension, logistics. How to keep your kid's wellbeing at the center when parenting with an ex is complicated.",
-    "used": false
+    "used": true
   },
   {
     "title": "Dads and Mental Health: Breaking the Silence",
     "slug": "dads-mental-health-breaking-silence",
     "category": "Modern Fatherhood",
     "description": "1 in 5 dads experience anxiety or depression. Most never say a word. Why the silence kills and what it takes to break it.",
-    "used": false
+    "used": true
   },
   {
     "title": "How to Actually Disconnect From Work When You're Home",
     "slug": "disconnect-from-work-be-present",
     "category": "Modern Fatherhood",
     "description": "The email will wait. Your kid won't. Practical strategies for mentally clocking out so you can actually clock in at home.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Dadpreneur: Building a Business While Being Present",
     "slug": "dadpreneur-business-while-present",
     "category": "Modern Fatherhood",
     "description": "Entrepreneurship and fatherhood both demand everything. How dads who build businesses talk about balance, priorities, and what they'd do differently.",
-    "used": false
+    "used": true
   },
   {
     "title": "Why Your Toddler Asks \"Why\" 400 Times a Day (And Why That's Good)",
     "slug": "toddler-why-questions",
     "category": "Toddler Life",
     "description": "The endless why phase isn't annoying \u2014 it's your kid building their entire model of reality. Here's what's actually happening in their brain.",
-    "used": false
+    "used": true
   },
   {
     "title": "Helping Toddlers With Big Feelings Without Losing Yours",
     "slug": "toddler-big-feelings-dad",
     "category": "Toddler Life",
     "description": "The meltdown isn't an attack. It's a signal. How to stay regulated when your 3-year-old is absolutely not.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Sibling Transition: Helping Your Firstborn Welcome Baby",
     "slug": "sibling-transition-firstborn",
     "category": "Toddler Life",
     "description": "Your firstborn is about to have their world rocked. How dads can protect the relationship with kid #1 while welcoming kid #2.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Dad Body: Reclaiming Your Fitness in 20 Minutes a Day",
     "slug": "dad-body-fitness-20-minutes",
     "category": "Dad Health",
     "description": "You don't need a gym, an hour, or a perfect plan. Here's what actually works for dads who are tired and short on time.",
-    "used": false
+    "used": true
   },
   {
     "title": "Sleep When You're a Dad: How to Survive and Eventually Recover",
     "slug": "sleep-when-youre-a-dad",
     "category": "Dad Health",
     "description": "Years of disrupted sleep takes a real toll. What the science says about catching up, power naps, and protecting your health long-term.",
-    "used": false
+    "used": true
   },
   {
     "title": "Authoritative vs. Authoritarian Parenting: What the Research Says",
     "slug": "authoritative-vs-authoritarian",
     "category": "Parenting Philosophy",
     "description": "One produces confident, well-adjusted adults. The other produces compliance \u2014 and sometimes anxiety. The data is clear.",
-    "used": false
+    "used": true
   },
   {
     "title": "Raising Boys: What Works, What Doesn't, and What We Got Wrong",
     "slug": "raising-boys-what-works",
     "category": "Parenting Philosophy",
     "description": "Boys need to be taught, not just corrected. The research on emotional development, discipline, and raising men who are both strong and kind.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Gift of Boredom: Why Kids Need Unstructured Time",
     "slug": "gift-of-boredom-unstructured-time",
     "category": "Parenting Philosophy",
     "description": "Every moment scheduled is a moment of creativity lost. Why the best thing you can do for your kid is sometimes nothing.",
-    "used": false
+    "used": true
   },
   {
     "title": "Screen Time and Kids: What the Research Actually Says in 2025",
     "slug": "screen-time-kids-research-2025",
     "category": "Parenting Philosophy",
     "description": "Not all screens are equal. The current state of research on devices, gaming, social media, and what parents should actually worry about.",
-    "used": false
+    "used": true
   },
   {
     "title": "Why \"Because I Said So\" Is a Parenting Trap",
     "slug": "because-i-said-so-parenting-trap",
     "category": "Parenting Philosophy",
     "description": "Authority without explanation teaches compliance without understanding. Why explaining yourself to your kids isn't weakness \u2014 it's strategy.",
-    "used": false
+    "used": true
   },
   {
     "title": "What AI Can't Teach: Wisdom, Grit, and the Father Advantage",
     "slug": "what-ai-cant-teach-father-advantage",
     "category": "Human Edge",
     "description": "Algorithms can optimize. Dads transmit. The irreplaceable things that only happen in the space between a father and his kid.",
-    "used": false
+    "used": true
   },
   {
     "title": "Raising Kids Who Can Think for Themselves",
     "slug": "raising-independent-thinkers",
     "category": "Human Edge",
     "description": "In an age of algorithmic influence, critical thinking is a survival skill. How dads can raise kids who question, reason, and decide for themselves.",
-    "used": false
+    "used": true
   },
   {
     "title": "The First 24 Hours: Everything New Dads Need to Know at the Hospital",
     "slug": "first-24-hours-hospital-dads",
     "category": "Early Parenthood",
     "description": "You've got a baby now. Here's what actually happens in the first day \u2014 skin-to-skin, feeding, vitals, and the emotions nobody warns you about.",
-    "used": false
+    "used": true
   },
   {
     "title": "Going Home With a Newborn: The Car Seat, the Car Ride, and the Panic",
     "slug": "going-home-newborn-dads",
     "category": "Early Parenthood",
     "description": "The drive home is the most terrifying 15 minutes of your life. What to expect \u2014 and how to stop white-knuckling the steering wheel.",
-    "used": false
+    "used": true
   },
   {
     "title": "The First Year: Month-by-Month Dad's Survival Guide",
     "slug": "first-year-monthly-dads-guide",
     "category": "Early Parenthood",
     "description": "Sleep regressions, milestones, teething, and the moment your baby first reaches for you. A month-by-month breakdown of what's coming and how to handle it.",
+    "used": true
+  },
+  {
+    "title": "Who Are You Outside of Being a Dad?",
+    "slug": "identity-outside-fatherhood",
+    "category": "Dad Identity",
+    "description": "Fatherhood reshapes your identity. How to keep yourself while giving your best to your kids.",
+    "used": true
+  },
+  {
+    "title": "The Friendship Drought: Why Dads Lose Friends and How to Keep Them",
+    "slug": "dad-friendship-drought",
+    "category": "Dad Identity",
+    "description": "Friendships fade after kids. Why it happens, why it matters, and how to fight it.",
+    "used": true
+  },
+  {
+    "title": "Fatherhood Changed How I See My Own Dad",
+    "slug": "fatherhood-changed-how-i-see-my-dad",
+    "category": "Dad Identity",
+    "description": "The moment you become a dad is the moment you finally understand your father. A universal experience.",
+    "used": true
+  },
+  {
+    "title": "Natural Consequences: The Discipline Method That Actually Works",
+    "slug": "natural-consequences-discipline",
+    "category": "Discipline & Guidance",
+    "description": "Letting kids experience the results of their choices \u2014 the most powerful teaching tool you already have.",
+    "used": true
+  },
+  {
+    "title": "The Difference Between Punishment and Discipline",
+    "slug": "punishment-vs-discipline",
+    "category": "Discipline & Guidance",
+    "description": "Punishment stops behavior. Discipline builds character. What it looks like in practice.",
+    "used": true
+  },
+  {
+    "title": "How to Apologize to Your Kids (And Why It Matters)",
+    "slug": "how-to-apologize-to-your-kids",
+    "category": "Discipline & Guidance",
+    "description": "Saying sorry to a 4-year-old is not weakness. It's the most powerful modeling you can do.",
+    "used": true
+  },
+  {
+    "title": "The Dad Who Reads to His Kids Wins",
+    "slug": "dad-who-reads-wins",
+    "category": "School & Learning",
+    "description": "The research is clear: kids whose dads read to them have larger vocabularies, better grades, and stronger bonds.",
+    "used": true
+  },
+  {
+    "title": "How to Help With Homework Without Doing It For Them",
+    "slug": "homework-help-without-doing-it",
+    "category": "School & Learning",
+    "description": "The line between helping and taking over. How to coach, not rescue.",
+    "used": true
+  },
+  {
+    "title": "Raising a Reader in a Screen World",
+    "slug": "raising-a-reader",
+    "category": "School & Learning",
+    "description": "Books vs. screens. How to build a reading habit when everything else is competing for your kid's attention.",
+    "used": true
+  },
+  {
+    "title": "The Relationship That Gets Neglected Most After Kids: Yours",
+    "slug": "relationship-neglect-after-kids",
+    "category": "Marriage & Partnership",
+    "description": "Kids demand everything. Your marriage demands investment. How to keep both alive.",
+    "used": true
+  },
+  {
+    "title": "Date Night Isn't Optional. It's Infrastructure.",
+    "slug": "date-night-infrastructure",
+    "category": "Marriage & Partnership",
+    "description": "The couples who keep dating keep thriving. Practical strategies when time and money feel tight.",
+    "used": true
+  },
+  {
+    "title": "How to Fight Better in Front of Your Kids",
+    "slug": "fight-better-in-front-of-kids",
+    "category": "Marriage & Partnership",
+    "description": "You WILL disagree in front of your children. How you handle it is the lesson \u2014 make it a good one.",
+    "used": true
+  },
+  {
+    "title": "The 2-Year-Old Doesn't Want to Share. Here's Why That's Normal.",
+    "slug": "toddler-doesnt-want-to-share",
+    "category": "Toddler Life",
+    "description": "Forced sharing doesn't teach sharing. What does \u2014 and what the research says.",
+    "used": true
+  },
+  {
+    "title": "Potty Training: The Honest Dad Timeline",
+    "slug": "potty-training-honest-dad",
+    "category": "Toddler Life",
+    "description": "No hacks. No 3-day promises. Just what actually works, what to expect, and when to relax.",
+    "used": true
+  },
+  {
+    "title": "The Toddler Bedtime Battle and How to Win It (Without Losing Your Mind)",
+    "slug": "toddler-bedtime-battle",
+    "category": "Toddler Life",
+    "description": "Bedtime resistance is universal. The routines, phrases, and tactics that actually end the war.",
+    "used": true
+  },
+  {
+    "title": "The Pressure to Be a Perfect Dad Is Making Us Worse Dads",
+    "slug": "pressure-to-be-perfect-dad",
+    "category": "Modern Fatherhood",
+    "description": "Performative parenting is on the rise. Why the bar is getting higher and the grace is disappearing.",
+    "used": true
+  },
+  {
+    "title": "What Working from Home Really Does to Fatherhood",
+    "slug": "work-from-home-fatherhood",
+    "category": "Modern Fatherhood",
+    "description": "You're home all day but are you THERE? The paradox of remote work and present parenting.",
+    "used": true
+  },
+  {
+    "title": "The Long-Distance Dad: Making Every Visit Count",
+    "slug": "long-distance-dad",
+    "category": "Modern Fatherhood",
+    "description": "For dads who travel for work, share custody, or are deployed \u2014 how to stay close when you're far.",
+    "used": true
+  },
+  {
+    "title": "Teaching Your Kid to Swim: What Actually Works",
+    "slug": "teaching-kid-to-swim",
+    "category": "Dad Adventures",
+    "description": "The fundamentals, the fear, and the moment they swim without you holding on.",
+    "used": true
+  },
+  {
+    "title": "The Mountain Hike With a Toddler: Gear, Pacing, and Managing Expectations",
+    "slug": "mountain-hike-with-toddler",
+    "category": "Dad Adventures",
+    "description": "Getting kids outside from year one. The reality of hiking with small people and why it's worth it.",
+    "used": true
+  },
+  {
+    "title": "Teaching Basic Car Maintenance to Your Kids",
+    "slug": "car-maintenance-for-kids",
+    "category": "Dad Skills",
+    "description": "Checking oil, changing a tire, jumping a battery. Skills every kid should leave home knowing.",
+    "used": true
+  },
+  {
+    "title": "The Comparison Trap: Your Kid Is Not Behind",
+    "slug": "comparison-trap-your-kid",
+    "category": "Parenting Philosophy",
+    "description": "Milestone anxiety. Social media benchmarks. Why comparing your kid to every other kid is poisonous.",
+    "used": true
+  },
+  {
+    "title": "Teach Your Kid to Lose",
+    "slug": "teach-your-kid-to-lose",
+    "category": "Parenting Philosophy",
+    "description": "The best gift you can give a competitive kid is how to handle defeat gracefully. It takes practice.",
+    "used": true
+  },
+  {
+    "title": "The Participation Trophy Debate (And Why Both Sides Miss the Point)",
+    "slug": "participation-trophy-debate",
+    "category": "Parenting Philosophy",
+    "description": "Beyond trophies \u2014 the real conversation about effort, outcome, and what we actually want our kids to value.",
+    "used": true
+  },
+  {
+    "title": "529 Plans, Custodial Accounts, and Teaching Money Early",
+    "slug": "college-savings-money-early",
+    "category": "Finances & Future",
+    "description": "Saving for your kids doesn't have to be complicated. The basics every dad should understand.",
+    "used": true
+  },
+  {
+    "title": "The Allowance Debate: Pay for Chores or Not?",
+    "slug": "allowance-debate",
+    "category": "Finances & Future",
+    "description": "Both sides have evidence. Here's a framework for whatever you decide \u2014 and why consistency matters more than the method.",
+    "used": true
+  },
+  {
+    "title": "How Dads Were Depicted in Media 50 Years Ago (And Why It Mattered)",
+    "slug": "dads-in-media-50-years-ago",
+    "category": "Historical Fatherhood",
+    "description": "From bumbling TV dads to absentee breadwinners \u2014 how pop culture shaped what we thought fatherhood looked like.",
+    "used": true
+  },
+  {
+    "title": "The Stoic Fathers: Emotional Absence and the Men Who Raised Us",
+    "slug": "stoic-fathers-emotional-absence",
+    "category": "Historical Fatherhood",
+    "description": "Understanding the generation of emotionally unavailable dads \u2014 and how to consciously break the cycle.",
+    "used": true
+  },
+  {
+    "title": "The First Word, First Steps, First Day of School: Why Dads Cry",
+    "slug": "milestones-why-dads-cry",
+    "category": "Milestones",
+    "description": "Milestones hit different as a dad. The science of why these moments feel enormous \u2014 and why you should let yourself feel them.",
+    "used": true
+  },
+  {
+    "title": "Sending Your Kid to Kindergarten: The Dad Version",
+    "slug": "kindergarten-dad-version",
+    "category": "Milestones",
+    "description": "What nobody prepares you for when you drop them off that first day. And why showing emotion is exactly right.",
+    "used": true
+  },
+  {
+    "title": "The Last Years of Childhood: Why the 9-12 Window Matters Most",
+    "slug": "last-years-childhood-9-12-window",
+    "category": "Teenage Years",
+    "description": "Before the teenage storm hits, there's a window. How dads can use ages 9-12 to build a relationship that survives adolescence.",
+    "used": true
+  },
+  {
+    "title": "How to Talk to Your Teenage Son About Girls, Respect, and What Manhood Actually Means",
+    "slug": "talking-to-teenage-son-girls-manhood",
+    "category": "Teenage Years",
+    "description": "The conversation most dads avoid and why avoiding it costs you. Real frameworks for raising boys who treat people well.",
+    "used": true
+  },
+  {
+    "title": "The Quiet Years: When Your Kid Stops Talking to You and How to Get It Back",
+    "slug": "quiet-years-kid-stops-talking",
+    "category": "Teenage Years",
+    "description": "Most dads lose the conversation around age 12. This is how it happens, why it's not too late, and what actually works.",
+    "used": true
+  },
+  {
+    "title": "Teaching Your Kid to Lose Without Losing It",
+    "slug": "teaching-kids-to-lose",
+    "category": "Sports & Competition",
+    "description": "How you handle defeat at age 7 shapes how they handle it at 37. The right way to process a loss \u2014 without pretending it doesn't sting.",
+    "used": true
+  },
+  {
+    "title": "The Dad Who Coaches: Why It's Both the Best and Hardest Thing You Can Do",
+    "slug": "dad-who-coaches",
+    "category": "Sports & Competition",
+    "description": "Coaching your own kid's team is a masterclass in separating 'dad' from 'coach' \u2014 and most dads get it wrong at first.",
+    "used": true
+  },
+  {
+    "title": "When Your Kid Quits the Sport They Once Loved",
+    "slug": "kid-quits-sport-they-loved",
+    "category": "Sports & Competition",
+    "description": "Do you push through or let go? The answer depends on age, reason, and what you're actually trying to teach.",
+    "used": true
+  },
+  {
+    "title": "Raising Kids in the Age of Infinite Distraction",
+    "slug": "raising-kids-infinite-distraction",
+    "category": "Digital Age",
+    "description": "Phones, tablets, YouTube, TikTok. The attention economy is designed to capture your child. What dads can do about it.",
+    "used": true
+  },
+  {
+    "title": "How to Teach Your Kids About AI Before the World Does It for You",
+    "slug": "teach-kids-about-ai",
+    "category": "Digital Age",
+    "description": "AI is reshaping every career. The dads who talk about it now are giving their kids a decade-long head start.",
+    "used": true
+  },
+  {
+    "title": "Gaming With Your Kids: The Underrated Bonding Tool Most Dads Ignore",
+    "slug": "gaming-with-kids-bonding",
+    "category": "Digital Age",
+    "description": "Stop fighting the controller. Start picking one up. What gaming together actually teaches and how to make it intentional.",
+    "used": true
+  },
+  {
+    "title": "How to Pass on Your Values Without Forcing Your Beliefs",
+    "slug": "passing-on-values-without-forcing",
+    "category": "Faith & Values",
+    "description": "The difference between raising a child with conviction and raising one who's just performing yours. Why it matters, how to thread the needle.",
+    "used": true
+  },
+  {
+    "title": "Raising Kids With Character in a World That Rewards Shortcuts",
+    "slug": "raising-kids-with-character",
+    "category": "Faith & Values",
+    "description": "Integrity, honesty, delayed gratification \u2014 these aren't just values, they're survival skills for the world your kids will inherit.",
+    "used": true
+  },
+  {
+    "title": "What Do You Want Your Kids to Say About You at Your Funeral?",
+    "slug": "what-kids-say-at-funeral",
+    "category": "Legacy & Purpose",
+    "description": "Morbid? Maybe. But most dads have never asked this question \u2014 and it completely reframes daily parenting decisions.",
+    "used": true
+  },
+  {
+    "title": "Letters to My Sons: Why Every Dad Should Write Them",
+    "slug": "letters-to-my-sons",
+    "category": "Legacy & Purpose",
+    "description": "Words they can read at 16, 25, 40. The practice of writing to your kids is one of the highest-leverage things a dad can do.",
+    "used": true
+  },
+  {
+    "title": "Generational Wealth vs. Generational Values: Which Matters More?",
+    "slug": "generational-wealth-vs-values",
+    "category": "Legacy & Purpose",
+    "description": "Most inheritance is squandered. The families that stay strong across generations pass something more durable than money.",
+    "used": true
+  },
+  {
+    "title": "Grandparents: Asset, Liability, or Both?",
+    "slug": "grandparents-asset-liability",
+    "category": "Extended Family",
+    "description": "The complicated math of having grandparents involved in your kids' lives \u2014 and how to maximize the good while managing the friction.",
+    "used": true
+  },
+  {
+    "title": "When Your Parents and Your Partner Disagree on How to Raise Your Kids",
+    "slug": "parents-vs-partner-raising-kids",
+    "category": "Extended Family",
+    "description": "You love them all. They all want different things. How to hold the line without burning the family down.",
+    "used": true
+  },
+  {
+    "title": "The 529 vs. Everything Else: What Dads Actually Need to Know",
+    "slug": "529-college-savings-dads-guide",
+    "category": "Finances & Future",
+    "description": "College may look completely different in 15 years. How to save smart without betting your kids' future on one outcome.",
+    "used": true
+  },
+  {
+    "title": "Teaching Your Kid About Crypto, Bitcoin, and Sound Money",
+    "slug": "teaching-kids-crypto-bitcoin",
+    "category": "Finances & Future",
+    "description": "Fiat debasement is the world they'll inherit. The basics every dad should be able to explain \u2014 and why starting early matters.",
+    "used": true
+  },
+  {
+    "title": "The First Job: How Dads Can Frame Work as Identity, Not Just Income",
+    "slug": "kids-first-job-identity-income",
+    "category": "Finances & Future",
+    "description": "Most first jobs are terrible. That's the point. What your kid learns in a summer job that no classroom can teach.",
+    "used": true
+  },
+  {
+    "title": "The 10-10-10 Rule: A Dad's Decision Framework That Actually Works",
+    "slug": "10-10-10-rule-dad-decision-framework",
+    "category": "Dad Mental Models",
+    "description": "How will this decision feel in 10 minutes? 10 months? 10 years? Applying long-term thinking to everyday parenting calls.",
+    "used": true
+  },
+  {
+    "title": "The Minimum Viable Dad Myth: Why 'Being Present' Is a Floor, Not a Ceiling",
+    "slug": "minimum-viable-dad-myth",
+    "category": "Dad Mental Models",
+    "description": "Just showing up isn't enough. A pushback on 'presence' as the whole answer \u2014 and what engaged fatherhood actually looks like.",
+    "used": true
+  },
+  {
+    "title": "First Principles Parenting: Strip Out the Rules You Inherited and Build Your Own",
+    "slug": "first-principles-parenting",
+    "category": "Dad Mental Models",
+    "description": "Most parenting decisions are inherited scripts. What happens when you question every assumption you brought from your own childhood.",
+    "used": true
+  },
+  {
+    "title": "The Science of Why Kids Need Dirt, Risk, and Boredom Outdoors",
+    "slug": "kids-need-dirt-risk-boredom-outdoors",
+    "category": "Nature & Outdoors",
+    "description": "Nature deficit disorder is real. The research on free outdoor play \u2014 and why safety-obsessed parents are raising fragile kids.",
+    "used": true
+  },
+  {
+    "title": "Teaching Your Kids to Read a Map, Navigate by Stars, and Not Need GPS",
+    "slug": "teaching-kids-navigate-without-gps",
+    "category": "Nature & Outdoors",
+    "description": "Spatial intelligence, independence, confidence \u2014 all built by teaching navigation. Plus it's just a great skill to have.",
+    "used": true
+  },
+  {
+    "title": "Mountain Dad: Raising Kids in Wild Places",
+    "slug": "mountain-dad-raising-kids-wild-places",
+    "category": "Nature & Outdoors",
+    "description": "There's something different about kids who grow up with mountains in their backyard. The case for choosing geography intentionally.",
+    "used": true
+  },
+  {
+    "title": "The Invisible Labor Problem: How to See What Your Partner Does Before She Has to Show You",
+    "slug": "invisible-labor-problem",
+    "category": "Marriage & Partnership",
+    "description": "The second shift, the mental load, the scorecard that's running whether you know it or not. What dads can do about it.",
+    "used": true
+  },
+  {
+    "title": "Date Night Is Not Optional: Why Investing in Your Marriage Is the Best Parenting Move",
+    "slug": "date-night-not-optional",
+    "category": "Marriage & Partnership",
+    "description": "Happy parents raise happy kids. The research is clear. But most couples stop dating the moment they start parenting.",
+    "used": true
+  },
+  {
+    "title": "The Workaholic Dad: Recognizing the Pattern Before Your Kids Write You Off",
+
+    "slug": "workaholic-dad-recognizing-pattern",
+    "category": "Work & Life Integration",
+    "description": "Work is never done. But their childhood is. The warning signs, the rationalizations, and the reset.",
+    "used": true
+  },
+  {
+    "title": "Working From Home With Kids: The Honest Guide",
+    "slug": "working-from-home-with-kids-honest",
+    "category": "Work & Life Integration",
+    "description": "It sounds ideal. It's not easy. The actual strategies for maintaining productivity without disappearing on your family.",
+    "used": false
+  },
+  {
+    "title": "Building a Business Your Kids Can Watch You Build",
+    "slug": "building-business-kids-can-watch",
+    "category": "Work & Life Integration",
+    "description": "Entrepreneurship is a live classroom. How to narrate your journey, include your kids at the right moments, and model the thing most schools never teach.",
+    "used": false
+  },
+  {
+    "title": "Raising Boys in the Mountains: The Gift of Hard Terrain",
+    "slug": "raising-boys-mountains-hard-terrain",
+    "category": "Nature & Outdoors",
+    "description": "Colorado, Utah, Wyoming \u2014 the Western mountains produce a different kind of resilience. Why where you raise your kids matters.",
+    "used": false
+  },
+  {
+    "title": "Natural Consequences vs. Punishment: Why One Teaches and One Just Hurts",
+    "slug": "natural-consequences-vs-punishment",
+    "category": "Discipline & Guidance",
+    "description": "The difference between letting reality teach your kid and inflicting pain as a deterrent. The research is lopsided.",
+    "used": false
+  },
+  {
+    "title": "The Apology That Actually Means Something: Teaching Kids to Own It",
+    "slug": "apology-that-actually-means-something",
+    "category": "Discipline & Guidance",
+    "description": "Forced 'sorry' is theater. Here's how to raise kids who understand accountability vs. performance.",
+    "used": false
+  },
+  {
+    "title": "Testosterone, Fatherhood, and Why Your Body Changes After Having Kids",
+    "slug": "testosterone-fatherhood-body-changes",
+    "category": "Dad Health",
+    "description": "New research shows dads' hormone profiles shift significantly after having kids. What it means, what it doesn't, what to do about it.",
+    "used": false
+  },
+  {
+    "title": "The Dad Who Doesn't Go to the Doctor: Why Men Avoid Healthcare and What It Costs",
+    "slug": "dad-doesnt-go-to-doctor",
+    "category": "Dad Health",
+    "description": "Your kids need you healthy for 40 more years. The cultural pattern that keeps dads from getting checked out \u2014 and how to break it.",
+    "used": false
+  },
+  {
+    "title": "Who Were You Before You Were a Dad? Why Holding On to That Matters",
+    "slug": "who-were-you-before-dad",
+    "category": "Dad Identity",
+    "description": "The version of you that your partner fell in love with. The interests, the ambitions, the self that fatherhood can bury \u2014 and shouldn't.",
+    "used": false
+  },
+  {
+    "title": "The Comparison Trap: Stop Measuring Your Fatherhood Against Instagram Dads",
+    "slug": "comparison-trap-instagram-dads",
+    "category": "Dad Identity",
+    "description": "The perfect fishing trip photo. The artisan lunch box. Why comparison is especially toxic for fathers \u2014 and how to opt out.",
+    "used": false
+  },
+  {
+    "title": "Stay-At-Home Dads and the Masculinity Trap They Have to Escape",
+    "slug": "stay-at-home-dads-masculinity-trap",
+    "category": "Modern Fatherhood",
+    "description": "SAHDs face unique identity challenges. The cultural narrative hasn't caught up to reality \u2014 here's how some men are rewriting it.",
+    "used": false
+  },
+  {
+    "title": "How to Be a Present Dad When You're Deployed, Traveling, or Working Far From Home",
+    "slug": "present-dad-deployed-traveling-away",
+    "category": "Modern Fatherhood",
+    "description": "Physical presence isn't always possible. How to stay emotionally close across distance \u2014 and what the research says about what actually works.",
+    "used": false
+  },
+  {
+    "title": "Dad Friendships: Why They Dissolve After Kids and How to Rebuild Them",
+    "slug": "dad-friendships-dissolve-rebuild",
+    "category": "Modern Fatherhood",
+    "description": "Male friendships collapse under the weight of career and family. The cost is real \u2014 and so is the path back.",
+    "used": false
+  },
+  {
+    "title": "What Your Kids Need More Than Your Money: Presence, Attention, and Time",
+    "slug": "kids-need-more-than-money",
+    "category": "Dad Identity",
+    "description": "Providing matters. But no amount of income compensates for absence. The tradeoffs most ambitious dads have to face honestly.",
+    "used": false
+  },
+  {
+    "title": "The Dad Who Stayed Available During the Silent Years",
+    "slug": "dad-stayed-available-silent-years",
+    "category": "Teenage Years",
+    "description": "When your teenager stops talking, most dads back off. The ones who stay present without pressuring \u2014 those are the dads teens come back to.",
+    "used": false
+  },
+  {
+    "title": "How to Talk to a Teenage Son Without Getting One-Word Answers",
+    "slug": "talk-teenage-son-one-word-answers",
+    "category": "Teenage Years",
+    "description": "The art of side-by-side conversation \u2014 talking while doing something else. Why teenagers open up in the car, on the trail, not at the dinner table.",
+    "used": false
+  },
+  {
+    "title": "Your Kid Starts Pushing Back at 13. That's the Whole Point.",
+    "slug": "teen-pushback-13-thats-the-point",
+    "category": "Teenage Years",
+    "description": "Teenagers who never rebel against their parents often struggle to stand up to the world. Resistance is healthy. Your job is to stay steady, not retreat.",
+    "used": false
+  },
+  {
+    "title": "The First Time Your Kid Embarrasses You in Public \u2014 and Why It's a Win",
+    "slug": "kid-embarrasses-you-public-win",
+    "category": "Teenage Years",
+    "description": "If your kid doesn't occasionally embarrass you, they're performing instead of living. Teach them not to be cruel \u2014 but never teach them to shrink.",
+    "used": false
+  },
+  {
+    "title": "Teenage Boys and Emotional Vocabulary: What Nobody Teaches Them",
+    "slug": "teenage-boys-emotional-vocabulary",
+    "category": "Teenage Years",
+    "description": "Most teenage boys can describe mechanical failure in detail but can't name what they're feeling. This is a literacy problem. Dads can fix it.",
+    "used": false
+  },
+  {
+    "title": "The Dad Who Cheers Too Loud: Why It's Hurting Your Kid",
+    "slug": "dad-cheers-too-loud-hurting-kid",
+    "category": "Sports & Competition",
+    "description": "The science on why sideline pressure from parents \u2014 even positive pressure \u2014 raises cortisol and shrinks performance. Presence beats commentary.",
+    "used": false
+  },
+  {
+    "title": "What Youth Sports Actually Teaches (It's Not the Sport)",
+    "slug": "youth-sports-actually-teaches",
+    "category": "Sports & Competition",
+    "description": "Showing up when you don't feel like it. Losing with dignity. Trusting your teammates. The sport is just the container. The lessons are the product.",
+    "used": false
+  },
+  {
+    "title": "When Your Son Doesn't Make the Team",
+    "slug": "son-doesnt-make-the-team",
+    "category": "Sports & Competition",
+    "description": "How you handle the cut is more formative than the cut itself. The right response turns devastation into the first lesson in real resilience.",
+    "used": false
+  },
+  {
+    "title": "Raising Competitors Without Raising Kids Who Can't Lose",
+    "slug": "raising-competitors-without-bad-losers",
+    "category": "Sports & Competition",
+    "description": "Competitive drive is a gift. Entitlement is a curse. The difference is taught at home, at the dinner table, in how you talk about other people's wins.",
+    "used": false
+  },
+  {
+    "title": "The Smartphone Conversation Every Dad Needs to Have Before Age 12",
+    "slug": "smartphone-conversation-before-12",
+    "category": "Digital Age",
+    "description": "Not the 'phones are bad' lecture. The honest conversation about attention engineering, why apps are designed to hijack them, and how to own their own focus.",
+    "used": false
+  },
+  {
+    "title": "Why Boredom Is the Last Advantage Your Kid Has Over an AI",
+    "slug": "boredom-last-advantage-over-ai",
+    "category": "Digital Age",
+    "description": "AI doesn't get bored. It doesn't wander. It doesn't stumble into an idea it wasn't looking for. Protect your kid's unstructured mental time like it's oxygen.",
+    "used": false
+  },
+  {
+    "title": "My Kid Found Something Dark Online. Here's What I Did.",
+    "slug": "kid-found-dark-online-what-i-did",
+    "category": "Digital Age",
+    "description": "The worst approach is panic and confiscation. The best approach keeps the conversation open, keeps trust intact, and actually teaches something.",
+    "used": false
+  },
+  {
+    "title": "Video Games as a Window Into Your Son",
+    "slug": "video-games-window-into-your-son",
+    "category": "Digital Age",
+    "description": "Before you restrict it, understand it. What he's playing, why he plays it, who he plays it with \u2014 that's data about your kid you're ignoring.",
+    "used": false
+  },
+  {
+    "title": "The Values You Don't Teach \u2014 Only Model",
+    "slug": "values-you-dont-teach-only-model",
+    "category": "Legacy & Purpose",
+    "description": "Your kids will not remember your lectures. They will remember what you did when things were hard, when nobody was watching, when it cost you something.",
+    "used": false
+  },
+  {
+    "title": "What Your Kids Will Say at Your Retirement Party",
+    "slug": "what-kids-say-at-retirement-party",
+    "category": "Legacy & Purpose",
+    "description": "Not your obituary. Your retirement. When your kids are adults and describe who you were to them \u2014 what do you want them to say? Start working backward from that.",
+    "used": false
+  },
+  {
+    "title": "Building Wealth vs. Building Character: You Don't Have to Choose",
+    "slug": "wealth-vs-character-no-choice",
+    "category": "Legacy & Purpose",
+    "description": "The dads who think it's either/or end up teaching their kids that money is the point. The dads who do both teach their kids that character creates the opportunities.",
+    "used": false
+  },
+  {
+    "title": "The Question Your Grandfather Never Got to Answer",
+    "slug": "question-grandfather-never-answered",
+    "category": "Legacy & Purpose",
+    "description": "What would you ask him if you could? What are you doing to make sure your own grandchildren won't have to wonder who you were?",
+    "used": false
+  },
+  {
+    "title": "The 'Long Game' Mental Model Every Dad Needs",
+    "slug": "long-game-mental-model",
+    "category": "Dad Mental Models",
+    "description": "Every short-term parenting decision has a long-term consequence. The dad who thinks in years outperforms the dad who thinks in moments, every time.",
+    "used": false
+  },
+  {
+    "title": "The Consistency Compound Effect in Parenting",
+    "slug": "consistency-compound-effect-parenting",
+    "category": "Dad Mental Models",
+    "description": "Reading to your kid for 10 minutes a night doesn't feel like much. Over 10 years, you've read together for 600 hours. Compounding works in parenting too.",
+    "used": false
+  },
+  {
+    "title": "The 'Strong Floor' Theory of Raising Kids",
+    "slug": "strong-floor-theory-raising-kids",
+    "category": "Dad Mental Models",
+    "description": "Your job isn't to guarantee their ceiling \u2014 it's to raise the floor they can fall back to. When life gets hard, they need to know there's something solid underneath.",
+    "used": false
+  },
+  {
+    "title": "Responsive vs. Reactive Parenting: The Difference Is a Breath",
+    "slug": "responsive-vs-reactive-parenting",
+    "category": "Dad Mental Models",
+    "description": "Reactive dads are managed by their kids' emotions. Responsive dads stay one step above the chaos. The difference is a moment of space between stimulus and response.",
+    "used": false
+  },
+  {
+    "title": "The 'Presence Over Hours' Rule for Working Dads",
+    "slug": "presence-over-hours-working-dads",
+    "category": "Work & Life Integration",
+    "description": "Your kids don't need 8 hours of distracted dad. They need 30 minutes of fully present dad. Quantity is a consolation prize for lack of quality.",
+    "used": false
+  },
+  {
+    "title": "What Happens When Your Kid Sees You Love Your Work",
+    "slug": "kid-sees-you-love-your-work",
+    "category": "Work & Life Integration",
+    "description": "A dad who finds meaning in his work teaches his kids that work can be meaningful. That's a massive head start. Don't hide the parts of your job you actually enjoy.",
+    "used": false
+  },
+  {
+    "title": "The Dinner Table Debrief: 20 Minutes That Competes With Social Media",
+    "slug": "dinner-table-debrief-20-minutes",
+    "category": "Work & Life Integration",
+    "description": "Phones down. Same question every night: What was hard today? What surprised you? You don't need a curriculum \u2014 just curiosity and consistency.",
+    "used": false
+  },
+  {
+    "title": "How to Transition From 'Work Mode' to 'Dad Mode' in 10 Minutes",
+    "slug": "work-mode-to-dad-mode-transition",
+    "category": "Work & Life Integration",
+    "description": "The car ride home is your decompression chamber. Your family doesn't get your leftover energy \u2014 they get the energy you decide to give them. Build the ritual.",
+    "used": false
+  },
+  {
+    "title": "Passing Down Values Without Passing Down Rules",
+    "slug": "values-without-rules",
+    "category": "Faith & Values",
+    "description": "Rules without values create kids who follow rules only when someone's watching. Values without rules create kids who build their own principles. Aim for the second one.",
+    "used": false
+  },
+  {
+    "title": "What I Want My Sons to Believe About Hard Times",
+    "slug": "what-sons-believe-hard-times",
+    "category": "Faith & Values",
+    "description": "Not that hard times won't come. Not that they can avoid them. But that hard times are where character gets built \u2014 and that they have what it takes.",
+    "used": false
+  },
+  {
+    "title": "Teaching Gratitude in a World Designed to Create Dissatisfaction",
+    "slug": "teaching-gratitude-designed-dissatisfaction",
+    "category": "Faith & Values",
+    "description": "Every app, ad, and algorithm is engineered to make your kid feel like they're missing something. Gratitude practice is resistance. It's also a survival skill.",
+    "used": false
+  },
+  {
+    "title": "The Grandparent Relationship Is One of the Most Underrated Gifts You Can Give",
+    "slug": "grandparent-relationship-underrated-gift",
+    "category": "Extended Family",
+    "description": "Your kid's grandparents see them differently than you do. That outside perspective \u2014 from someone who loves them unconditionally but isn't responsible for them \u2014 is irreplaceable.",
+    "used": false
+  },
+  {
+    "title": "When Your Parents Give Advice You Disagree With",
+    "slug": "parents-advice-you-disagree-with",
+    "category": "Extended Family",
+    "description": "You don't have to follow it. You do have to receive it with grace. How you handle your own parents in disagreement is exactly what your kids are learning about how to handle you.",
+    "used": false
+  },
+  {
+    "title": "Making Sure Your Kids Know Their Own Family Story",
+    "slug": "kids-know-family-story",
+    "category": "Extended Family",
+    "description": "Where your family came from. What they survived. What they gave up. Kids who know their family story have been shown to have higher resilience. Tell the stories.",
+    "used": false
+  },
+  {
+    "title": "What 'Be a Man' Actually Means \u2014 And What It Doesn't",
+    "slug": "be-a-man-actually-means",
+    "category": "Raising Boys",
+    "description": "It doesn't mean never cry. It doesn't mean dominate. It means take responsibility, protect the people you love, do hard things without complaining, and show up.",
+    "used": false
+  },
+  {
+    "title": "The Crisis of Aimless Young Men \u2014 And How to Raise the Antidote",
+    "slug": "crisis-aimless-young-men-antidote",
+    "category": "Raising Boys",
+    "description": "The data on young men is alarming \u2014 disconnected, undirected, falling behind. But this isn't inevitable. It starts with fathers who give their sons purpose and challenge.",
+    "used": false
+  },
+  {
+    "title": "Why Your Son Needs to See You Be Wrong \u2014 And Own It",
+    "slug": "son-needs-to-see-you-wrong",
+    "category": "Raising Boys",
+    "description": "Accountability isn't something you lecture about. It's something you model. The day you say 'I was wrong, I'm sorry' to your son is one of the best lessons he'll ever get.",
+    "used": false
+  },
+  {
+    "title": "The Night My Kid Needed Me and I Almost Missed It",
+    "slug": "night-kid-needed-me-almost-missed",
+    "category": "Stories",
+    "description": "The moments that matter rarely announce themselves. It was a random Tuesday. He was quiet. Something in me said: put the phone down. I did. He talked for an hour.",
+    "used": false
+  },
+  {
+    "title": "The Fishing Trip That Didn't Go as Planned \u2014 and Was Perfect",
+    "slug": "fishing-trip-didnt-go-as-planned",
+    "category": "Stories",
+    "description": "We caught nothing. Broke a rod. Got rained on. He still talks about it. The memory isn't about fish. It was about the two of us, stuck together, making the best of it.",
     "used": false
   }
 ]
