@@ -1181,6 +1181,7 @@
   {
     "title": "The Workaholic Dad: Recognizing the Pattern Before Your Kids Write You Off",
 
+
     "slug": "workaholic-dad-recognizing-pattern",
     "category": "Work & Life Integration",
     "description": "Work is never done. But their childhood is. The warning signs, the rationalizations, and the reset.",
@@ -1191,7 +1192,7 @@
     "slug": "working-from-home-with-kids-honest",
     "category": "Work & Life Integration",
     "description": "It sounds ideal. It's not easy. The actual strategies for maintaining productivity without disappearing on your family.",
-    "used": false
+    "used": true
   },
   {
     "title": "Building a Business Your Kids Can Watch You Build",
