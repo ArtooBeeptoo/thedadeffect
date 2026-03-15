@@ -1180,8 +1180,6 @@
   },
   {
     "title": "The Workaholic Dad: Recognizing the Pattern Before Your Kids Write You Off",
-
-
     "slug": "workaholic-dad-recognizing-pattern",
     "category": "Work & Life Integration",
     "description": "Work is never done. But their childhood is. The warning signs, the rationalizations, and the reset.",
@@ -1213,7 +1211,7 @@
     "slug": "natural-consequences-vs-punishment",
     "category": "Discipline & Guidance",
     "description": "The difference between letting reality teach your kid and inflicting pain as a deterrent. The research is lopsided.",
-    "used": false
+    "used": true
   },
   {
     "title": "The Apology That Actually Means Something: Teaching Kids to Own It",
