@@ -1,7 +1,7 @@
 ---
 title: "Teaching Your Kids to Swim: A Dad's Guide to Water Confidence"
 description: "More than just a skill, swimming is a life-saver and a summer essential. Here's when to start, what to expect, and how dads can make learning fun (and safe)."
-pubDate: 2026-03-04T06:00:00
+pubDate: "2026-03-04T06:00:00"
 categories: ["Dad Skills", "Dad Adventures"]
 tags: ["swimming", "water-safety", "kids", "dads", "parenting", "lifeskill"]
 draft: false

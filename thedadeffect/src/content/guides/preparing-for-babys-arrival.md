@@ -1,9 +1,10 @@
 ---
 title: "Preparing for Baby's Arrival: Beyond the Birth Plan"
 description: "The birth plan is just the start. Here's what real dads need to do to prepare their home, their relationship, and their sanity for the baby's arrival."
-date: 2026-03-15
-category: "Pregnancy for Dads"
+pubDate: "2026-03-15T12:00:00"
+categories: ["Pregnancy for Dads"]
 tags: ["pregnancy", "newborn", "preparation", "dadlife"]
+draft: false
 ---
 
 ## Getting Your Home Ready

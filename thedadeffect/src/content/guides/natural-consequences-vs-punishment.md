@@ -1,7 +1,7 @@
 ---
 title: "Natural Consequences vs. Punishment: Why One Teaches and One Just Hurts"
 description: "The difference between letting reality teach your kid and inflicting pain as a deterrent. The research is lopsided."
-pubDate: 2026-03-15T06:00:00-06:00
+pubDate: "2026-03-15T06:00:00-06:00"
 categories: ["Discipline & Guidance"]
 tags: ["discipline", "parenting", "consequences", "punishment", "child development", "research"]
 draft: false

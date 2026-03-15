@@ -1,9 +1,10 @@
 ---
 title: "Date Nights Matter More Than You Think"
-slug: "date-nights-matter"
-category: "Modern Fatherhood"
 description: "Why investing in your relationship is investing in your kids. The data and the practice."
-pubDate: 2026-03-02
+pubDate: "2026-03-02T12:00:00"
+categories: ["Modern Fatherhood"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 Real talk, dads: When kids enter the picture, "date night" can feel like a relic from a past life. Between diaper blowouts, bedtime routines, and the sheer exhaustion of it all, grabbing a quiet meal with your partner might seem like an impossible luxury. But here’s the uncomfortable truth: ignoring your relationship for the sake of your kids often backfires.

@@ -1,7 +1,7 @@
 ---
 title: "How Much Should Dads Actually Drink? The Data"
 description: "Alcohol's impact on testosterone, fertility, and cognitive function. What the research says — and what it means for dads who want to be sharp."
-pubDate: 2026-02-26T10:00:00
+pubDate: "2026-02-26T10:00:00"
 categories: ["Dad Health"]
 tags: ["alcohol", "fatherhood", "health", "fertility", "testosterone"]
 draft: false

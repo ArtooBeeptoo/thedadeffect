@@ -1,4 +1,5 @@
----title: "How to Talk to Her When She's Having a Hormone Hurricane"
+---
+title: "How to Talk to Her When She's Having a Hormone Hurricane"
 description: "She's crying about a dog food commercial. She's furious about how you loaded the dishwasher. A communication guide for pregnancy mood swings."
 pubDate: 2026-02-12T10:00:00
 categories: ["Pregnancy for Dads"]

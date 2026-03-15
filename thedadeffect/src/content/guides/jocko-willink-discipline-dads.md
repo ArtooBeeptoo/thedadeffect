@@ -1,7 +1,7 @@
 ---
 title: "What Jocko Willink Teaches About Discipline (And Raising Disciplined Kids)"
 description: "The Navy SEAL commander's approach to parenting isn't about being a drill sergeant — it's about building resilient, accountable kids who can handle what life throws at them."
-pubDate: 2026-02-28T10:00:00
+pubDate: "2026-02-28T10:00:00"
 categories: ["health"]
 tags: ["jocko-podcast", "discipline", "parenting", "extreme-ownership", "resilience"]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Building a Business Your Kids Can Watch You Build"
 description: "Entrepreneurship is a live classroom. How to narrate your journey, include your kids at the right moments, and model the thing most schools never teach."
-pubDate: 2026-03-12T12:00:00
+pubDate: "2026-03-12T12:00:00"
 categories: ["Work & Life Integration"]
 tags: ["entrepreneurship", "fatherhood", "business", "kids", "work-life-integration"]
 draft: false

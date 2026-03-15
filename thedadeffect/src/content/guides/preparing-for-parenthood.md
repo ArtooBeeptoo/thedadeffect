@@ -1,8 +1,10 @@
 ---
 title: "Preparing for Parenthood: Beyond the Bump"
-publishDate: 2026-03-11T10:00:00.000Z
-category: "Pregnancy for Dads"
 description: "The bump is gone, but parenthood is just beginning. A practical guide to the first few weeks with your newborn."
+pubDate: "2026-03-11T10:00:00"
+categories: ["Pregnancy for Dads"]
+tags: ["parenthood", "newborn", "first weeks", "new dad"]
+draft: false
 ---
 
 ## The First Weeks: Survival Mode On

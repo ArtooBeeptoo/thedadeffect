@@ -1,7 +1,7 @@
 ---
 title: "Second Trimester: When Things Get Real (And She Starts Showing)"
 description: "The middle stretch of pregnancy — she's showing, you're feeling it, and the baby is kicking. What to expect and how to keep being useful."
-pubDate: 2026-02-04T12:00:00
+pubDate: "2026-02-04T12:00:00"
 categories: ["Pregnancy for Dads"]
 tags: ["pregnancy", "second-trimester", "expecting", "new-dad", "support", "anatomy-scan"]
 draft: false

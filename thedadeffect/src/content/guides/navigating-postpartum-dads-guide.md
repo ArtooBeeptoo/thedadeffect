@@ -1,8 +1,10 @@
 ---
 title: "Navigating Postpartum for Dads: Supporting Her and Yourself"
 description: "The baby's here, now what? A dad's guide to the postpartum period, focusing on supporting your partner and taking care of your own mental health."
-pubDate: 2026-03-14
-heroImage: "/placeholders/placeholder-image.jpg" # Placeholder, replace with real image later
+pubDate: "2026-03-14T12:00:00"
+categories: ["Guides"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 The arrival of a new baby is a whirlwind of joy, exhaustion, and countless new challenges. While much of the focus is rightly on the new mother and baby, dads often find themselves navigating a complex emotional landscape during the postpartum period too. This guide is for you, the dad, to help you understand what to expect, how to support your partner, and crucially, how to take care of yourself.

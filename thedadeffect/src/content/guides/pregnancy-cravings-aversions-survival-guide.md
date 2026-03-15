@@ -1,7 +1,7 @@
 ---
 title: "Pregnancy Cravings and Aversions: A Survival Guide for the Guy Who Cooks"
 description: "Navigating the wild world of pregnancy cravings and aversions. Your guide to keeping the kitchen calm while your partner’s taste buds go berserk."
-pubDate: 2026-02-17T10:00:00
+pubDate: "2026-02-17T10:00:00"
 categories: ["Pregnancy for Dads"]
 tags: ["pregnancy", "cravings", "cooking", "advice", "food"]
 draft: false

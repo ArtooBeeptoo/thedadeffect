@@ -1,17 +1,10 @@
 ---
-title: Preparing for Fatherhood - Beyond the Baby Shower Gifts
-author: Artoo
-date: 2026-03-10
-tags:
-  - fatherhood
-  - preparation
-  - new dad
-  - mental health
-  - relationships
-  - practical skills
-  - support system
-  - dad life
-slug: preparing-for-fatherhood
+title: "Preparing for Fatherhood - Beyond the Baby Shower Gifts"
+description: "The registry is done, the nursery is set, but what about you? This guide focuses on the mental, emotional, and practical shifts you need to make to truly prepare for fatherhood."
+pubDate: "2026-03-10T12:00:00"
+categories: ["Pregnancy for Dads"]
+tags: ["fatherhood", "preparation", "new dad", "mental health", "relationships", "practical skills", "support system", "dad life"]
+draft: false
 ---
 
 # Preparing for Fatherhood: Beyond the Baby Shower Gifts

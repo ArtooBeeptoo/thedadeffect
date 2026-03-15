@@ -1,7 +1,7 @@
 ---
 title: "Teaching Your Kid to Ride a Bike Without Losing Your Mind"
 description: "That moment your kid screams, 'I wanna ride a bike!' and you realize you have no idea how to actually teach them. Balance bikes, training wheels, and how to avoid a meltdown (yours and theirs)."
-pubDate: 2026-02-27T10:00:00
+pubDate: "2026-02-27T10:00:00"
 categories: ["Dad Skills"]
 tags: ["bike-riding", "toddler-skills", "dad-life", "parenting", "outdoor-fun"]
 draft: false

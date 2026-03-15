@@ -1,7 +1,7 @@
 ---
 title: "The New Dad Sleep Deprivation Survival Guide"
 description: "Your baby doesn't care about your sleep schedule. Here's how to survive the first months without losing your mind, your health, or your relationship."
-pubDate: 2026-02-10T06:00:00
+pubDate: "2026-02-10T06:00:00"
 categories: ["Dad Skills"]
 tags: ["sleep deprivation", "newborn", "new dad", "survival guide", "baby sleep", "parenting tips"]
 draft: false

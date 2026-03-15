@@ -1,7 +1,7 @@
 ---
 title: "Backyard Adventures: Making Memories Without Leaving Home"
 description: "Bug hunts, stargazing, water balloon wars. You don't need a passport to create epic memories with your kids. Here's how to turn your backyard into the ultimate adventure zone."
-pubDate: 2026-03-03T06:00:00
+pubDate: "2026-03-03T06:00:00"
 categories: ["Dad Adventures"]
 tags: ["backyard-fun", "kids-activities", "staycation", "outdoor-play", "family-memories"]
 draft: false

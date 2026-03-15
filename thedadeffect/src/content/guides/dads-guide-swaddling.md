@@ -1,9 +1,10 @@
 ---
 title: "Dad's Guide to Swaddling: Taming the Newborn Flail"
 description: "The art of the perfect swaddle. Step-by-step instructions for wrapping your baby snugly for better sleep, and why it's a game-changer for new parents."
-pubDate: 2026-02-22
-category: "Newborn Survival"
-author: "The Dad Effect"
+pubDate: "2026-02-22T12:00:00"
+categories: ["Newborn Survival"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 You've got a newborn. And that newborn has reflexes. Specifically, the Moro reflex, which makes them flail their arms and legs like a tiny, startled ninja. This is adorable during the day, but at 2 AM, when they're startling themselves awake every twenty minutes, it's a problem.

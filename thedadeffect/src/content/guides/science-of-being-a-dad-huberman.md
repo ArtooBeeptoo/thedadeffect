@@ -1,7 +1,7 @@
 ---
 title: "The Science of Being a Dad: What Huberman Lab Teaches Us About Fatherhood"
 description: "Your brain changes. Your hormones change. Your sleep disappears. Here's what neuroscience actually says about what happens when you become a dad."
-pubDate: 2026-02-10T10:00:00
+pubDate: "2026-02-10T10:00:00"
 categories: ["health"]
 tags: ["huberman", "science", "testosterone", "sleep", "parenting"]
 draft: false

@@ -1,10 +1,10 @@
 ---
 title: "Dad's Guide to Surviving Baby Showers: Gifts, Games, and Not Feeling Useless"
 description: "Baby showers can be a minefield for dads. This guide helps you navigate the gifts, the games, and how to actually feel useful (even if it's just holding the punch bowl)."
-date: 2026-03-09
-author: "Joe Casey"
-category: "Pregnancy for Dads"
+pubDate: "2026-03-09T12:00:00"
+categories: ["Pregnancy for Dads"]
 tags: ["baby shower", "dad advice", "pregnancy", "gifts", "new dad"]
+draft: false
 ---
 
 # Dad's Guide to Surviving Baby Showers: Gifts, Games, and Not Feeling Useless

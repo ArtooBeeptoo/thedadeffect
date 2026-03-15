@@ -1,7 +1,7 @@
 ---
 title: "Working From Home With Kids: The Honest Guide"
 description: "It sounds ideal. It's not easy. The actual strategies for maintaining productivity without disappearing on your family."
-pubDate: 2026-03-11T12:00:00
+pubDate: "2026-03-11T12:00:00"
 categories: ["Work & Life Integration"]
 tags: ["WfH", "remote-work", "dad-life", "parenting", "productivity"]
 draft: false

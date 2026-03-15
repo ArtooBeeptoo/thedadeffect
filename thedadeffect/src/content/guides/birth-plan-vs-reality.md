@@ -1,7 +1,7 @@
 ---
 title: "Birth Plan vs. Reality: Why Flexibility Wins"
 description: "Navigating the world of birth plans can be overwhelming. Here's how to stay flexible and support your partner through whatever comes your way."
-pubDate: 2026-02-15T10:00:00
+pubDate: "2026-02-15T10:00:00"
 categories: ["Pregnancy for Dads"]
 tags: ["birth plan", "flexibility", "support", "pregnancy", "reality check"]
 draft: false

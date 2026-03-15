@@ -1,7 +1,7 @@
 ---
 title: "Tim Ferriss on Fear-Setting for Dads: Make Better Decisions Under Pressure"
 description: "Most dad decisions feel paralyzed by 'what if.' Tim Ferriss's fear-setting framework cuts through the anxiety and helps you make bold moves for your family."
-pubDate: 2026-03-07T10:00:00
+pubDate: "2026-03-07T10:00:00"
 categories: ["health"]
 tags: ["tim ferriss", "decision-making", "career", "fear", "parenting"]
 draft: false

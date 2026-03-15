@@ -1,8 +1,10 @@
 ---
 title: "Newborn Sleep: Surviving the First Few Weeks"
 description: "Your baby doesn't sleep, and neither do you. A dad's guide to understanding newborn sleep patterns and finding ways to cope."
-category: "Newborn Survival"
-pubDate: 2026-02-20
+pubDate: "2026-02-20T12:00:00"
+categories: ["Newborn Survival"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 The first few weeks with a newborn are a blur. Mostly, it's a blur of exhaustion. Your baby sleeps a lot, but rarely when you want them to, and almost never for long stretches. Forget "sleeping like a baby" – that phrase was clearly coined by someone without children. Your job right now isn't to get them to sleep through the night (that's a battle for later), but to survive the chaotic, beautiful mess that is newborn sleep.

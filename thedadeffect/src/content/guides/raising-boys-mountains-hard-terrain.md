@@ -1,7 +1,7 @@
 ---
 title: "Raising Boys in the Mountains: The Gift of Hard Terrain"
 description: "Colorado, Utah, Wyoming — the Western mountains produce a different kind of resilience. Why where you raise your kids matters."
-pubDate: 2026-03-13T12:00:00Z
+pubDate: "2026-03-13T12:00:00Z"
 categories: ["Nature & Outdoors", "Raising Boys"]
 tags: ["mountain-life", "raising-boys", "resilience", "outdoor-parenting", "nature", "child-development"]
 draft: false

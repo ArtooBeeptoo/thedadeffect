@@ -1,7 +1,7 @@
 ---
 title: "Babywearing for Dads: Keeping Your Little One Close"
 description: "From carriers to wraps, an introduction to babywearing for dads. Benefits, safety tips, and how to choose the right one for you and your baby."
-pubDate: 2026-02-23T10:00:00
+pubDate: "2026-02-23T10:00:00"
 categories: ["Newborn Survival"]
 tags: ["babywearing", "newborn", "dad-bonding", "carriers", "safety"]
 draft: false

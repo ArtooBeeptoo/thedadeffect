@@ -1,8 +1,10 @@
 ---
 title: "Setting Up the Nursery: A Dad's Practical Guide to Baby-Proofing and Beyond"
-pubDate: 2026-03-12T10:00:00Z
+description: "Preparing for a new baby is exciting, and for dads, one of the most tangible ways to contribute is by setting up the nursery and baby-proofing the home. It’s not just about aesthetics; it’s about c..."
+pubDate: "2026-03-12T10:00:00Z"
 categories: ["Pregnancy for Dads"]
-heroImage: "/placeholders/placeholder-image.jpg"
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 Preparing for a new baby is exciting, and for dads, one of the most tangible ways to contribute is by setting up the nursery and baby-proofing the home. It’s not just about aesthetics; it’s about creating a safe, functional, and loving environment for your little one.

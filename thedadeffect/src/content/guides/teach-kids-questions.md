@@ -1,8 +1,10 @@
 ---
 title: "Teaching Your Kids to Ask Better Questions"
 description: "In an AI world, the right question is worth more than any answer. How to cultivate curiosity over memorization."
-pubDate: 2026-03-01
-category: "The Human Edge"
+pubDate: "2026-03-01T12:00:00"
+categories: ["The Human Edge"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 ## Why Asking Better Questions Matters More Than Ever

@@ -1,7 +1,7 @@
 ---
 title: "Basic Car Maintenance Every Dad Should Teach"
 description: "Tire pressure, oil, jumper cables. The skills that build self-reliance and give your kid confidence when they're on their own."
-pubDate: 2026-03-05T06:00:00
+pubDate: "2026-03-05T06:00:00"
 categories: ["Dad Skills"]
 tags: ["car maintenance", "teenagers", "life skills", "dad advice", "independence"]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Third Trimester: The Home Stretch and Nesting Madness"
 description: "The final countdown. Hospital bags, birth plans, nesting instincts, and surviving the last weeks before everything changes forever."
-pubDate: 2026-02-05T12:00:00
+pubDate: "2026-02-05T12:00:00"
 categories: ["Pregnancy for Dads"]
 tags: ["pregnancy", "third-trimester", "expecting", "new-dad", "labor", "birth-plan", "hospital-bag", "nesting"]
 draft: false

@@ -1,9 +1,10 @@
 ---
 title: "March 13, 2026 Guide: How to Master Bedtime Stories"
 description: "Techniques for engaging your kids with bedtime stories, from character voices to interactive elements."
-date: 2026-03-13
-category: "Parenting Tips"
+pubDate: "2026-03-13T12:00:00"
+categories: ["Parenting Tips"]
 tags: ["bedtime", "stories", "kids", "parenting"]
+draft: false
 ---
 ## How to Master Bedtime Stories
 

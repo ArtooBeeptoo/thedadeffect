@@ -1,7 +1,7 @@
 ---
 title: "What Huberman Says About Sleep Deprivation (And How New Dads Survive It)"
 description: "You're running on fumes. Your brain is fog. Here's what neuroscience says about sleep deprivation — and the protocols that actually work when sleep isn't an option."
-pubDate: 2026-03-14T10:00:00
+pubDate: "2026-03-14T10:00:00"
 categories: ["health"]
 tags: ["huberman", "sleep", "science", "NSDR", "new dads"]
 draft: false
