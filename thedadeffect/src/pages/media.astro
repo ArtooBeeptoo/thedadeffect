@@ -1,0 +1,129 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="In the Media | The Dad Effect">
+  <div class="container">
+    <section class="page-header">
+      <h1>In the Media</h1>
+      <p class="page-desc">Dads talking about what it actually means to be a father. No scripts, no polish—just real.</p>
+    </section>
+
+    <section class="media-grid">
+      <article class="media-card featured">
+        <div class="media-content">
+          <h2>Joe Rogan: "The Greatest Human Privilege"</h2>
+          <p class="media-meta">Russell Crowe asks the question that hits every dad deep.</p>
+          <blockquote>
+            "Not only did it increase the amount of love I have, it increased my capacity for love."
+            <cite>— Joe Rogan, quoting Dave Chappelle</cite>
+          </blockquote>
+          <div class="video-container">
+            <video controls preload="metadata" poster="">
+              <source src="https://video.twimg.com/amplify_video/2032863514755477508/vid/avc1/480x270/l8mQYJo-r8D4Ohvq.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+          <p class="media-context">
+            From a 28-year-old to a 14-year-old, Rogan reflects on how fatherhood shattered old beliefs—he used to think everyone should have kids; now he knows it's not for everybody. But for him, it's been one of the most powerful, transformative forces in his life.
+          </p>
+          <a href="/stories/joe-rogan-capacity-for-love/" class="btn btn-secondary">Read the Full Story →</a>
+        </div>
+      </article>
+
+      <!-- More media clips will go here -->
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding-top: 2rem;
+  }
+
+  .page-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .page-desc {
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .media-grid {
+    display: grid;
+    gap: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .media-card {
+    background: var(--card-bg, #1a1a1a);
+    border-radius: 12px;
+    padding: 2rem;
+    border: 1px solid var(--border-color, #333);
+  }
+
+  .media-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .media-meta {
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  blockquote {
+    border-left: 3px solid var(--accent, #e67e22);
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+    font-style: italic;
+  }
+
+  blockquote cite {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    font-style: normal;
+  }
+
+  .video-container {
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #000;
+  }
+
+  .video-container video {
+    width: 100%;
+    display: block;
+  }
+
+  .media-context {
+    margin: 1.5rem 0;
+    line-height: 1.7;
+  }
+
+  .btn-secondary {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: transparent;
+    border: 1px solid var(--accent, #e67e22);
+    color: var(--accent, #e67e22);
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  .btn-secondary:hover {
+    background: var(--accent, #e67e22);
+    color: #fff;
+  }
+</style>
