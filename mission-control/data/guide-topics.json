@@ -91,7 +91,7 @@
     "used": true
   },
   {
-    ""title": "Coping with Sleep Deprivation: A Dad's Guide to Staying Sane",
+    "title": "Coping with Sleep Deprivation: A Dad's Guide to Staying Sane",
     "slug": "coping-sleep-deprivation-dads-guide",
     "category": "Newborn Survival",
     "description": "You're tired, she's tired, everyone's tired. Strategies for new dads to manage extreme sleep deprivation without losing their minds (or their temper).",
@@ -1246,7 +1246,288 @@
     "title": "Preparing for Parenthood: A Dad's No-Panic Guide to Nesting",
     "slug": "preparing-for-parenthood-dads-guide-nesting",
     "category": "Pregnancy for Dads",
-    "description": "The baby's coming, and your home needs a glow-up. Here’s how to tackle baby prep without losing your mind—or your weekends.",
+    "description": "The baby's coming, and your home needs a glow-up. Here\u2019s how to tackle baby prep without losing your mind\u2014or your weekends.",
     "used": true
+  },
+  {
+    "title": "The Last First Day: When Your Kid Walks In Without Looking Back",
+    "slug": "last-first-day-kid-walks-in-alone",
+    "category": "Stories",
+    "description": "That moment at school drop-off when they no longer need you to walk them in. What it means, what it feels like, and why it's a win.",
+    "used": true,
+    "published": "2026-03-19"
+  },
+  {
+    "title": "The Broken Toy Lesson: What My Kid Taught Me About Fixing Things",
+    "slug": "broken-toy-lesson-fixing-things",
+    "category": "Stories",
+    "description": "A dad story about a beloved toy, a clumsy repair attempt, and the unexpected conversation that followed.",
+    "used": false
+  },
+  {
+    "title": "Dad's First Solo Weekend: What Really Happens When Mom's Away",
+    "slug": "dads-first-solo-weekend-mom-away",
+    "category": "Stories",
+    "description": "Honest confession of what solo dad weekends actually look like \u2014 the chaos, the wins, and the part you don't post on Instagram.",
+    "used": false
+  },
+  {
+    "title": "Teaching Kids About Money Before They Can Multiply",
+    "slug": "teaching-kids-money-before-multiplication",
+    "category": "Finances & Future",
+    "description": "Age-appropriate money lessons from coins to compound interest. When to start, what to say, and what actually sticks.",
+    "used": false
+  },
+  {
+    "title": "The Custodial Account Conversation: Investing for Your Kids' Future",
+    "slug": "custodial-account-investing-kids-future",
+    "category": "Finances & Future",
+    "description": "UGMA/UTMA vs 529 vs Roth IRA \u2014 a plain-English breakdown for dads who want to build generational wealth.",
+    "used": false
+  },
+  {
+    "title": "Allowance Done Right: Chores, Earnings, and Teaching Value",
+    "slug": "allowance-done-right-chores-earnings-value",
+    "category": "Finances & Future",
+    "description": "The allowance debate: should kids earn it, get it unconditionally, or some combination? Research-backed and real-world tested.",
+    "used": false
+  },
+  {
+    "title": "The First Bike Ride: A Rite of Passage Every Dad Remembers",
+    "slug": "first-bike-ride-dad-rite-of-passage",
+    "category": "Milestones",
+    "description": "The scraped knees, the wobbling, the moment they take off \u2014 and why this milestone hits different as a dad.",
+    "used": false
+  },
+  {
+    "title": "First Night Without Nighttime Diapers: Big Kid Territory",
+    "slug": "first-night-without-nighttime-diapers",
+    "category": "Milestones",
+    "description": "The overnight milestone no one warns you about \u2014 the prep, the accidents, and the victory lap when it finally works.",
+    "used": false
+  },
+  {
+    "title": "Reading Chapter Books Together: When Stories Get Real",
+    "slug": "reading-chapter-books-together-when-stories-get-real",
+    "category": "Milestones",
+    "description": "The shift from picture books to chapter books is a quiet milestone. What to read, how to make it a ritual, and why it matters.",
+    "used": false
+  },
+  {
+    "title": "Natural Consequences vs. Punishments: What Actually Works",
+    "slug": "natural-consequences-vs-punishments-what-works",
+    "category": "Discipline & Guidance",
+    "description": "Letting kids experience the results of their choices builds real accountability. When to step back and when to step in.",
+    "used": false
+  },
+  {
+    "title": "The Art of the Dad Warning: One, Two, Three Done",
+    "slug": "art-of-dad-warning-countdown-discipline",
+    "category": "Discipline & Guidance",
+    "description": "Countdown warnings work \u2014 but only if you follow through. The psychology behind effective warnings and why empty threats backfire.",
+    "used": false
+  },
+  {
+    "title": "When Time-Outs Stop Working: What Comes Next",
+    "slug": "when-timeouts-stop-working-what-comes-next",
+    "category": "Discipline & Guidance",
+    "description": "Time-outs lose effectiveness around age 5-6. Here's what to transition to and why connection-based discipline outlasts punishment.",
+    "used": false
+  },
+  {
+    "title": "What Parenting Reveals About Your Marriage",
+    "slug": "what-parenting-reveals-about-your-marriage",
+    "category": "Marriage & Partnership",
+    "description": "Kids stress-test every crack in a relationship. How to use the pressure to grow stronger instead of further apart.",
+    "used": false
+  },
+  {
+    "title": "Date Night Is Not Optional: Why Couples Who Play Together Stay Together",
+    "slug": "date-night-not-optional-couples-play-together",
+    "category": "Marriage & Partnership",
+    "description": "The research on couples who maintain intentional connection \u2014 and practical ideas for when you have no babysitter and no money.",
+    "used": false
+  },
+  {
+    "title": "How to Fight Fair When Kids Are Listening",
+    "slug": "how-to-fight-fair-when-kids-are-listening",
+    "category": "Marriage & Partnership",
+    "description": "Kids see everything. Teaching healthy conflict resolution by modeling it \u2014 disagreement without destruction.",
+    "used": false
+  },
+  {
+    "title": "The Homework Battle: How to Help Without Doing It For Them",
+    "slug": "homework-battle-help-without-doing-it",
+    "category": "School & Learning",
+    "description": "The homework struggle is a character-building opportunity. How to guide without rescuing, and what to do when they melt down.",
+    "used": false
+  },
+  {
+    "title": "Is My Kid Ready for Kindergarten? The Real Checklist",
+    "slug": "is-my-kid-ready-kindergarten-real-checklist",
+    "category": "School & Learning",
+    "description": "Beyond academic skills \u2014 social, emotional, and self-care readiness markers that actually predict kindergarten success.",
+    "used": false
+  },
+  {
+    "title": "When Your Kid Hates School: What's Really Going On",
+    "slug": "when-your-kid-hates-school-whats-really-going-on",
+    "category": "School & Learning",
+    "description": "School resistance signals something. Boredom, social anxiety, undiagnosed learning differences \u2014 how to get to the root.",
+    "used": false
+  },
+  {
+    "title": "The Dad You Wanted to Be vs. The Dad You Actually Are",
+    "slug": "dad-you-wanted-vs-dad-you-are",
+    "category": "Dad Identity",
+    "description": "The gap between imagined fatherhood and lived fatherhood. How to forgive yourself, course-correct, and keep showing up.",
+    "used": false
+  },
+  {
+    "title": "What Your Kids Will Remember: It's Probably Not What You Think",
+    "slug": "what-your-kids-will-remember-not-what-you-think",
+    "category": "Dad Identity",
+    "description": "Memory research on childhood: the moments that stick vs. the events we agonize over. A perspective shift for anxious dads.",
+    "used": false
+  },
+  {
+    "title": "The Quiet Season: Being a Good Dad When Life Feels Flat",
+    "slug": "quiet-season-being-good-dad-when-life-feels-flat",
+    "category": "Dad Identity",
+    "description": "Not every chapter of fatherhood is peak experience. How to show up consistently when you're tired, stuck, or just going through the motions.",
+    "used": false
+  },
+  {
+    "title": "Passing Down Values Without Preaching: The Art of Modeling",
+    "slug": "passing-values-without-preaching-modeling",
+    "category": "Faith & Values",
+    "description": "Kids absorb what they see far more than what they hear. How to live the values you want to pass on \u2014 quietly and consistently.",
+    "used": false
+  },
+  {
+    "title": "Raising Kids Who Ask Hard Questions About Life",
+    "slug": "raising-kids-who-ask-hard-questions-life",
+    "category": "Faith & Values",
+    "description": "Death, fairness, God, suffering \u2014 when your kid asks the big ones, how to engage without shutting them down or pretending you have all the answers.",
+    "used": false
+  },
+  {
+    "title": "Service Projects for Families: Teaching Generosity Young",
+    "slug": "service-projects-families-teaching-generosity",
+    "category": "Faith & Values",
+    "description": "The research on how service shapes character. Age-appropriate ways to get kids involved in giving back from toddlerhood to teens.",
+    "used": false
+  },
+  {
+    "title": "The In-Law Parenting Conflict: How to Navigate Without Casualties",
+    "slug": "in-law-parenting-conflict-navigate",
+    "category": "Extended Family",
+    "description": "Grandparents, different rules, unsolicited advice. How to maintain boundaries without burning family bridges.",
+    "used": false
+  },
+  {
+    "title": "When Grandparents Are the Village: Raising Kids Close to Family",
+    "slug": "grandparents-are-the-village-raising-kids-close",
+    "category": "Extended Family",
+    "description": "Multi-generational parenting done right. Benefits, boundaries, and how to leverage grandparent involvement without losing authority.",
+    "used": false
+  },
+  {
+    "title": "The 80/20 Dad: Where to Focus Your Parenting Energy",
+    "slug": "80-20-dad-where-to-focus-parenting-energy",
+    "category": "Dad Mental Models",
+    "description": "Not all parenting inputs are equal. The 20% of actions that drive 80% of outcomes \u2014 and where most dads waste energy.",
+    "used": false
+  },
+  {
+    "title": "Skin in the Game Parenting: Don't Shield Them From Everything",
+    "slug": "skin-in-game-parenting-dont-shield-everything",
+    "category": "Dad Mental Models",
+    "description": "Nassim Taleb's concept applied to fatherhood \u2014 why kids need to experience consequences, failure, and risk to build real competence.",
+    "used": false
+  },
+  {
+    "title": "The Long Game: Decisions That Don't Pay Off Until They're 25",
+    "slug": "long-game-decisions-pay-off-at-25",
+    "category": "Dad Mental Models",
+    "description": "Some of the most important parenting investments have no short-term feedback loop. How to stay committed to the invisible ROI.",
+    "used": false
+  },
+  {
+    "title": "The 4PM Rule: Protecting Family Time From Work Creep",
+    "slug": "4pm-rule-protecting-family-time-work-creep",
+    "category": "Work & Life Integration",
+    "description": "Work-life boundaries don't enforce themselves. Practical strategies for logging off and being actually present when you're home.",
+    "used": false
+  },
+  {
+    "title": "Side Hustle Dad: Building Something Without Losing Your Family",
+    "slug": "side-hustle-dad-building-without-losing-family",
+    "category": "Work & Life Integration",
+    "description": "Entrepreneurship as a dad requires ruthless prioritization. When to push, when to pull back, and how to keep home life intact.",
+    "used": false
+  },
+  {
+    "title": "Teaching Boys to Cry: Why Emotional Release Matters",
+    "slug": "teaching-boys-to-cry-emotional-release-matters",
+    "category": "Raising Boys",
+    "description": "The research on emotional suppression in boys \u2014 and how dads can model healthy vulnerability without undermining toughness.",
+    "used": false
+  },
+  {
+    "title": "The Screen Time War With Boys: What Actually Works",
+    "slug": "screen-time-war-with-boys-what-works",
+    "category": "Raising Boys",
+    "description": "Boys and gaming, YouTube, TikTok \u2014 the battle is real. Evidence-based strategies that actually stick versus the ones that backfire.",
+    "used": false
+  },
+  {
+    "title": "Rites of Passage for Modern Boys: Marking the Milestones That Matter",
+    "slug": "rites-of-passage-modern-boys-milestones",
+    "category": "Raising Boys",
+    "description": "Boys thrive when given clear markers of growth. How to create meaningful rituals that celebrate development without being corny.",
+    "used": false
+  },
+  {
+    "title": "When Your Kid Isn't the Star Player: Raising the Bench Warmer",
+    "slug": "kid-not-star-player-raising-bench-warmer",
+    "category": "Sports & Competition",
+    "description": "Not every kid is the starter. How to raise a supportive teammate who finds meaning and growth in a supporting role.",
+    "used": false
+  },
+  {
+    "title": "The Youth Sports Sideline Code: What Good Sports Dads Do Differently",
+    "slug": "youth-sports-sideline-code-good-dads",
+    "category": "Sports & Competition",
+    "description": "How you behave at the game shapes who your kid becomes. The sideline behaviors that build character vs. the ones that undermine it.",
+    "used": false
+  },
+  {
+    "title": "When to Push, When to Back Off: The Drive vs. Burnout Line in Youth Sports",
+    "slug": "when-push-when-back-off-youth-sports-burnout",
+    "category": "Sports & Competition",
+    "description": "Grit and specialization are valuable \u2014 until they're not. How to read the signs that your kid needs more space, not more pressure.",
+    "used": false
+  },
+  {
+    "title": "The Talking Again Moment: How to Reconnect With a Withdrawn Teen",
+    "slug": "talking-again-moment-reconnect-withdrawn-teen",
+    "category": "Teenage Years",
+    "description": "Teen communication goes quiet \u2014 but it can come back. Creating the conditions for your kid to open up again.",
+    "used": false
+  },
+  {
+    "title": "Dad and Teenager Road Trip: The Moving Vehicle is Magic",
+    "slug": "dad-teenager-road-trip-moving-vehicle-magic",
+    "category": "Teenage Years",
+    "description": "Something happens when you put a teenager in a car with no eye contact and miles to go. How to use road trips as connection tools.",
+    "used": false
+  },
+  {
+    "title": "Talking to Teens About Risk: Drugs, Alcohol, and Peer Pressure",
+    "slug": "talking-teens-risk-drugs-alcohol-peer-pressure",
+    "category": "Teenage Years",
+    "description": "The conversation you can't avoid. How to have it without lecturing, shutting down curiosity, or pretending risks don't exist.",
+    "used": false
   }
 ]
