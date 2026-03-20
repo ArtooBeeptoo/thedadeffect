@@ -675,7 +675,7 @@
     "used": true
   },
   {
-    "title": "Why Your Toddler Asks \"Why\" 400 Times a Day (And Why That's Good)",
+    "title": "Why Your Toddler Asks \"Why\" 400 Times a Day (And Why That's Good)"",
     "slug": "toddler-why-questions",
     "category": "Toddler Life",
     "description": "The endless why phase isn't annoying \u2014 it's your kid building their entire model of reality. Here's what's actually happening in their brain.",
@@ -1169,6 +1169,7 @@
     "title": "Passing Down Values Without Passing Down Rules",
     "slug": "values-without-rules",
     "category": "Faith & Values",
+
     "description": "Rules without values create kids who follow rules only when someone's watching. Values without rules create kids who build their own principles. Aim for the second one.",
     "used": true
   },
@@ -1262,7 +1263,8 @@
     "slug": "broken-toy-lesson-fixing-things",
     "category": "Stories",
     "description": "A dad story about a beloved toy, a clumsy repair attempt, and the unexpected conversation that followed.",
-    "used": false
+    "used": true,
+    "published": "2026-03-20"
   },
   {
     "title": "Dad's First Solo Weekend: What Really Happens When Mom's Away",
@@ -1311,8 +1313,8 @@
     "slug": "reading-chapter-books-together-when-stories-get-real",
     "category": "Milestones",
     "description": "The shift from picture books to chapter books is a quiet milestone. What to read, how to make it a ritual, and why it matters.",
-    "used": false
-  },
+    "used": true
+    },
   {
     "title": "Natural Consequences vs. Punishments: What Actually Works",
     "slug": "natural-consequences-vs-punishments-what-works",
@@ -1529,5 +1531,13 @@
     "category": "Teenage Years",
     "description": "The conversation you can't avoid. How to have it without lecturing, shutting down curiosity, or pretending risks don't exist.",
     "used": false
+  },
+  {
+    "title": "Dealing with Toddler Tantrums: A Dad's Guide to Staying Sane",
+    "slug": "dealing-with-toddler-tantrums-a-dads-guide",
+    "category": "Toddler Life",
+    "description": "Toddler tantrums are a rite of passage for every parent, and while they can feel like a direct attack on your sanity, they're a normal part of a child's development. Little ones are still learning to communicate big feelings, and sometimes, those feelings just spill out in the form of a full-blown meltdown. As dads, our role isn't to stop the tantrum immediately, but to navigate it in a way that helps our kids learn emotional regulation and keeps our cool.",
+    "used": true,
+    "published": "2026-03-20"
   }
 ]
