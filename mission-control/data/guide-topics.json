@@ -675,7 +675,7 @@
     "used": true
   },
   {
-    "title": "Why Your Toddler Asks \"Why\" 400 Times a Day (And Why That's Good)"",
+    "title": "Why Your Toddler Asks \"Why\" 400 Times a Day (And Why That's Good)",
     "slug": "toddler-why-questions",
     "category": "Toddler Life",
     "description": "The endless why phase isn't annoying \u2014 it's your kid building their entire model of reality. Here's what's actually happening in their brain.",
@@ -1271,7 +1271,8 @@
     "slug": "dads-first-solo-weekend-mom-away",
     "category": "Stories",
     "description": "Honest confession of what solo dad weekends actually look like \u2014 the chaos, the wins, and the part you don't post on Instagram.",
-    "used": false
+    "used": true,
+    "published": "2026-03-21"
   },
   {
     "title": "Teaching Kids About Money Before They Can Multiply",
