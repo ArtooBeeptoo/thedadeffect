@@ -1279,7 +1279,8 @@
     "slug": "teaching-kids-money-before-multiplication",
     "category": "Finances & Future",
     "description": "Age-appropriate money lessons from coins to compound interest. When to start, what to say, and what actually sticks.",
-    "used": false
+    "used": true,
+    "published": "2026-03-22"
   },
   {
     "title": "The Custodial Account Conversation: Investing for Your Kids' Future",
