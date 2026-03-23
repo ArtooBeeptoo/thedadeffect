@@ -1287,7 +1287,8 @@
     "slug": "custodial-account-investing-kids-future",
     "category": "Finances & Future",
     "description": "UGMA/UTMA vs 529 vs Roth IRA \u2014 a plain-English breakdown for dads who want to build generational wealth.",
-    "used": false
+    "used": true,
+    "published": "2026-03-23"
   },
   {
     "title": "Allowance Done Right: Chores, Earnings, and Teaching Value",
