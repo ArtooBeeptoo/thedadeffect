@@ -1312,7 +1312,8 @@
     "slug": "first-night-without-nighttime-diapers",
     "category": "Milestones",
     "description": "The overnight milestone no one warns you about \u2014 the prep, the accidents, and the victory lap when it finally works.",
-    "used": false
+    "used": true,
+    "published": "2026-03-27"
   },
   {
     "title": "Reading Chapter Books Together: When Stories Get Real",
