@@ -1335,7 +1335,8 @@
     "slug": "art-of-dad-warning-countdown-discipline",
     "category": "Discipline & Guidance",
     "description": "Countdown warnings work \u2014 but only if you follow through. The psychology behind effective warnings and why empty threats backfire.",
-    "used": false
+    "used": true,
+    "published": "2026-03-29"
   },
   {
     "title": "When Time-Outs Stop Working: What Comes Next",
