@@ -1170,7 +1170,6 @@
     "title": "Passing Down Values Without Passing Down Rules",
     "slug": "values-without-rules",
     "category": "Faith & Values",
-
     "description": "Rules without values create kids who follow rules only when someone's watching. Values without rules create kids who build their own principles. Aim for the second one.",
     "used": true
   },
@@ -1321,7 +1320,7 @@
     "category": "Milestones",
     "description": "The shift from picture books to chapter books is a quiet milestone. What to read, how to make it a ritual, and why it matters.",
     "used": true
-    },
+  },
   {
     "title": "Natural Consequences vs. Punishments: What Actually Works",
     "slug": "natural-consequences-vs-punishments-what-works",
@@ -1359,14 +1358,16 @@
     "slug": "date-night-not-optional-couples-play-together",
     "category": "Marriage & Partnership",
     "description": "The research on couples who maintain intentional connection \u2014 and practical ideas for when you have no babysitter and no money.",
-    "used": false
+    "used": true,
+    "published": "2026-04-03"
   },
   {
     "title": "How to Fight Fair When Kids Are Listening",
     "slug": "how-to-fight-fair-when-kids-are-listening",
     "category": "Marriage & Partnership",
     "description": "Kids see everything. Teaching healthy conflict resolution by modeling it \u2014 disagreement without destruction.",
-    "used": false
+    "used": true,
+    "published": "2026-04-04"
   },
   {
     "title": "The Homework Battle: How to Help Without Doing It For Them",
