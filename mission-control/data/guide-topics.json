@@ -1382,7 +1382,8 @@
     "slug": "is-my-kid-ready-kindergarten-real-checklist",
     "category": "School & Learning",
     "description": "Beyond academic skills — social, emotional, and self-care readiness markers that actually predict kindergarten success.",
-    "used": false
+    "used": true,
+    "published": "2026-04-05"
   },
   {
     "title": "When Your Kid Hates School: What's Really Going On",
