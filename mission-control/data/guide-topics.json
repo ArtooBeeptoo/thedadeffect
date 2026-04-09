@@ -1422,14 +1422,16 @@
     "slug": "passing-values-without-preaching-modeling",
     "category": "Faith & Values",
     "description": "Kids absorb what they see far more than what they hear. How to live the values you want to pass on — quietly and consistently.",
-    "used": false
+    "used": true,
+    "published": "2026-04-08"
   },
   {
     "title": "Raising Kids Who Ask Hard Questions About Life",
     "slug": "raising-kids-who-ask-hard-questions-life",
     "category": "Faith & Values",
     "description": "Death, fairness, God, suffering — when your kid asks the big ones, how to engage without shutting them down or pretending you have all the answers.",
-    "used": false
+    "used": true,
+    "published": "2026-04-09"
   },
   {
     "title": "Service Projects for Families: Teaching Generosity Young",
