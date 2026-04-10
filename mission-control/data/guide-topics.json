@@ -1438,14 +1438,16 @@
     "slug": "service-projects-families-teaching-generosity",
     "category": "Faith & Values",
     "description": "The research on how service shapes character. Age-appropriate ways to get kids involved in giving back from toddlerhood to teens.",
-    "used": false
+    "used": true,
+    "published": "2026-04-09"
   },
   {
     "title": "The In-Law Parenting Conflict: How to Navigate Without Casualties",
     "slug": "in-law-parenting-conflict-navigate",
     "category": "Extended Family",
     "description": "Grandparents, different rules, unsolicited advice. How to maintain boundaries without burning family bridges.",
-    "used": false
+    "used": true,
+    "published": "2026-04-10"
   },
   {
     "title": "When Grandparents Are the Village: Raising Kids Close to Family",
