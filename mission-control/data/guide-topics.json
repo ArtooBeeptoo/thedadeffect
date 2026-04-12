@@ -1470,28 +1470,32 @@
     "slug": "skin-in-game-parenting-dont-shield-everything",
     "category": "Dad Mental Models",
     "description": "Nassim Taleb's concept applied to fatherhood — why kids need to experience consequences, failure, and risk to build real competence.",
-    "used": false
+    "used": true,
+    "published": "2026-04-11"
   },
   {
     "title": "The Long Game: Decisions That Don't Pay Off Until They're 25",
     "slug": "long-game-decisions-pay-off-at-25",
     "category": "Dad Mental Models",
     "description": "Some of the most important parenting investments have no short-term feedback loop. How to stay committed to the invisible ROI.",
-    "used": false
+    "used": true,
+    "published": "2026-04-11"
   },
   {
     "title": "The 4PM Rule: Protecting Family Time From Work Creep",
     "slug": "4pm-rule-protecting-family-time-work-creep",
     "category": "Work & Life Integration",
     "description": "Work-life boundaries don't enforce themselves. Practical strategies for logging off and being actually present when you're home.",
-    "used": false
+    "used": true,
+    "published": "2026-04-11"
   },
   {
     "title": "Side Hustle Dad: Building Something Without Losing Your Family",
     "slug": "side-hustle-dad-building-without-losing-family",
     "category": "Work & Life Integration",
     "description": "Entrepreneurship as a dad requires ruthless prioritization. When to push, when to pull back, and how to keep home life intact.",
-    "used": false
+    "used": true,
+    "published": "2026-04-12"
   },
   {
     "title": "Teaching Boys to Cry: Why Emotional Release Matters",
