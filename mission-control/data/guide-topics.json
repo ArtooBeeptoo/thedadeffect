@@ -1502,14 +1502,16 @@
     "slug": "teaching-boys-to-cry-emotional-release-matters",
     "category": "Raising Boys",
     "description": "The research on emotional suppression in boys — and how dads can model healthy vulnerability without undermining toughness.",
-    "used": false
+    "used": true,
+    "published": "2026-04-12"
   },
   {
     "title": "The Screen Time War With Boys: What Actually Works",
     "slug": "screen-time-war-with-boys-what-works",
     "category": "Raising Boys",
     "description": "Boys and gaming, YouTube, TikTok — the battle is real. Evidence-based strategies that actually stick versus the ones that backfire.",
-    "used": false
+    "used": true,
+    "published": "2026-04-13"
   },
   {
     "title": "Rites of Passage for Modern Boys: Marking the Milestones That Matter",
