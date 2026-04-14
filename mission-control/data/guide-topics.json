@@ -1518,14 +1518,16 @@
     "slug": "rites-of-passage-modern-boys-milestones",
     "category": "Raising Boys",
     "description": "Boys thrive when given clear markers of growth. How to create meaningful rituals that celebrate development without being corny.",
-    "used": false
+    "used": true,
+    "published": "2026-04-13"
   },
   {
     "title": "When Your Kid Isn't the Star Player: Raising the Bench Warmer",
     "slug": "kid-not-star-player-raising-bench-warmer",
     "category": "Sports & Competition",
     "description": "Not every kid is the starter. How to raise a supportive teammate who finds meaning and growth in a supporting role.",
-    "used": false
+    "used": true,
+    "published": "2026-04-14"
   },
   {
     "title": "The Youth Sports Sideline Code: What Good Sports Dads Do Differently",
