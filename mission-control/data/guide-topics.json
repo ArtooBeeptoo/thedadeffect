@@ -1534,7 +1534,8 @@
     "slug": "youth-sports-sideline-code-good-dads",
     "category": "Sports & Competition",
     "description": "How you behave at the game shapes who your kid becomes. The sideline behaviors that build character vs. the ones that undermine it.",
-    "used": false
+    "used": true,
+    "published": "2026-04-15"
   },
   {
     "title": "When to Push, When to Back Off: The Drive vs. Burnout Line in Youth Sports",
