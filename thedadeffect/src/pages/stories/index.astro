@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const stories = (await getCollection('stories'))
+  .filter(story => !story.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout title="Stories" description="Every father leaves a mark. These are the stories worth remembering.">
+  <div class="container">
+    <section class="list-page">
+      <h1>All Stories</h1>
+      <p style="color: var(--text-muted); margin-bottom: 2rem;">
+        History's greatest fathers, everyday heroes, and the moments that defined what it means to be a dad.
+      </p>
+      <div class="story-grid">
+        {stories.map((story) => (
+          <article class="story-card">
+            <a href={`/stories/${story.id}/`}>
+              <div class="story-meta">
+                <time datetime={story.data.pubDate.toISOString()}>
+                  {story.data.pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                </time>
+                {story.data.categories[0] && (
+                  <span class="category">{story.data.categories[0]}</span>
+                )}
+              </div>
+              <h3>{story.data.title}</h3>
+              <p>{story.data.description}</p>
+            </a>
+          </article>
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>

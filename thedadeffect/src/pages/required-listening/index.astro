@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Get all guides with "Required Listening" category
+const posts = (await getCollection('guides'))
+  .filter(guide => !guide.data.draft && guide.data.categories?.includes('Required Listening'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout title="Required Listening" description="Podcast takeaways and conversations every dad should hear. We find the good stuff so you don't have to.">
+  <div class="container">
+    <section class="list-page">
+      <h1>🎙️ Required Listening</h1>
+      <p style="color: var(--text-muted); margin-bottom: 2rem;">
+        Podcast takeaways and conversations every dad should hear. We find the good stuff so you don't have to.
+      </p>
+
+      {posts.length > 0 ? (
+        <div class="story-grid">
+          {posts.map((post) => (
+            <article class="story-card">
+              <a href={`/guides/${post.id}/`}>
+                <div class="story-meta">
+                  <time datetime={post.data.pubDate.toISOString()}>
+                    {post.data.pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                  </time>
+                  <span class="category">🎧 Podcast</span>
+                </div>
+                <h3>{post.data.title}</h3>
+                <p>{post.data.description}</p>
+              </a>
+            </article>
+          ))}
+        </div>
+      ) : (
+        <div style="text-align:center; padding: 4rem 0; color: var(--text-muted);">
+          <p style="font-size: 1.25rem;">First episodes dropping soon. Follow @DadEffect for updates.</p>
+          <a href="https://x.com/DadEffect" class="btn btn-primary" target="_blank" style="margin-top:1rem;">
+            Follow @DadEffect
+          </a>
+        </div>
+      )}
+
+      <div style="margin-top: 3rem; padding: 2rem; background: var(--surface); border-radius: 8px;">
+        <h3 style="margin-bottom: 1rem;">🎧 What We're Listening To</h3>
+        <p style="color: var(--text-muted); margin-bottom: 1rem;">
+          We scan the best fatherhood and parenting podcasts so you don't have to. When we find something worth your time, we break it down here.
+        </p>
+        <p style="color: var(--text-muted);">
+          <strong>Currently monitoring:</strong> Youth Inc. with Greg Olsen, Hardcore History, The Daily Dad, and more.
+        </p>
+      </div>
+    </section>
+  </div>
+</BaseLayout>
