@@ -1550,7 +1550,8 @@
     "slug": "talking-again-moment-reconnect-withdrawn-teen",
     "category": "Teenage Years",
     "description": "Teen communication goes quiet — but it can come back. Creating the conditions for your kid to open up again.",
-    "used": false
+    "used": true,
+    "published": "2026-04-24"
   },
   {
     "title": "Dad and Teenager Road Trip: The Moving Vehicle is Magic",
