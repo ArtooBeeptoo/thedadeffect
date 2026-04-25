@@ -860,7 +860,7 @@
   },
   {
     "title": "How to Fight Better in Front of Your Kids",
-    "slug": "fight-better-in-front-of-kids",
+    "slug": "how-to-fight-fair-when-kids-are-listening",
     "category": "Marriage & Partnership",
     "description": "You WILL disagree in front of your children. How you handle it is the lesson — make it a good one.",
     "used": true
@@ -1170,6 +1170,7 @@
     "title": "Passing Down Values Without Passing Down Rules",
     "slug": "values-without-rules",
     "category": "Faith & Values",
+
     "description": "Rules without values create kids who follow rules only when someone's watching. Values without rules create kids who build their own principles. Aim for the second one.",
     "used": true
   },
@@ -1558,7 +1559,8 @@
     "slug": "dad-teenager-road-trip-moving-vehicle-magic",
     "category": "Teenage Years",
     "description": "Something happens when you put a teenager in a car with no eye contact and miles to go. How to use road trips as connection tools.",
-    "used": false
+    "used": true,
+    "published": "2026-04-25"
   },
   {
     "title": "Talking to Teens About Risk: Drugs, Alcohol, and Peer Pressure",
