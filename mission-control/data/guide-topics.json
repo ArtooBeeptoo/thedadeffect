@@ -1567,7 +1567,8 @@
     "slug": "talking-teens-risk-drugs-alcohol-peer-pressure",
     "category": "Teenage Years",
     "description": "The conversation you can't avoid. How to have it without lecturing, shutting down curiosity, or pretending risks don't exist.",
-    "used": false
+    "used": true,
+    "published": "2026-04-27"
   },
   {
     "title": "Dealing with Toddler Tantrums: A Dad's Guide to Staying Sane",
