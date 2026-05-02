@@ -1584,6 +1584,7 @@
     "slug": "art-of-bedtime-story",
     "category": "Dad Skills",
     "description": "It's not just reading. It's character voices, suspense, and connection. How to make bedtime stories a powerful ritual your kids will remember.",
-    "used": false
+    "used": true,
+    "published": "2026-05-02"
   }
 ]
