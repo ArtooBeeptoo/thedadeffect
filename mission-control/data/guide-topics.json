@@ -1171,6 +1171,7 @@
     "slug": "values-without-rules",
     "category": "Faith & Values",
 
+
     "description": "Rules without values create kids who follow rules only when someone's watching. Values without rules create kids who build their own principles. Aim for the second one.",
     "used": true
   },
@@ -1586,5 +1587,13 @@
     "description": "It's not just reading. It's character voices, suspense, and connection. How to make bedtime stories a powerful ritual your kids will remember.",
     "used": true,
     "published": "2026-05-02"
+  },
+  {
+    "title": "Why Dads Need a 'Third Place' (And How to Find Yours)",
+    "slug": "why-dads-need-third-place",
+    "category": "Dad Identity",
+    "description": "Beyond work and home, every dad needs a 'third place' — a spot for community, personal growth, and recharging. How to find or build yours.",
+    "used": true,
+    "published": "2026-05-03"
   }
 ]
