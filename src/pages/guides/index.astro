@@ -6,7 +6,6 @@ const guides = (await getCollection('guides'))
   .filter(guide => !guide.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const categoryOrder = ['Pregnancy for Dads', 'New Dad Survival Guide', 'Gift Guides'];
 const grouped = new Map<string, typeof guides>();
 
 for (const guide of guides) {
@@ -14,6 +13,11 @@ for (const guide of guides) {
   if (!grouped.has(cat)) grouped.set(cat, []);
   grouped.get(cat)!.push(guide);
 }
+
+const categoryOrder = Array.from(grouped.keys()).sort((a, b) => {
+  const diff = (grouped.get(b)?.length ?? 0) - (grouped.get(a)?.length ?? 0);
+  return diff !== 0 ? diff : a.localeCompare(b);
+});
 ---
 
 <BaseLayout title="Dad Guides" description="Real advice for real dads. From pregnancy to first diaper to gifts he'll actually want.">
