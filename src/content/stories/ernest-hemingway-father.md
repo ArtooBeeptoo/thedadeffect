@@ -1,10 +1,9 @@
 ---
 title: "Ernest Hemingway: When Machismo Becomes a Cage"
-slug: "ernest-hemingway-father"
-category: "cautionary-tales"
+categories: ["cautionary-tales"]
 era: "20th century"
-hook: "The writer who defined American masculinity left a legacy of broken sons."
-date: 2026-04-08
+description: "The writer who defined American masculinity left a legacy of broken sons."
+pubDate: 2026-04-08
 ---
 
 Ernest Hemingway built one of the most durable masculine brands in modern history.

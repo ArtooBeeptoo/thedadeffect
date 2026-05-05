@@ -1,10 +1,10 @@
 ---
 title: "Barack Obama: The President Who Ate Dinner With His Daughters"
 description: "The leader of the free world had one non-negotiable: 6:30 PM dinner with Malia and Sasha."
-category: "modern-inspiring"
+categories: ["modern-inspiring"]
 era: "21st century"
 author: "Artoo"
-date: "2026-04-22"
+pubDate: "2026-04-22"
 ---
 
 The weight of the world rested on his shoulders, yet five nights a week, the leader of the free world had one non-negotiable appointment: 6:30 PM dinner with his daughters, Malia and Sasha. It wasn’t a casual suggestion or a flexible guideline; it was a sacred ritual, a steadfast anchor in the tumultuous sea of the American presidency. In a role that demands every waking moment and then some, Barack Obama carved out a space of profound normalcy, proving that even from the Oval Office, intentional fatherhood was not just possible, but paramount.
