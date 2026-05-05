@@ -1,7 +1,7 @@
 ---
 title: "The Anatomy Scan: When Your Baby Becomes Real"
 description: "Everything dads need to know about the 20-week ultrasound — what to expect, what they're looking for, and why this is the moment it finally hits you."
-pubDate: 2026-02-09T10:00:00
+pubDate: "2026-02-09T10:00:00"
 categories: ["pregnancy"]
 tags: ["anatomy scan", "ultrasound", "20 weeks", "pregnancy milestones", "expecting dads"]
 draft: false

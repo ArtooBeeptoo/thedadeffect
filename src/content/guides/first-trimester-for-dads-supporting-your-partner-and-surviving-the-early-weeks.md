@@ -1,7 +1,7 @@
 ---
 title: "First Trimester for Dads: Supporting Your Partner and Surviving the Early Weeks"
 description: "Just found out you're going to be a dad? Here's your guide to the first trimester — what she's experiencing, how to help, and how to survive the rollercoaster."
-pubDate: 2026-03-08T10:00:00
+pubDate: "2026-03-08T10:00:00"
 categories: ["Pregnancy for Dads"]
 tags: ["first-trimester", "pregnancy", "new-dad", "support"]
 draft: false

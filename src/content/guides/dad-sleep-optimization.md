@@ -1,9 +1,10 @@
 ---
 title: "Dad's Guide to Sleep Optimization: Be Present, Not Just Awake"
-slug: "dad-sleep-optimization"
-pubDate: 2026-02-24
-category: "Dad Health"
 description: "Sleep isn't a luxury — it's parenting infrastructure. Science-backed strategies for maximizing the sleep you do get so you can actually be present."
+pubDate: "2026-02-24T12:00:00"
+categories: ["Dad Health"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 ## Dad's Guide to Sleep Optimization: Be Present, Not Just Awake

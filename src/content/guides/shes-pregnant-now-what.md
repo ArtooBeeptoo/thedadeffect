@@ -1,7 +1,7 @@
 ---
 title: "She's Pregnant. Now What? A Guy's Guide to Not Losing His Mind"
 description: "You just found out you're going to be a dad. Your brain is doing backflips. Here's everything you need to know about the first trimester — from her perspective and yours."
-pubDate: 2026-02-02T18:00:00
+pubDate: "2026-02-02T18:00:00"
 categories: ["Pregnancy for Dads"]
 tags: ["pregnancy", "first-trimester", "expecting", "new-dad", "support"]
 draft: false

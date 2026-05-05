@@ -1,7 +1,7 @@
 ---
 title: "Why Your Kids Need Boredom More Than Screen Time"
 description: "AI can entertain forever. Humans need space to think. Why strategic boredom builds creativity and resilience."
-pubDate: 2026-02-28T10:00:00
+pubDate: "2026-02-28T10:00:00"
 categories: ["The Human Edge"]
 tags: ["boredom", "screen-time", "child-development", "creativity", "resilience"]
 draft: false

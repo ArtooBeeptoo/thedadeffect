@@ -1,7 +1,7 @@
 ---
 title: "The Mental Load: How Dads Can Actually Help"
 description: "Beyond helping with chores — understanding and sharing the invisible burden of household management. It's not just about doing tasks; it's about anticipating needs and owning the process."
-pubDate: 2026-03-02T10:00:00
+pubDate: "2026-03-02T10:00:00"
 categories: ["Modern Fatherhood"]
 tags: ["mental load", "parenting", "dad life", "relationships", "family management"]
 draft: false

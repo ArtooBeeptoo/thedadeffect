@@ -1,7 +1,7 @@
 ---
 title: "Why Watching Your Kid Play Sports Makes You Feel Insane"
 description: "A sports psychologist who works with the Patriots and Red Sox explains why youth sports bring up every insecurity you've ever had — and what to do about it."
-pubDate: 2026-02-05T10:00:00
+pubDate: "2026-02-05T10:00:00"
 categories: ["Required Listening"]
 tags: ["youth sports", "sports parenting", "parenting emotions", "sideline stress", "podcast takeaways"]
 draft: false

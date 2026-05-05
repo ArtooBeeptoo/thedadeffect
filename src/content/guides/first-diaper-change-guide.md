@@ -1,9 +1,9 @@
 ---
 title: "Your First Diaper Change: A Step-by-Step Guide for the Terrified"
 description: "It's going to be gross. It's going to be confusing. You're going to get pee on you. Here's how to handle it anyway."
-pubDate: 2026-02-16T10:00:00  
+pubDate: "2026-02-16T10:00:00"
 categories: ["Newborn Survival"]
-tags: ["diaper change", "new dad", "parenting", "baby care", "survival guide"]  
+tags: ["diaper change", "new dad", "parenting", "baby care", "survival guide"]
 draft: false
 ---
 

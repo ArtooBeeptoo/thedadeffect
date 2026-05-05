@@ -1,9 +1,10 @@
 ---
 title: "The First Doctor's Appointments: What Dads Need to Know"
 description: "From the first weigh-in to immunizations, navigating your newborn's initial doctor visits can be overwhelming. Here's a dad's guide to understanding what's happening and how to support your partner."
-pubDate: 2026-02-20
-category: "Newborn Survival"
+pubDate: "2026-02-20T12:00:00"
+categories: ["Newborn Survival"]
 tags: ["newborn", "health", "dad-life"]
+draft: false
 ---
 
 ### The First Few Days: Your Baby's Medical Marathon

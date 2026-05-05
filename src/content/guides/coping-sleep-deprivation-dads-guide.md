@@ -1,7 +1,7 @@
 ---
 title: "Coping with Sleep Deprivation: A Dad's Guide to Staying Sane"
 description: "You're tired, she's tired, everyone's tired. Strategies for new dads to manage extreme sleep deprivation without losing their minds (or their temper)."
-pubDate: 2026-02-21T10:00:00
+pubDate: "2026-02-21T10:00:00"
 categories: ["Newborn Survival"]
 tags: ["sleep-deprivation", "new-dad", "newborn", "survival-guide", "mental-health"]
 draft: false

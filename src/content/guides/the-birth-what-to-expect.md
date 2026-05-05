@@ -1,7 +1,7 @@
 ---
 title: "The Birth: What to Expect, What to Bring, and Why You Should Be in the Room"
 description: "Your guide to labor, delivery, and not passing out — from hospital bag essentials to being the support person she actually needs."
-pubDate: 2026-02-06T10:00:00
+pubDate: "2026-02-06T10:00:00"
 categories: ["Pregnancy for Dads"]
 tags: ["birth", "labor", "delivery", "hospital bag", "support"]
 draft: false

@@ -1,9 +1,10 @@
 ---
 title: "The Witching Hour: Surviving Evening Fussiness"
 description: "Why do babies get so fussy in the evenings? Understanding the 'witching hour' and practical tips for soothing your baby (and yourselves) during this challenging time."
-pubDate: 2026-02-22
-category: "Newborn Survival"
-slug: "witching-hour-surviving-fussiness"
+pubDate: "2026-02-22T12:00:00"
+categories: ["Newborn Survival"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 Real advice for real dads. No judgment, no lectures — just the stuff you actually need to know.

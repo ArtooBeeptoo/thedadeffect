@@ -1,7 +1,7 @@
 ---
 title: "How to Throw a Spiral, Skip a Stone, and Other Vanishing Dad Arts"
 description: "Small skills with outsized meaning. The things dads used to teach automatically — and why passing them on still matters."
-pubDate: 2026-03-06T18:00:00
+pubDate: "2026-03-06T18:00:00"
 categories: ["Dad Skills"]
 tags: ["dad-skills", "life-skills", "fatherhood", "teaching-kids", "tradition"]
 draft: false

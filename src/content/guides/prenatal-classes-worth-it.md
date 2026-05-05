@@ -1,7 +1,7 @@
 ---
 title: "Prenatal Classes: Are They Worth It or Total BS?"
 description: "Lamaze, Bradley, HypnoBirthing — what actually helps and what's just expensive breathing exercises. A dad's honest breakdown of childbirth classes."
-pubDate: 2026-02-08T10:00:00
+pubDate: "2026-02-08T10:00:00"
 categories: ["Pregnancy for Dads"]
 tags: ["prenatal classes", "childbirth classes", "Lamaze", "Bradley Method", "HypnoBirthing"]
 draft: false

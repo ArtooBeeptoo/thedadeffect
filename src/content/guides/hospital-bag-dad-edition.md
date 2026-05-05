@@ -1,7 +1,7 @@
 ---
 title: "What to Pack in Your Hospital Bag (Dad Edition)"
 description: "Everyone talks about her hospital bag. Nobody talks about yours. Here's what you actually need for the longest night of your life."
-pubDate: 2026-02-07T10:00:00
+pubDate: "2026-02-07T10:00:00"
 categories: ["Pregnancy for Dads"]
 tags: ["hospital bag", "pregnancy", "labor", "delivery", "new dad"]
 draft: false
