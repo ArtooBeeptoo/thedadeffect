@@ -1,13 +1,10 @@
 ---
 title: "Balancing Work and Dad Life: Real Talk and Practical Tips"
 description: "Juggling a demanding career with the joys (and chaos) of fatherhood is a constant challenge. Here’s how to find your balance, maximize your time with your kids, and not lose your mind in the process."
-date: 2026-04-30
-tags:
-  - work-life balance
-  - dad hacks
-  - time management
-  - parenting
-  - career
+pubDate: "2026-04-30T12:00:00"
+categories: ["Guides"]
+tags: ["work-life balance", "dad hacks", "time management", "parenting", "career"]
+draft: false
 ---
 
 Real talk, dads: that elusive "work-life balance" often feels like a mythical creature, especially when you're trying to crush it at work while also being present for your kids. You're not alone. Many of us are driving 3,000+ miles a month, making calls, closing deals, and then trying to seamlessly transition into a tickle monster or bedtime storyteller.

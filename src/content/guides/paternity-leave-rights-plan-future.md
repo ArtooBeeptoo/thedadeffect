@@ -1,12 +1,10 @@
 ---
-title: Paternity Leave: Your Rights, Your Plan, Your Family's Future
-description: Everything expectant dads need to know about paternity leave – understanding your rights, creating a solid plan, and leveraging this crucial time for your family.
-date: 2026-03-27
-tags:
-  - pregnancy for dads
-  - paternity leave
-  - new dad
-  - family planning
+title: "Paternity Leave: Your Rights, Your Plan, Your Family's Future"
+description: "Everything expectant dads need to know about paternity leave – understanding your rights, creating a solid plan, and leveraging this crucial time for your family."
+pubDate: "2026-03-27T12:00:00"
+categories: ["Guides"]
+tags: ["pregnancy for dads", "paternity leave", "new dad", "family planning"]
+draft: false
 ---
 
 # Paternity Leave: Your Rights, Your Plan, Your Family's Future

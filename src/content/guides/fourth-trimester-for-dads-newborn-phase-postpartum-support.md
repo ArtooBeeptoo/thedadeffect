@@ -1,14 +1,10 @@
 ---
 title: "Fourth Trimester for Dads: Navigating the Newborn Phase and Postpartum Support"
 description: "Your guide to the fourth trimester—what to expect with a newborn, how to support your partner's postpartum recovery, and how to survive those first few months as a new dad."
-date: 2026-04-29
-author: Joe Casey
-tags:
-  - Pregnancy for Dads
-  - Fourth Trimester
-  - Newborn
-  - Postpartum
-  - Dad Life
+pubDate: "2026-04-29T12:00:00"
+categories: ["Guides"]
+tags: ["Pregnancy for Dads", "Fourth Trimester", "Newborn", "Postpartum", "Dad Life"]
+draft: false
 ---
 
 ## Fourth Trimester for Dads: Navigating the Newborn Phase and Postpartum Support

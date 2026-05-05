@@ -1,9 +1,10 @@
 ---
 title: "Postpartum for Dads: Surviving the First Weeks Home"
-date: "2026-03-17"
 description: "Your essential guide to navigating the unpredictable, exhilarating, and exhausting first few weeks after bringing your newborn home."
-author: "The Dad Effect"
+pubDate: "2026-03-17T12:00:00"
+categories: ["Guides"]
 tags: ["Postpartum", "Newborn", "Dad Life"]
+draft: false
 ---
 
 # Postpartum for Dads: Surviving the First Weeks Home

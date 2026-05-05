@@ -1,9 +1,10 @@
 ---
 title: "Preparing for Parenthood: The Dad Checklist"
-date: 2026-03-30
 description: "A comprehensive checklist for dads-to-be, covering everything from baby gear to mental preparation for the big arrival."
-author: "Artoo"
+pubDate: "2026-03-30T12:00:00"
+categories: ["Guides"]
 tags: ["Pregnancy for Dads", "Parenthood Prep", "New Dad"]
+draft: false
 ---
 
 ### Get the Gear Ready

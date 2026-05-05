@@ -1,6 +1,10 @@
 ---
-date: April 27, 2026
-description: Discover how to embrace your dadbod with confidence while maintaining health as a new father. Practical tips for the modern dad physique from The Dad Effect.
+title: "Dadbods Embracing New Dad Physique Staying Healthy"
+description: "Discover how to embrace your dadbod with confidence while maintaining health as a new father. Practical tips for the modern dad physique from The Dad Effect."
+pubDate: "2026-04-27T12:00:00"
+categories: ["Guides"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 # Dadbods: Embracing the New Dad Physique and Staying Healthy

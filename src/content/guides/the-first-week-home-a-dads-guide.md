@@ -1,14 +1,10 @@
 ---
 title: "The First Week Home: A Dad's Guide to Surviving and Thriving with a Newborn"
 description: "The first week home with a newborn can feel like a blur of diapers and sleepless nights. Here's how dads can not just survive, but truly thrive and support their partner during this wild ride."
-date: 2026-05-04
-categories:
-  - Newborn Care for Dads
-tags:
-  - newborn
-  - dadlife
-  - firstweek
-  - parenting
+pubDate: "2026-05-04T12:00:00"
+categories: ["Newborn Care for Dads"]
+tags: ["newborn", "dadlife", "firstweek", "parenting"]
+draft: false
 ---
 
 The moment you bring your newborn home from the hospital is surreal. One minute you're navigating sterile hallways, the next you're walking through your front door with a tiny human who has just flipped your world upside down. This first week is often a blur of emotions, exhaustion, and an overwhelming amount of new information. As a dad, your role is crucial, not just in supporting your partner, but in bonding with your baby and establishing your new family rhythm.

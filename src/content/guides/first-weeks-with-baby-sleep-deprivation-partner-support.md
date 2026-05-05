@@ -1,8 +1,10 @@
 ---
-title: First Weeks with Baby: Surviving Sleep Deprivation and Supporting Your Partner
-description: The first few weeks with a newborn are a blur of feedings, diaper changes, and almost no sleep. Here’s how to keep your sanity and be the rock your partner needs.
-date: 2026-04-01
-category: Newborn Care
+title: "First Weeks with Baby: Surviving Sleep Deprivation and Supporting Your Partner"
+description: "The first few weeks with a newborn are a blur of feedings, diaper changes, and almost no sleep. Here’s how to keep your sanity and be the rock your partner needs."
+pubDate: "2026-04-01T12:00:00"
+categories: ["Newborn Care"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 The first few weeks with a newborn are an intense, beautiful, and utterly exhausting marathon. Your partner is recovering from birth, hormones are raging, and a tiny human is demanding attention around the clock. Your job as a dad is crucial – both for the baby and for supporting your partner.

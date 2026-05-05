@@ -1,8 +1,10 @@
 ---
 title: "Daily Dad Guide: March 23rd, 2026"
-publishDate: "2026-03-23T00:00:00Z"
 description: "Today's guide for dads, focusing on balancing work and family life."
+pubDate: "2026-03-23T00:00:00Z"
+categories: ["Guides"]
 tags: ["dadlife", "parenting", "worklifebalance"]
+draft: false
 ---
 
 # Daily Dad Guide: March 23rd, 2026

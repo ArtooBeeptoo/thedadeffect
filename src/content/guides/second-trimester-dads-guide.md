@@ -1,8 +1,10 @@
 ---
 title: "Second Trimester for Dads: What to Expect and How to Support Your Partner"
 description: "The second trimester brings new changes for your partner and your growing baby. Here's what dads need to know to stay involved and supportive."
-date: 2026-04-23
+pubDate: "2026-04-23T12:00:00"
+categories: ["Guides"]
 tags: ["Pregnancy for Dads", "Second Trimester", "Dad Advice", "Supporting Partner"]
+draft: false
 ---
 
 ## The "Golden Trimester" — For Her (and You!)

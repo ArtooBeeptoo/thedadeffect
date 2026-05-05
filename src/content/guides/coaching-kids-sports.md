@@ -1,9 +1,10 @@
 ---
 title: "How to Coach Your Kid's Team Without Being That Dad"
-slug: "coaching-kids-sports"
-category: "Dad Skills"
 description: "You volunteered to help — now what? Guidelines for coaching youth sports without crushing spirits or embarrassing yourself."
-pubDate: "2026-02-27"
+pubDate: "2026-02-27T12:00:00"
+categories: ["Dad Skills"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 **How to Coach Your Kid's Team Without Being That Dad**

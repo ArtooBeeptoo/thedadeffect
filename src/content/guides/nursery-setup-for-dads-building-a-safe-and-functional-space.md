@@ -1,9 +1,10 @@
 ---
 title: "Nursery Setup for Dads: Building a Safe and Functional Space"
-date: 2026-04-28
 description: "A practical guide for dads on setting up the nursery. From crib safety to clever storage, make this space perfect for your new arrival."
+pubDate: "2026-04-28T12:00:00"
+categories: ["Guides"]
 tags: ["Pregnancy for Dads", "Nursery", "Baby Prep"]
-author: "Joe David"
+draft: false
 ---
 
 ## Nursery Setup for Dads: Building a Safe and Functional Space

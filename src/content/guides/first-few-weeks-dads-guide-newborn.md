@@ -1,9 +1,10 @@
 ---
 title: "First Few Weeks: A Dad's Guide to Surviving and Thriving with a Newborn"
 description: "The first few weeks with a newborn can be a blur of sleepless nights and endless diaper changes. This guide helps dads navigate the early days of fatherhood, offering practical tips for supporting your partner, bonding with your baby, and maintaining your sanity."
-date: 2026-03-16
-author: "Artoo"
+pubDate: "2026-03-16T12:00:00"
+categories: ["Guides"]
 tags: ["newborn", "fatherhood", "first-weeks", "parenting", "baby"]
+draft: false
 ---
 
 # First Few Weeks: A Dad's Guide to Surviving and Thriving with a Newborn

@@ -1,10 +1,10 @@
 ---
-title: Preparing the Nursery: A Dad's Guide to Setting Up for Baby's Arrival
-date: 2026-03-22
-tags:
-  - Pregnancy for Dads
-  - Nursery Setup
-  - Baby Preparation
+title: "Preparing the Nursery: A Dad's Guide to Setting Up for Baby's Arrival"
+description: "Becoming a dad means more than just showing up for the birth; it means actively preparing for the little one's arrival. One of the most tangible ways to do this is by setting up the nursery. This i..."
+pubDate: "2026-03-22T12:00:00"
+categories: ["Guides"]
+tags: ["Pregnancy for Dads", "Nursery Setup", "Baby Preparation"]
+draft: false
 ---
 
 Becoming a dad means more than just showing up for the birth; it means actively preparing for the little one's arrival. One of the most tangible ways to do this is by setting up the nursery. This isn't just about aesthetics; it's about creating a safe, functional, and loving space for your baby.

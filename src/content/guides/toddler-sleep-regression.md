@@ -1,12 +1,10 @@
 ---
-title: Toddler Sleep Regression - Surviving the Nightmares and Early Mornings
-description: When your toddler suddenly decides sleep is for the weak, here's how to survive the sleep regression with your sanity (mostly) intact.
-date: 2026-05-01
-tags:
-  - parenting
-  - toddlers
-  - sleep
-  - dadlife
+title: "Toddler Sleep Regression - Surviving the Nightmares and Early Mornings"
+description: "When your toddler suddenly decides sleep is for the weak, here's how to survive the sleep regression with your sanity (mostly) intact."
+pubDate: "2026-05-01T12:00:00"
+categories: ["Guides"]
+tags: ["parenting", "toddlers", "sleep", "dadlife"]
+draft: false
 ---
 
 # Toddler Sleep Regression: Surviving the Nightmares and Early Mornings

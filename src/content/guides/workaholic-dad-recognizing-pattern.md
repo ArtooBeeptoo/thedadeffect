@@ -1,7 +1,7 @@
 ---
 title: "The Workaholic Dad: Recognizing the Pattern Before Your Kids Write You Off"
 description: "Work is never truly done. But your kids' childhood is a ticking clock. Learn the warning signs of workaholism and how to hit the reset button before it's too late."
-pubDate: 2026-03-08T18:00:00
+pubDate: "2026-03-08T18:00:00"
 categories: ["Work & Life Integration"]
 tags: ["work-life-balance", "fatherhood", "workaholism", "parenting", "career"]
 draft: false

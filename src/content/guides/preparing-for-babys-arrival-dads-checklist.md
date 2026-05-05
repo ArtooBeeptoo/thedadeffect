@@ -1,8 +1,10 @@
 ---
 title: "Preparing for Baby's Arrival: The Dad's Checklist for the Final Weeks"
-date: "2026-03-19"
-category: "Pregnancy for Dads"
 description: "The final countdown is on! Here’s a practical checklist for dads to get everything ready for the baby’s arrival, from car seats to mental prep."
+pubDate: "2026-03-19T12:00:00"
+categories: ["Pregnancy for Dads"]
+tags: ["dad", "parenting", "guide"]
+draft: false
 ---
 
 Real advice for real dads. No judgment, no lectures — just the stuff you actually need to know.

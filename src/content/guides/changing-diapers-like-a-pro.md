@@ -1,9 +1,10 @@
 ---
 title: "Changing Diapers Like a Pro: A Dad's Guide"
 description: "Master the art of diaper changing with this essential guide for new dads. Tips, tricks, and everything you need to know for a clean and happy baby."
-date: 2026-03-31
+pubDate: "2026-03-31T12:00:00"
+categories: ["Guides"]
 tags: ["New Dads", "Baby Care", "Diapers"]
-author: "The Dad Effect"
+draft: false
 ---
 
 # Changing Diapers Like a Pro: A Dad's Guide

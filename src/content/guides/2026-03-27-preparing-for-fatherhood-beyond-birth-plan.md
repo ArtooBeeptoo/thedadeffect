@@ -1,15 +1,10 @@
 ---
-title: Preparing for Fatherhood: Beyond the Birth Plan
-date: 2026-03-27
-description: The birth plan is just the beginning. Here's what real dads need to consider for the journey into fatherhood.
-author: Joe Casey
-tags:
-  - fatherhood
-  - newborn
-  - postpartum
-  - preparation
-  - dads
-  - parenting
+title: "Preparing for Fatherhood: Beyond the Birth Plan"
+description: "The birth plan is just the beginning. Here's what real dads need to consider for the journey into fatherhood."
+pubDate: "2026-03-27T12:00:00"
+categories: ["Guides"]
+tags: ["fatherhood", "newborn", "postpartum", "preparation", "dads", "parenting"]
+draft: false
 ---
 
 Becoming a dad is a massive shift, and while the birth plan gets a lot of attention, it's just the overture to the symphony of fatherhood. The real work — and the real joy — begins after the baby arrives. This guide is about what comes next, helping you prepare for the beautiful, chaotic, and utterly transformative experience of bringing a newborn home.

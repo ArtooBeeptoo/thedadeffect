@@ -1,8 +1,10 @@
 ---
 title: "Toddler Tantrums Survival Guide: Keeping Your Cool When They Lose Theirs"
 description: "Real advice for dads navigating the challenging world of toddler tantrums. Strategies for staying calm, de-escalating meltdowns, and teaching emotional regulation."
-date: 2026-05-05
+pubDate: "2026-05-05T12:00:00"
+categories: ["Guides"]
 tags: ["toddler", "tantrums", "parenting", "dadlife", "discipline"]
+draft: false
 ---
 
 # Toddler Tantrums Survival Guide: Keeping Your Cool When They Lose Theirs

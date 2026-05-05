@@ -1,9 +1,10 @@
 ---
 title: "The First 2 Weeks: Surviving Sleep Deprivation and Supporting Your Partner"
 description: "The baby is here! Now what? Your no-BS guide to the first two weeks — managing exhaustion, decoding newborn cries, and being the rock your partner needs."
-date: 2026-03-26
-category: "Pregnancy for Dads"
+pubDate: "2026-03-26T12:00:00"
+categories: ["Pregnancy for Dads"]
 tags: ["newborn", "postpartum", "sleep deprivation", "dad tips"]
+draft: false
 ---
 Real advice for real dads. No judgment, no lectures — just the stuff you actually need to know.
 

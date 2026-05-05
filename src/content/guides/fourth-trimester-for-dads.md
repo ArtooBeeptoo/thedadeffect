@@ -1,8 +1,10 @@
 ---
 title: "Fourth Trimester for Dads: Supporting Her and Surviving the Newborn Haze"
-date: 2026-04-02
-tags: ["Fourth Trimester", "Newborn", "Postpartum", "Dad Life"]
 description: "The 'fourth trimester' is real for dads too. Here's how to support your partner, bond with your newborn, and keep your sanity in the weeks after birth."
+pubDate: "2026-04-02T12:00:00"
+categories: ["Guides"]
+tags: ["Fourth Trimester", "Newborn", "Postpartum", "Dad Life"]
+draft: false
 ---
 
 Real advice for real dads. No judgment, no lectures — just the stuff you actually need to know.
