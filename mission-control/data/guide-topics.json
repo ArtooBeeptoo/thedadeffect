@@ -199,7 +199,7 @@
     "title": "Trust Is Human: Teaching Kids About Handshakes and Eye Contact",
     "slug": "trust-is-human",
     "category": "The Human Edge",
-    "description": "AI can fake a conversation. It can't fake presence. Why teaching your kids interpersonal trust-building is an investment in their future.",
+    "description": "AI can fake a conversation. It can't fake presence. Why teaching your kids interpersonal trust-building is an priceless investment in their future.",
     "used": true
   },
   {
@@ -859,10 +859,10 @@
     "used": true
   },
   {
-    "title": "How to Fight Better in Front of Your Kids",
+    "title": "How to Fight Fair When Kids Are Listening",
     "slug": "how-to-fight-fair-when-kids-are-listening",
     "category": "Marriage & Partnership",
-    "description": "You WILL disagree in front of your children. How you handle it is the lesson — make it a good one.",
+    "description": "Kids see everything. Teaching healthy conflict resolution by modeling it — disagreement without destruction.",
     "used": true
   },
   {
@@ -1170,6 +1170,7 @@
     "title": "Passing Down Values Without Passing Down Rules",
     "slug": "values-without-rules",
     "category": "Faith & Values",
+
 
 
 
@@ -1565,5 +1566,13 @@
     "description": "More than just snacks. How to get your kids comfortable in the kitchen, learn life skills, and make memories without chaos.",
     "used": true,
     "published": "2026-05-05"
+  },
+  {
+    "title": "Emergency Preparedness for Dads: Building a Family Go-Bag",
+    "slug": "emergency-go-bag-dads-guide",
+    "category": "Dad Skills",
+    "description": "From natural disasters to unexpected emergencies, a dad's guide to assembling a family go-bag that's actually useful, not just a pile of gear.",
+    "used": true,
+    "published": "2026-05-09"
   }
 ]
