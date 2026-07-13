@@ -5,7 +5,9 @@ import GuideLayout from '../../layouts/GuideLayout.astro';
 export async function getStaticPaths() {
   const guides = await getCollection('guides');
   return guides.map((guide) => ({
-    params: { id: guide.id },
+    // Astro 5's entry id retains the .md extension, which was emitting
+    // /guides/slug.md/ — a duplicate of /guides/slug/. Strip it.
+    params: { id: guide.id.replace(/\.md$/, '') },
     props: { guide },
   }));
 }

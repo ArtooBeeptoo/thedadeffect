@@ -9,6 +9,11 @@ interface Props {
 const { title, description = 'Stories of fathers who shaped history — and the ones shaping tomorrow.' } = Astro.props;
 const siteTitle = 'The Dad Effect';
 const pageTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
+
+// Canonical URL — one authoritative address per page. Without this, Google reports
+// "Duplicate without user-selected canonical" and drops the page from the index.
+const SITE = 'https://thedadeffect.com';
+const canonicalURL = new URL(Astro.url.pathname, SITE).href;
 ---
 
 <!DOCTYPE html>
@@ -22,23 +27,24 @@ const pageTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
   <meta property="og:title" content={pageTitle} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content={Astro.url} />
+  <meta property="og:url" content={canonicalURL} />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@DadEffect" />
+  <link rel="canonical" href={canonicalURL} />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="sitemap" href="/sitemap-index.xml" />
-  
+
   <!-- JSON-LD WebSite Schema -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "The Dad Effect",
     "description": "Stories of fathers who shaped history — and the ones shaping tomorrow.",
-    "url": "https://thedadeffect.pages.dev",
+    "url": SITE,
     "publisher": {
       "@type": "Organization",
       "name": "The Dad Effect",
-      "url": "https://thedadeffect.pages.dev",
+      "url": SITE,
       "sameAs": ["https://x.com/DadEffect"]
     }
   })} />

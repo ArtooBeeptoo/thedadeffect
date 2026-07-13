@@ -1,3 +1,11 @@
+---
+title: "Bob Marley: The Man Who Sang of Unity, But Left a Complicated Legacy"
+description: "He preached One Love to the whole world — but couldn't always give it at home. The story of the son Bob Marley was advised not to claim."
+pubDate: 2026-05-06T10:00:00
+categories: ["stories"]
+tags: ["cautionary-tales", "legacy", "music", "acknowledgement"]
+draft: false
+---
 
 ## When "One Love" Clashed with Reality
 

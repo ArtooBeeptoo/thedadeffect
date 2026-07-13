@@ -5,7 +5,9 @@ import StoryLayout from '../../layouts/StoryLayout.astro';
 export async function getStaticPaths() {
   const stories = await getCollection('stories');
   return stories.map((story) => ({
-    params: { id: story.id },
+    // Astro 5's entry id retains the .md extension, which was emitting
+    // /stories/slug.md/ — a duplicate of /stories/slug/. Strip it.
+    params: { id: story.id.replace(/\.md$/, '') },
     props: { story },
   }));
 }
