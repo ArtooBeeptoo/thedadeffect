@@ -161,6 +161,215 @@
       "era": "20th century",
       "hook": "The man who sang 'What's Going On' never got an answer from the one person who mattered.",
       "used": false
+    },
+    {
+      "title": "The Disinheritance Myth: Did Philip II Truly Cast Out His Son Alexander?",
+      "slug": "alexander-the-great-disinheritance-myth",
+      "category": "stories",
+      "era": "Ancient Greece",
+      "hook": "Before conquering the world, Alexander grappled with a tempestuous relationship with his father, Philip II, leading to whispers of disinheritance.",
+      "target_query": "What was the historical evidence for Philip II disinheriting Alexander",
+      "why_winnable": "While biographers often allude to a period of estrangement and potential disfavor, a specific, citable, and definitive source for Philip II formally 'disinheriting' Alexander is often fragmented or debated, lacking a clear, concise answer online.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "Lincoln's Unattended Farewell: The Silence at Thomas Lincoln's Grave",
+      "slug": "abraham-lincoln-fathers-funeral-absence",
+      "category": "stories",
+      "era": "19th century America",
+      "hook": "The towering figure of Abraham Lincoln carried the weight of a nation, but his relationship with his own father was marked by a conspicuous absence at his deathbed and funeral.",
+      "target_query": "Why did Abraham Lincoln not attend his father's funeral",
+      "why_winnable": "It is widely known that Lincoln did not attend, but the exact, citable reasons and contemporary explanations for his absence, beyond general familial strain, are often scattered across biographies and not readily available as a single, sourced answer.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "The Preacher and the Painter: How Theodorus van Gogh Judged His Son's Calling",
+      "slug": "vincent-van-gogh-father-art-career",
+      "category": "stories",
+      "era": "19th century Europe",
+      "hook": "Before his vibrant canvases captured the world's imagination, Vincent van Gogh sought approval, or at least understanding, from his stern pastor father.",
+      "target_query": "What was Theodorus van Gogh's specific reaction to Vincent choosing art",
+      "why_winnable": "General accounts note his father's disapproval, but finding specific, citable letters or direct quotes detailing Theodorus van Gogh's precise, documented reactions to Vincent's decision to become an artist, especially in its early stages, is challenging for a quick search.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "The Voyage and the Purse: Did Robert Darwin Fund His Son Charles's Beagle Expedition?",
+      "slug": "charles-darwin-father-beagle-funding",
+      "category": "stories",
+      "era": "19th century Europe",
+      "hook": "Charles Darwin's groundbreaking voyage on the Beagle almost didn't happen, dependent on the approval and financial backing of his formidable physician father.",
+      "target_query": "Did Robert Darwin initially oppose and then fund Charles Darwin's Beagle voyage",
+      "why_winnable": "While Robert Darwin's initial opposition is known, the specific details of his eventual financial contribution and the exact nature of his change of heart regarding the Beagle voyage are often generalized, lacking a direct, citable account from primary sources in readily accessible online content.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "From Strings to Stars: How Vincenzo Galilei's Music Experiments Shaped His Son Galileo",
+      "slug": "galileo-galilei-father-scientific-method",
+      "category": "stories",
+      "era": "Renaissance Italy",
+      "hook": "The father of modern science inherited more than just a name; Galileo's rigorous experimental method was profoundly influenced by his musician father's quantitative approach to sound.",
+      "target_query": "How did Vincenzo Galilei's musical experiments specifically influence Galileo's scientific method",
+      "why_winnable": "The connection between Vincenzo's empirical musical studies and Galileo's scientific approach is often stated generally, but a specific, citable breakdown of how his father's precise experimental methodologies directly translated and influenced Galileo's own scientific investigations is a nuanced historical point.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "The Poisoned Feast: The True Circumstances of Yesügei's Death and Temüjin's Descent into Hardship",
+      "slug": "genghis-khan-yesugei-death-details",
+      "category": "stories",
+      "era": "12th century Mongolia",
+      "hook": "The early, brutal death of Temüjin's father, Yesügei, flung his family into a desperate struggle for survival, forging the future Genghis Khan.",
+      "target_query": "What are the detailed historical accounts of Yesügei Baghatur's death and its immediate aftermath for Temüjin's family",
+      "why_winnable": "While Yesügei's poisoning is a known event, the precise, citable details of the ambush, the individuals involved, and the *immediate, documented consequences* for young Temüjin and his family are often summarized rather than detailed with specific primary source references in popular online historical accounts.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "A Father's Elusive Praise: Did Lord Randolph Ever Affirm Young Winston's Ambitions?",
+      "slug": "winston-churchill-father-praise",
+      "category": "stories",
+      "era": "Late 19th century Britain",
+      "hook": "The future Prime Minister deeply admired his distant father, Lord Randolph Churchill, but longed for a connection that often seemed just out of reach.",
+      "target_query": "Were there specific instances or letters where Lord Randolph Churchill praised Winston's early efforts",
+      "why_winnable": "The generally strained and distant relationship between Winston and his father is well-documented. However, finding specific, citable instances or quotes from Lord Randolph Churchill expressing direct approval or praise for young Winston's nascent political or literary aspirations is challenging and often noted for its absence.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "The Bastard Son and the Notary: Leonardo's Illegitimacy and Ser Piero's Provisions",
+      "slug": "leonardo-da-vinci-father-illegitimacy-support",
+      "category": "stories",
+      "era": "Renaissance Italy",
+      "hook": "Born out of wedlock, the prodigious Leonardo's early life and opportunities were shaped by the social conventions and the actions of his notary father.",
+      "target_query": "What were the documented legal or financial arrangements between Ser Piero da Vinci and Leonardo's mother",
+      "why_winnable": "While Leonardo's illegitimacy is a fundamental biographical fact, the precise, citable legal and financial arrangements or support provided by his biological father, Ser Piero, to Leonardo or his mother are often generalized in popular accounts, requiring deeper dives into specialized art historical and archival sources.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "From Michael to Martin: The Story Behind the Kings' Name Change",
+      "slug": "martin-luther-king-jr-father-name-change",
+      "category": "stories",
+      "era": "20th century America",
+      "hook": "A pivotal moment in civil rights history unfolded when both a father and son chose to embrace a new name, carrying the weight of a powerful legacy.",
+      "target_query": "When and why did Martin Luther King Sr. and Jr. change their names to Martin Luther",
+      "why_winnable": "It's common knowledge they changed their names, but the *specific date, exact motivations, and primary source documentation* detailing the process and reasoning for *both* the father and son adopting 'Martin Luther' is often presented as a general inspiration rather than a precisely documented event with citable details.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "The Grim Harvest: Unraveling the True Story of Mikhail Dostoevsky's Demise",
+      "slug": "fyodor-dostoevsky-father-death-mystery",
+      "category": "stories",
+      "era": "19th century Russia",
+      "hook": "The dark shadow of his father's mysterious death, rumored to be at the hands of his own serfs, haunted Fyodor Dostoevsky and fueled his literary masterpieces.",
+      "target_query": "What are the confirmed facts and investigations surrounding Mikhail Dostoevsky's alleged murder by his serfs",
+      "why_winnable": "The legend of Mikhail Dostoevsky's murder is famous, but the *verifiable facts, contemporary official investigations, and the extent to which the rumors were confirmed or refuted* are often mired in biographical speculation and vary across sources, lacking a single definitive online answer.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "Leopold's Lullabies and Lessons: The Specific Pedagogy Behind Mozart's Genius",
+      "slug": "wolfgang-amadeus-mozart-leopold-pedagogy",
+      "category": "stories",
+      "era": "18th century Europe",
+      "hook": "Behind the dazzling prodigy lay the relentless, structured teaching of his father, Leopold, whose methods meticulously crafted a musical legend.",
+      "target_query": "What specific musical pedagogical methods did Leopold Mozart employ to teach young Wolfgang",
+      "why_winnable": "Leopold's role as Wolfgang's teacher is central, but finding a *detailed, citable account* of his *specific pedagogical methods* (e.g., beyond just 'he taught him music,' what specific exercises, instruments, daily routine, or theoretical approaches) in a concise, easily citable format online is often difficult, as biographies tend to focus on outcomes rather than granular teaching practices.",
+      "source": "gemini",
+      "used": false
+    },
+    {
+      "title": "Shakespeare’s Silent Son: How Hamnet’s Death Rewrote the Father in the Plays",
+      "slug": "shakespeare-and-hamnet",
+      "category": "stories",
+      "era": "Elizabethan England",
+      "hook": "The only son’s early death left a documented void that scholars trace through the late plays’ recurring fathers and lost boys.",
+      "target_query": "shakespeare son hamnet death records",
+      "why_winnable": "Primary records exist but remain scattered across parish registers and biographical footnotes with no single sourced article tying the documented facts to fatherhood themes.",
+      "source": "grok",
+      "used": false
+    },
+    {
+      "title": "Gandhi’s Eldest Son: The Break That Never Healed",
+      "slug": "gandhi-and-harilal",
+      "category": "stories",
+      "era": "20th century India / South Africa",
+      "hook": "Harilal’s repeated public rejections of his father are preserved in letters and court filings that still lack a consolidated factual account.",
+      "target_query": "harilal gandhi letters to father",
+      "why_winnable": "Scattered archival letters and contemporary newspaper reports exist but no single citable page assembles the documented estrangement timeline.",
+      "source": "grok",
+      "used": false
+    },
+    {
+      "title": "Benjamin Franklin’s Loyalist Son: The Father Who Signed the Declaration Anyway",
+      "slug": "benjamin-franklin-and-william",
+      "category": "stories",
+      "era": "18th century America",
+      "hook": "William’s arrest and lifelong exile after refusing to join the Revolution is recorded in colonial correspondence yet rarely examined as paternal rupture.",
+      "target_query": "william franklin relationship with benjamin franklin",
+      "why_winnable": "Colonial Office papers and Franklin’s own letters exist but remain dispersed without a focused sourced narrative on the father-son political split.",
+      "source": "grok",
+      "used": false
+    },
+    {
+      "title": "Tolstoy’s Thirteen Living Children and the Estate War They Inherited",
+      "slug": "leo-tolstoy-children",
+      "category": "stories",
+      "era": "19th–20th century Russia",
+      "hook": "Tolstoy’s diaries and his wife’s letters document the precise inheritance battles among the thirteen children who survived infancy.",
+      "target_query": "leo tolstoy how many children survived",
+      "why_winnable": "Diaries and legal documents are public but no single article collates the verified birth and death counts with the documented family conflict.",
+      "source": "grok",
+      "used": false
+    },
+    {
+      "title": "Nelson Mandela’s Prison Letters to His Children",
+      "slug": "nelson-mandela-children-letters",
+      "category": "stories",
+      "era": "20th century South Africa",
+      "hook": "The 1969–1990 letters to his daughters and son, now published, detail a father attempting to parent across decades of separation.",
+      "target_query": "nelson mandela letters to children",
+      "why_winnable": "The letters are public in archival collections but have not been distilled into one citable article on the documented fatherhood experience.",
+      "source": "grok",
+      "used": false
+    },
+    {
+      "title": "Einstein’s Forgotten Son: The Institutionalized Heir",
+      "slug": "albert-einstein-and-eduard",
+      "category": "stories",
+      "era": "20th century Europe",
+      "hook": "Eduard’s psychiatric records and Einstein’s preserved correspondence document the precise decisions that distanced the father from his younger son.",
+      "target_query": "eduard einstein relationship with father",
+      "why_winnable": "Medical and family letters survive in Swiss archives but remain unassembled into a single sourced account of the documented estrangement.",
+      "source": "grok",
+      "used": false
+    },
+    {
+      "title": "Hans Luther: The Miner Father Who Opposed the Reformation",
+      "slug": "hans-luther-and-martin",
+      "category": "stories",
+      "era": "16th century Germany",
+      "hook": "Hans’s documented threats to disinherit Martin and Martin’s later recollections reveal the precise paternal resistance to the monk’s vocation.",
+      "target_query": "hans luther reaction to martin luther",
+      "why_winnable": "Martin’s own writings and contemporary records exist but lack a consolidated citable narrative centered on the father-son conflict.",
+      "source": "grok",
+      "used": false
+    },
+    {
+      "title": "George Washington: The Father of a Country Who Had No Children of His Own",
+      "slug": "george-washington-stepfather",
+      "category": "stories",
+      "era": "18th century America",
+      "hook": "The nation's father never fathered a child — he raised Martha's, and buried one of them.",
+      "target_query": "did george washington have any biological children",
+      "why_winnable": "",
+      "source": "grok",
+      "used": false
     }
   ]
 }

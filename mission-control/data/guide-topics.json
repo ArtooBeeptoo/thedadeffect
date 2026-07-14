@@ -1170,10 +1170,6 @@
     "title": "Passing Down Values Without Passing Down Rules",
     "slug": "values-without-rules",
     "category": "Faith & Values",
-
-
-
-
     "description": "Rules without values create kids who follow rules only when someone's watching. Values without rules create kids who build their own principles. Aim for the second one.",
     "used": true
   },
@@ -1574,5 +1570,95 @@
     "description": "From natural disasters to unexpected emergencies, a dad's guide to assembling a family go-bag that's actually useful, not just a pile of gear.",
     "used": true,
     "published": "2026-05-09"
+  },
+  {
+    "title": "How can I explain divorce to a preschooler without causing anxiety?",
+    "slug": "explain-divorce-preschooler-anxiety",
+    "category": "Communication",
+    "description": "This guide provides age-appropriate language and strategies for discussing parental separation with young children to minimize emotional distress.",
+    "target_query": "What specific phrases and steps should I use to explain divorce to a 3-5 year old",
+    "source": "gemini",
+    "used": false
+  },
+  {
+    "title": "What is the 'time-in' discipline strategy and how does it differ from 'time-out'?",
+    "slug": "time-in-vs-time-out-discipline",
+    "category": "Discipline",
+    "description": "Understand the core principles and practical application of the 'time-in' approach to discipline, contrasting it with traditional 'time-out' methods.",
+    "target_query": "Define time-in discipline and compare its effectiveness and methods to time-out for toddlers",
+    "source": "gemini",
+    "used": false
+  },
+  {
+    "title": "Can paternal postpartum depression be diagnosed using the Edinburgh Postnatal Depression Scale?",
+    "slug": "paternal-postpartum-depression-epds-diagnosis",
+    "category": "Mental Health",
+    "description": "Explore the applicability and limitations of the Edinburgh Postnatal Depression Scale (EPDS) as a screening tool for depression in new fathers.",
+    "target_query": "Is the EPDS valid for diagnosing paternal postpartum depression in fathers",
+    "source": "gemini",
+    "used": false
+  },
+  {
+    "title": "At what age do children typically develop object permanence according to Piaget?",
+    "slug": "piaget-object-permanence-age",
+    "category": "Child Development",
+    "description": "Learn about Jean Piaget's stages of cognitive development and the typical age range when infants achieve object permanence.",
+    "target_query": "When does object permanence develop in infants according to Jean Piaget's theory",
+    "source": "gemini",
+    "used": false
+  },
+  {
+    "title": "What is the 'wake window' concept for infant sleep and how do I calculate it?",
+    "slug": "infant-wake-window-calculation",
+    "category": "Sleep",
+    "description": "Demystify the 'wake window' concept for infant sleep and get clear instructions on how to determine the ideal awake periods for your baby.",
+    "target_query": "How to calculate wake windows for baby sleep by age",
+    "source": "gemini",
+    "used": false
+  },
+  {
+    "title": "What are the current AAP guidelines for screen time for toddlers aged 18-24 months?",
+    "slug": "aap-screen-time-guidelines-toddlers",
+    "category": "Health & Safety",
+    "description": "Get the definitive American Academy of Pediatrics recommendations for screen exposure in toddlers aged 18 to 24 months.",
+    "target_query": "What are the American Academy of Pediatrics screen time recommendations for 18-24 month olds",
+    "source": "gemini",
+    "used": false
+  },
+  {
+    "title": "How does the Montessori method encourage independent learning in elementary school children?",
+    "slug": "montessori-independent-learning-elementary",
+    "category": "Education",
+    "description": "Discover the specific components of the Montessori educational philosophy that foster self-directed learning in children aged 6-12.",
+    "target_query": "Specific Montessori principles that promote independence in elementary students",
+    "source": "gemini",
+    "used": false
+  },
+  {
+    "title": "What constitutes 'parallel parenting' and when is it recommended over co-parenting?",
+    "slug": "parallel-parenting-vs-co-parenting",
+    "category": "Co-Parenting",
+    "description": "Understand the definition and appropriate scenarios for implementing a parallel parenting approach, especially in high-conflict separation cases.",
+    "target_query": "Define parallel parenting and when is it better than co-parenting for divorced parents",
+    "source": "gemini",
+    "used": false
+  },
+  {
+    "title": "What are the developmental benefits of 'rough and tumble play' for school-aged boys?",
+    "slug": "rough-and-tumble-play-benefits-boys",
+    "category": "Play & Engagement",
+    "description": "Explore the documented psychological, social, and physical developmental advantages of rough and tumble play for elementary school-aged boys.",
+    "target_query": "Documented benefits of rough and tumble play for child development",
+    "source": "gemini",
+    "used": false
+  },
+  {
+    "title": "What are the tax implications of contributing to a 529 plan for a child's education?",
+    "slug": "529-plan-tax-implications-contributions",
+    "category": "Financial Planning",
+    "description": "This guide breaks down the federal and state tax benefits and considerations associated with contributing to a 529 college savings plan.",
+    "target_query": "Federal and state income tax benefits for 529 plan contributions",
+    "source": "gemini",
+    "used": false
   }
 ]
