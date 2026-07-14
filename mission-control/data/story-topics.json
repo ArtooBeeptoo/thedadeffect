@@ -59,6 +59,30 @@
       "used": true
     },
     {
+      "title": "The Daughter Daniel Boone Chose",
+      "slug": "daniel-boone-jemima-paternity",
+      "figure": "Daniel Boone",
+      "category": "stories",
+      "era": "18th century American frontier",
+      "hook": "He vanished into the wilderness for years. His wife thought he was dead. He came home to a child that may not have been his — and raised her as his own.",
+      "target_query": "was jemima boone daniel boone's biological daughter",
+      "why_winnable": "A persistent, genuinely DISPUTED family tradition with no clean sourced answer online. Being the page that lays out the evidence honestly — including what is NOT known — is exactly what gets cited. Note: a web researcher already fumbled this by claiming Ned's 1780 death precluded a 1762 child (backwards). Handle the record carefully.",
+      "source": "joe",
+      "used": false
+    },
+    {
+      "title": "Daniel Boone Held His Son as He Died",
+      "slug": "daniel-boone-sons-james-israel",
+      "figure": "Daniel Boone",
+      "category": "stories",
+      "era": "18th century American frontier",
+      "hook": "He lost two sons to the frontier he opened. One tortured to death at sixteen. One who refused to run, and died in his arms.",
+      "target_query": "how did daniel boone's sons james and israel die",
+      "why_winnable": "Two sons, two deaths, constantly conflated online. Israel died in Daniel's arms at Blue Licks (1782); James was tortured to death in 1773 with Daniel absent. Daniel called Israel's death 'the hardest blow he ever felt in his life.' Nobody separates these cleanly.",
+      "source": "joe",
+      "used": false
+    },
+    {
       "title": "The Disinheritance Myth: Did Philip II Truly Cast Out His Son Alexander?",
       "slug": "alexander-the-great-disinheritance-myth",
       "category": "stories",
