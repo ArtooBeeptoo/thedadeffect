@@ -1,6 +1,7 @@
 ---
 title: "Postpartum Depression for Dads: What Nobody Tells You"
-description: "You're a new dad, and you feel… off. More irritable, less interested, tired to your bones. It might be paternal postpartum depression, and it's more common than you think. Here's how to spot it and what to do."
+seoTitle: "Can Dads Get Postpartum Depression? Yes — The Science"
+description: "Paternal postpartum depression is real, measurable, and hits roughly 1 in 10 fathers. The signs, the science, and what actually helps."
 pubDate: "2026-02-24T10:00:00"
 categories: ["Early Parenthood"]
 tags: ["PPD", "dad-mental-health", "postpartum", "new-dad", "support"]

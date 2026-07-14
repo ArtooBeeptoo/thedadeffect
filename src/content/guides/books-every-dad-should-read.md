@@ -1,6 +1,7 @@
 ---
 title: "Books Every Dad Should Read"
-description: "The ultimate reading list for dads — from expecting fathers to seasoned veterans. History, humor, hard truths, and everything in between."
+seoTitle: "Best Books for Dads: The Ones That Actually Change You"
+description: "Not a listicle. The books that genuinely rewire how you father — on presence, discipline, marriage, and the long game. Read these, skip the rest."
 pubDate: "2026-02-08T08:00:00"
 categories: ["Dad Skills"]
 tags: ["books", "reading", "fatherhood", "dad books", "parenting books"]

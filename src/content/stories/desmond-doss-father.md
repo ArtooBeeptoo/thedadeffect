@@ -1,6 +1,7 @@
 ---
 title: "Desmond Doss: The Father Who Never Raised a Weapon"
-description: "The only conscientious objector to win the Medal of Honor saved 75 men without firing a shot—then taught his son that courage doesn't require violence."
+seoTitle: "Did Desmond Doss Hit His Brother With a Brick? What Happened"
+description: "Yes — and it changed everything. The childhood moment that made Desmond Doss vow never to hold a weapon, and the father whose own violence set it in motion."
 pubDate: 2026-03-25T10:00:00
 categories: ["stories"]
 tags: ["historical-dads", "wwii", "conviction", "faith"]

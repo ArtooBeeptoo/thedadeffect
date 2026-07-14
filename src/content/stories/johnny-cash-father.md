@@ -1,6 +1,7 @@
 ---
 title: "Johnny Cash: The Man in Black Who Almost Lost Everything"
-description: "A legend who chose pills over his children — until June Carter pulled him back. The story of a father's darkest years and his long road to redemption."
+seoTitle: "Johnny Cash's Drug Addiction: The Pills, and the Way Back"
+description: "Amphetamines to stay awake, barbiturates to come down. What Johnny Cash was really addicted to, how June Carter pulled him out, and the father his children finally got back."
 pubDate: 2026-03-18T10:00:00
 categories: ["stories"]
 tags: ["cautionary-tales", "addiction", "redemption", "country-music"]

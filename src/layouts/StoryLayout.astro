@@ -7,7 +7,9 @@ interface Props {
 }
 
 const { story } = Astro.props;
-const { title, description, pubDate, categories, tags } = story.data;
+const { title, seoTitle, description, pubDate, categories, tags } = story.data;
+// searchTitle feeds <title>/og/schema; the visible <h1> below still uses `title`.
+const searchTitle = seoTitle ?? title;
 
 function readingTime(text: string): number {
   return Math.ceil(text.split(/\s+/).length / 200);
@@ -22,7 +24,7 @@ const canonicalURL = new URL(Astro.url.pathname, SITE).href;
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": title,
+  "headline": searchTitle,
   "description": description,
   "datePublished": pubDate.toISOString(),
   "dateModified": pubDate.toISOString(),
@@ -50,7 +52,7 @@ const breadcrumbSchema = {
 };
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={searchTitle} description={description}>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <div class="container">

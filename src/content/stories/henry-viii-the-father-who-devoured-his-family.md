@@ -1,6 +1,7 @@
 ---
 title: "Henry VIII: The Father Who Devoured His Family"
-description: "Henry VIII wanted a son so badly he destroyed two wives, traumatized three children, and split an entire church. All three of his kids became monarchs — and spent their reigns undoing his damage."
+seoTitle: "Henry VIII as a Father: What He Did to His Own Children"
+description: "Three children, three mothers, one father who declared two of them illegitimate. What Henry VIII's fatherhood cost Mary, Elizabeth, and Edward."
 pubDate: 2026-02-02T19:00:00
 categories: ["Lessons Learned"]
 tags: ["fatherhood", "HeroDadMonday", "FatherhoodLessons", "BreakTheCycle", "HistoricalDads", "HenryVIII"]

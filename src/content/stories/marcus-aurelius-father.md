@@ -1,6 +1,7 @@
 ---
 title: "Marcus Aurelius: The Philosopher-Emperor Who Wrote Letters to His Sons"
-description: "The most powerful man in the world wrote private notes on how to be a good person—then watched his son become everything he'd feared."
+seoTitle: "How Many Children Did Marcus Aurelius Have? 13, With Sources"
+description: "Marcus Aurelius fathered thirteen children and buried most of them. The sourced record of who they were, which survived, and the son — Commodus — who undid everything."
 pubDate: 2026-03-11T10:00:00
 categories: ["stories"]
 tags: ["historical-dads", "ancient-rome", "philosophy", "stoicism"]

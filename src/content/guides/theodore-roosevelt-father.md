@@ -1,6 +1,7 @@
 ---
 title: "Theodore Roosevelt: The President Who Made Fatherhood His Greatest Legacy"
-description: "TR ran the country. But inside the White House, he was just another member of the gang."
+seoTitle: "Theodore Roosevelt as a Father: The Letters to His Children"
+description: "He ran the country and still wrote his kids illustrated letters from the White House. What Theodore Roosevelt's fatherhood actually looked like, in his own words."
 pubDate: "2026-02-17T10:00:00"
 categories: ["stories"]
 tags: ["historical-dads", "theodore-roosevelt", "fatherhood", "leadership", "work-life-balance"]

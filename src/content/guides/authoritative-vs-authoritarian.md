@@ -1,6 +1,7 @@
 ---
 title: "Authoritative vs. Authoritarian Parenting: What the Research Says"
-description: "One produces confident, well-adjusted adults. The other produces compliance — and sometimes anxiety. The data is clear."
+seoTitle: "Authoritative vs Authoritarian Parenting: The Difference"
+description: "One word apart, opposite outcomes. The real difference between authoritative and authoritarian parenting — and which one raises kids who trust you."
 pubDate: "2026-03-18T12:00:00"
 categories: ["Parenting Philosophy"]
 tags: ["parenting-style", "discipline", "research", "child-development"]

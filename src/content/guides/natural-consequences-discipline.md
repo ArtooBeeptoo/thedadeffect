@@ -1,6 +1,7 @@
 ---
 title: "Natural Consequences: The Discipline Method That Actually Works"
-description: "Stop fighting with your kid over everything. Let reality do the teaching. Here's how natural consequences work — and when to get out of the way."
+seoTitle: "Natural Consequences: Examples, and vs Punishment"
+description: "What natural consequences actually are, with real examples — and why they outperform punishment for teaching kids to think."
 pubDate: "2026-03-27T00:00:00"
 categories: ["Discipline & Guidance"]
 tags: ["discipline", "natural-consequences", "parenting-strategy", "toddler", "teaching"]

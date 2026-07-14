@@ -7,7 +7,8 @@ interface Props {
 }
 
 const { guide } = Astro.props;
-const { title, description, pubDate, categories, tags } = guide.data;
+const { title, seoTitle, description, pubDate, categories, tags } = guide.data;
+const searchTitle = seoTitle ?? title;
 
 function readingTime(text: string): number {
   return Math.ceil(text.split(/\s+/).length / 200);
@@ -21,7 +22,7 @@ const canonicalURL = new URL(Astro.url.pathname, SITE).href;
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": title,
+  "headline": searchTitle,
   "description": description,
   "datePublished": pubDate.toISOString(),
   "dateModified": pubDate.toISOString(),
@@ -54,7 +55,7 @@ const breadcrumbSchema = {
 };
 ---
 
-<BaseLayout title={`${title} | Dad Guides`} description={description}>
+<BaseLayout title={`${searchTitle} | Dad Guides`} description={description}>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <div class="container">

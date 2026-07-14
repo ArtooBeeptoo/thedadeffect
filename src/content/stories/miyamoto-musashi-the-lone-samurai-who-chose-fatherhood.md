@@ -1,6 +1,7 @@
 ---
 title: "The Lone Samurai Who Chose Fatherhood"
-description: "Miyamoto Musashi was undefeated in 61 duels and spent his life in total solitude. Then he found a lost boy named Iori — and the greatest swordsman in Japanese history chose something harder than fighting."
+seoTitle: "Miyamoto Musashi's Children: The Samurai Who Adopted Sons"
+description: "Japan's greatest swordsman never married — but he chose fatherhood anyway. The adopted sons of Miyamoto Musashi, and what he passed to them."
 pubDate: 2026-02-03T17:09:00
 categories: ["Historical Heroes"]
 tags: ["fatherhood", "TuesdayTruth", "DadStories", "MiyamotoMusashi", "Adoption", "FatherhoodByChoice", "Samurai"]

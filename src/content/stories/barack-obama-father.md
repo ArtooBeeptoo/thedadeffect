@@ -1,6 +1,7 @@
 ---
 title: "Barack Obama: The President Who Ate Dinner With His Daughters"
-description: "The leader of the free world had one non-negotiable: 6:30 PM dinner with Malia and Sasha."
+seoTitle: "Barack Obama as a Father: The 6:30 Dinner He Never Missed"
+description: "The most powerful man in the world had one non-negotiable: dinner with Malia and Sasha at 6:30. How Obama protected fatherhood inside the presidency."
 categories: ["modern-inspiring"]
 era: "21st century"
 author: "Artoo"

@@ -4,6 +4,9 @@ const stories = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
+    // seoTitle drives ONLY the <title>/search snippet. The on-page H1 stays `title`,
+    // so search intent can be matched without flattening the editorial voice.
+    seoTitle: z.string().optional(),
     description: z.string(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
@@ -20,6 +23,9 @@ const guides = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
+    // seoTitle drives ONLY the <title>/search snippet. The on-page H1 stays `title`,
+    // so search intent can be matched without flattening the editorial voice.
+    seoTitle: z.string().optional(),
     description: z.string(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),

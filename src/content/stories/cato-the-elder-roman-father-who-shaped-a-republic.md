@@ -1,6 +1,7 @@
 ---
 title: "The Roman Senator Who Raised His Own Son"
-description: "In an era when wealthy Romans handed their children to tutors and slaves, Cato the Elder did something radical — he taught his son everything himself, from reading to fighting to swimming in rough water."
+seoTitle: "Marcus Porcius Cato the Elder: The Father Who Taught His Son"
+description: "The Roman senator who refused to hand his son to a tutor — and taught the boy to read, swim, and fight himself. What Cato the Elder understood about fatherhood."
 pubDate: 2026-02-03T15:00:00
 categories: ["Historical Heroes"]
 tags: ["fatherhood", "TuesdayTruth", "DadStories", "HistoricalDads", "CatoTheElder", "AncientRome"]

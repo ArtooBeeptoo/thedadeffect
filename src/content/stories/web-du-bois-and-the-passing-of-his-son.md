@@ -1,6 +1,7 @@
 ---
 title: "W.E.B. Du Bois and the Passing of His Son"
-description: "One of America's greatest minds lost his infant son to illness in 1899. What he wrote afterward became one of the most devastating pieces about fatherhood ever penned."
+seoTitle: "W.E.B. Du Bois' Son Burghardt: How He Died, and Why"
+description: "Burghardt Du Bois, Jr. died at 18 months in segregated Atlanta, turned away from care. The death that shaped his father's grief — and his fury."
 pubDate: 2026-02-04
 categories: ["Historical Heroes"]
 tags: ["fatherhood", "DadEffect", "FatherhoodStories", "WEBDuBois", "GriefAndGrowth"]
